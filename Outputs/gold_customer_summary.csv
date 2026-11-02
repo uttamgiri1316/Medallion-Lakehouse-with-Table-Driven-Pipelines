@@ -1,0 +1,873 @@
+customer_id,customer_name,state,total_orders,total_revenue,first_order_date,last_order_date,customer_tier
+C10521,Tejas Rao,Telangana,1,90093.6,2026-05-23,2026-05-23,Silver
+C10411,Nisha Bhat,Gujarat,4,27444.75,2026-05-27,2026-10-11,Silver
+C10081,Kavya Desai,Delhi,2,24910.95,2026-04-09,2026-06-26,Bronze
+C10061,Neha Pawar,Delhi,2,20179.2,2026-01-17,2026-02-26,Bronze
+C10508,Neha Joshi,Karnataka,2,38924.5,2026-02-24,2026-04-30,Silver
+C10401,Arun Reddy,Karnataka,3,54107.4,2026-04-19,2026-09-17,Silver
+C10116,Gauri Chavan,Gujarat,2,24674.85,2026-01-03,2026-08-14,Bronze
+C10351,Nikhil Reddy,Tamil Nadu,2,44533.3,2026-07-23,2026-10-26,Silver
+C10937,Anjali Sharma,Maharashtra,2,87326.05,2026-02-15,2026-07-18,Silver
+C10206,Gauri Kulkarni,Tamil Nadu,2,5488.45,2026-05-14,2026-10-02,Bronze
+C10385,Lakshmi Pawar,Maharashtra,1,57796.0,2026-01-30,2026-01-30,Silver
+C10857,Manish Joshi,Karnataka,1,7120.25,2026-07-05,2026-07-05,Bronze
+C10328,Priya Iyer,Gujarat,2,18386.15,2026-05-18,2026-08-12,Bronze
+C10612,Aditya Iyer,Karnataka,1,18318.4,2026-08-28,2026-08-28,Bronze
+C10269,Manish Patil,Tamil Nadu,2,63816.2,2026-03-10,2026-07-04,Silver
+C10474,Sneha Joshi,Karnataka,1,4039.0,2026-03-31,2026-03-31,Bronze
+C10131,Priya Shah,Karnataka,5,64183.55,2026-05-04,2026-08-25,Silver
+C10173,Priya Kulkarni,Karnataka,2,47244.2,2026-06-11,2026-09-02,Silver
+C10695,Pranav Reddy,Karnataka,1,11778.1,2026-05-26,2026-05-26,Bronze
+C10721,Rahul Menon,Delhi,1,38435.3,2026-01-31,2026-01-31,Silver
+C10410,Ananya Rao,Maharashtra,1,6442.15,2026-04-04,2026-04-04,Bronze
+C10207,Omkar Nair,Tamil Nadu,2,93439.1,2026-02-03,2026-02-15,Silver
+C10051,Diya Mehta,Tamil Nadu,1,24019.0,2026-10-22,2026-10-22,Bronze
+C10961,Neha Mehta,Gujarat,1,2149.65,2026-08-08,2026-08-08,Bronze
+C10886,Priya Desai,Telangana,1,18079.0,2026-05-19,2026-05-19,Bronze
+C10705,Ketan Patil,Maharashtra,3,35055.0,2026-04-21,2026-09-11,Silver
+C10817,Ganesh Kulkarni,Tamil Nadu,3,31190.5,2026-03-18,2026-07-04,Silver
+C10905,Manish Menon,Maharashtra,2,52022.55,2026-04-11,2026-06-12,Silver
+C10095,Sameer Gupta,Telangana,2,29072.4,2026-06-09,2026-08-18,Silver
+C10677,Sameer Nair,Gujarat,1,1599.2,2026-10-12,2026-10-12,Bronze
+C10067,Amit Nair,Telangana,1,2200.65,2026-10-02,2026-10-02,Bronze
+C10517,Gauri Reddy,Gujarat,3,43654.2,2026-01-16,2026-07-10,Silver
+C10257,Swati Reddy,Telangana,2,28403.5,2026-04-29,2026-06-23,Silver
+C10294,Anjali Iyer,Karnataka,2,66181.0,2026-08-26,2026-09-16,Silver
+C10231,Kavya Singh,Telangana,2,55585.0,2026-02-04,2026-04-08,Silver
+C10063,Aarav Pawar,Telangana,1,12069.0,2026-03-10,2026-03-10,Bronze
+C10187,Riya Gupta,Telangana,1,9418.0,2026-03-08,2026-03-08,Bronze
+C10310,Komal Bhat,Maharashtra,1,35613.6,2026-07-06,2026-07-06,Silver
+C10617,Priya Pillai,Maharashtra,3,37611.35,2026-03-27,2026-09-21,Silver
+C10454,Pooja Menon,Telangana,1,20965.5,2026-04-16,2026-04-16,Bronze
+C10365,Aarav Iyer,Maharashtra,6,41193.2,2026-02-04,2026-07-13,Silver
+C10874,Pallavi Patil,Karnataka,3,35183.2,2026-01-17,2026-08-07,Silver
+C10492,Anjali Patil,Tamil Nadu,1,2418.0,2026-02-01,2026-02-01,Bronze
+C10487,Arun Verma,Maharashtra,4,100799.95,2026-02-19,2026-10-16,Gold
+C10670,Sahil Gupta,Maharashtra,2,39649.0,2026-01-27,2026-07-12,Silver
+C10540,Riya Verma,Karnataka,1,4139.0,2026-08-16,2026-08-16,Bronze
+C10713,Vivaan Jadhav,Telangana,3,59733.8,2026-06-09,2026-09-11,Silver
+C10900,Amit Patil,Delhi,1,37456.95,2026-05-04,2026-05-04,Silver
+C10702,Nisha Pillai,Maharashtra,1,7356.0,2026-08-10,2026-08-10,Bronze
+C10127,Divya Pillai,Maharashtra,5,105704.15,2026-04-21,2026-10-07,Gold
+C10120,Diya Mehta,Maharashtra,4,167270.4,2026-04-27,2026-10-17,Gold
+C10944,Ananya Pawar,Maharashtra,1,31244.4,2026-03-18,2026-03-18,Silver
+C10016,Anjali Bhat,Telangana,1,20938.0,2026-02-28,2026-02-28,Bronze
+C10595,Ganesh Iyer,Tamil Nadu,3,45255.0,2026-01-11,2026-09-17,Silver
+C10166,Pooja Bhat,Tamil Nadu,4,65796.95,2026-07-20,2026-10-19,Silver
+C10349,Tanvi Iyer,Telangana,2,14161.2,2026-04-26,2026-05-19,Bronze
+C10922,Yash Reddy,Telangana,2,10158.65,2026-07-17,2026-09-10,Bronze
+C10520,Pranav Kulkarni,Telangana,6,134570.05,2026-01-14,2026-08-21,Gold
+C10698,Lakshmi Pawar,Tamil Nadu,2,11887.0,2026-03-21,2026-08-09,Bronze
+C10611,Kunal Reddy,Karnataka,1,50238.0,2026-04-11,2026-04-11,Silver
+C10538,Nisha Verma,Gujarat,1,57992.4,2026-05-11,2026-05-11,Silver
+C10372,Omkar Verma,Karnataka,1,5794.05,2026-09-28,2026-09-28,Bronze
+C10442,Isha Bhat,Delhi,7,176453.5,2026-02-12,2026-10-13,Gold
+C10954,Sahil Gupta,Telangana,2,104930.7,2026-05-20,2026-09-19,Gold
+C10393,Lakshmi Patil,Gujarat,1,7306.2,2026-02-26,2026-02-26,Bronze
+C10040,Suresh Verma,Karnataka,2,21826.8,2026-03-19,2026-08-18,Bronze
+C10873,Komal Chavan,Maharashtra,3,23381.3,2026-07-15,2026-10-13,Bronze
+C10042,Swati Sharma,Gujarat,2,86981.4,2026-02-12,2026-04-10,Silver
+C10350,Mrunal Joshi,Maharashtra,1,130245.0,2026-04-22,2026-04-22,Gold
+C10147,Meera Chavan,Karnataka,1,895.2,2026-02-12,2026-02-12,Bronze
+C10296,Anjali Patil,Gujarat,2,9254.0,2026-02-22,2026-03-22,Bronze
+C10870,Ananya Rao,Karnataka,1,43796.0,2026-07-03,2026-07-03,Silver
+C10392,Priya Bhat,Tamil Nadu,2,85684.75,2026-05-24,2026-10-23,Silver
+C10221,Akash Singh,Tamil Nadu,2,9285.15,2026-01-13,2026-10-05,Bronze
+C10193,Gauri Chavan,Tamil Nadu,1,4879.2,2026-06-17,2026-06-17,Bronze
+C10726,Riya Pillai,Karnataka,1,1299.0,2026-04-07,2026-04-07,Bronze
+C10012,Amit Reddy,Gujarat,2,44286.0,2026-05-26,2026-05-29,Silver
+C10108,Tanvi Menon,Karnataka,2,27708.0,2026-04-20,2026-10-24,Silver
+C10742,Tanvi Iyer,Maharashtra,2,14487.0,2026-03-12,2026-04-09,Bronze
+C10892,Omkar Pawar,Gujarat,3,53618.15,2026-01-05,2026-07-30,Silver
+C10559,Suresh Joshi,Maharashtra,2,28110.3,2026-06-09,2026-10-15,Silver
+C10771,Amit Reddy,Maharashtra,4,88244.8,2026-01-01,2026-10-22,Silver
+C10984,Siddharth Mehta,Gujarat,1,22265.75,2026-05-13,2026-05-13,Bronze
+C10034,Varun Menon,Karnataka,2,51146.4,2026-03-10,2026-10-04,Silver
+C10270,Isha Reddy,Karnataka,3,79816.0,2026-07-12,2026-09-25,Silver
+C10655,Kavya Joshi,Maharashtra,2,17148.6,2026-03-09,2026-05-07,Bronze
+C10666,Harsh Mehta,Gujarat,3,7816.15,2026-01-11,2026-05-30,Bronze
+C10550,Varun Joshi,Gujarat,2,94923.1,2026-08-24,2026-10-02,Silver
+C10417,Rahul Menon,Maharashtra,2,28211.1,2026-06-26,2026-09-06,Silver
+C10167,Aditya Rao,Maharashtra,1,50036.0,2026-09-15,2026-09-15,Silver
+C10620,Deepa Pillai,Telangana,2,46935.0,2026-03-19,2026-04-11,Silver
+C10669,Rohan Gupta,Maharashtra,2,16991.05,2026-06-17,2026-08-02,Bronze
+C10746,Aarav Pillai,Delhi,2,10503.45,2026-04-06,2026-04-18,Bronze
+C10994,Shruti Pawar,Maharashtra,3,126895.9,2026-06-26,2026-09-22,Gold
+C10263,Lakshmi Nair,Gujarat,3,44833.2,2026-03-10,2026-06-05,Silver
+C10710,Sneha Sharma,Maharashtra,1,11474.15,2026-03-05,2026-03-05,Bronze
+C10188,Rutuja Singh,Tamil Nadu,2,38494.0,2026-04-12,2026-08-12,Silver
+C10768,Arun Bhat,Karnataka,3,54165.65,2026-06-25,2026-10-06,Silver
+C10026,Rahul Shah,Maharashtra,2,29108.75,2026-07-09,2026-10-16,Silver
+C10286,Diya Bhat,Maharashtra,1,23146.2,2026-05-13,2026-05-13,Bronze
+C10264,Shruti Desai,Telangana,1,10418.0,2026-04-05,2026-04-05,Bronze
+C10452,Sakshi Shah,Telangana,3,62324.0,2026-04-23,2026-09-18,Silver
+C10203,Isha Rao,Karnataka,2,15288.95,2026-02-18,2026-06-03,Bronze
+C10921,Tanvi Shah,Maharashtra,3,78440.95,2026-03-08,2026-10-12,Silver
+C10516,Lakshmi Chavan,Maharashtra,2,11684.2,2026-06-26,2026-08-09,Bronze
+C10758,Tanvi Mehta,Delhi,1,645.05,2026-09-24,2026-09-24,Bronze
+C10679,Riya Sharma,Tamil Nadu,1,4302.4,2026-08-14,2026-08-14,Bronze
+C10972,Divya Chavan,Maharashtra,1,9630.15,2026-04-13,2026-04-13,Bronze
+C10059,Priya Pillai,Maharashtra,3,65587.0,2026-03-22,2026-07-31,Silver
+C10970,Aditya Nair,Maharashtra,2,3943.4,2026-01-06,2026-08-27,Bronze
+C10211,Rutuja Pawar,Maharashtra,1,59676.0,2026-03-26,2026-03-26,Silver
+C10429,Gauri Jadhav,Maharashtra,3,23793.5,2026-01-18,2026-07-29,Bronze
+C10262,Arun Iyer,Maharashtra,3,27210.85,2026-01-19,2026-08-20,Silver
+C10621,Arun Gupta,Karnataka,1,1952.1,2026-08-31,2026-08-31,Bronze
+C10227,Mrunal Kulkarni,Tamil Nadu,1,3469.0,2026-09-18,2026-09-18,Bronze
+C10247,Ganesh Reddy,Gujarat,4,34967.05,2026-02-06,2026-10-08,Silver
+C10419,Manish Jadhav,Tamil Nadu,3,40303.95,2026-01-08,2026-06-20,Silver
+C10842,Ananya Desai,Gujarat,3,117261.25,2026-04-17,2026-06-04,Gold
+C10041,Rutuja Desai,Maharashtra,5,65438.15,2026-01-29,2026-09-28,Silver
+C10205,Manish Desai,Maharashtra,4,45110.0,2026-01-08,2026-07-08,Silver
+C10292,Tanvi Iyer,Karnataka,4,72320.4,2026-04-28,2026-09-12,Silver
+C10177,Kabir Jadhav,Maharashtra,4,51632.4,2026-02-12,2026-07-20,Silver
+C10642,Priya Desai,Tamil Nadu,1,7806.15,2026-07-06,2026-07-06,Bronze
+C10259,Shruti Pillai,Tamil Nadu,2,28577.0,2026-04-12,2026-09-17,Silver
+C10614,Komal Reddy,Maharashtra,1,25050.55,2026-06-25,2026-06-25,Silver
+C10996,Komal Pillai,Gujarat,1,6059.0,2026-03-05,2026-03-05,Bronze
+C10707,Ganesh Nair,Delhi,2,21894.3,2026-03-03,2026-07-05,Bronze
+C10681,Omkar Patil,Tamil Nadu,2,19038.6,2026-08-13,2026-10-20,Bronze
+C10840,Pranav Verma,Tamil Nadu,3,94773.0,2026-03-30,2026-10-01,Silver
+C10123,Sahil Verma,Maharashtra,2,6882.65,2026-08-07,2026-09-28,Bronze
+C10638,Omkar Menon,Telangana,1,23596.0,2026-06-12,2026-06-12,Bronze
+C10894,Nisha Pillai,Karnataka,4,74986.1,2026-07-05,2026-10-05,Silver
+C10371,Kiran Reddy,Tamil Nadu,3,113657.4,2026-01-29,2026-06-06,Gold
+C10761,Riya Reddy,Tamil Nadu,1,179276.0,2026-02-04,2026-02-04,Gold
+C10486,Akash Joshi,Maharashtra,2,4538.0,2026-04-14,2026-05-25,Bronze
+C10759,Diya Sharma,Gujarat,1,94728.25,2026-05-26,2026-05-26,Silver
+C10362,Sameer Jadhav,Karnataka,1,5349.0,2026-06-05,2026-06-05,Bronze
+C10882,Kabir Joshi,Gujarat,4,13113.05,2026-02-04,2026-03-18,Bronze
+C10816,Anjali Rao,Karnataka,2,12409.15,2026-04-02,2026-09-08,Bronze
+C10079,Rutuja Jadhav,Tamil Nadu,2,46964.0,2026-01-22,2026-06-26,Silver
+C10456,Ketan Chavan,Gujarat,3,29364.1,2026-01-07,2026-09-06,Silver
+C10068,Sakshi Mehta,Tamil Nadu,1,2429.3,2026-10-26,2026-10-26,Bronze
+C10048,Swati Reddy,Gujarat,2,37384.3,2026-03-17,2026-07-12,Silver
+C10785,Lakshmi Desai,Tamil Nadu,5,147403.35,2026-02-17,2026-06-30,Gold
+C10812,Ketan Menon,Tamil Nadu,2,49850.55,2026-01-04,2026-09-23,Silver
+C10180,Gauri Desai,Maharashtra,3,59505.45,2026-02-02,2026-08-14,Silver
+C10848,Shruti Iyer,Telangana,1,11015.2,2026-08-10,2026-08-10,Bronze
+C10887,Gauri Iyer,Karnataka,2,37503.75,2026-03-05,2026-05-22,Silver
+C10663,Sneha Chavan,Karnataka,3,44184.1,2026-01-25,2026-04-12,Silver
+C10856,Kunal Chavan,Maharashtra,1,8991.2,2026-01-11,2026-01-11,Bronze
+C10186,Kunal Singh,Tamil Nadu,3,17675.0,2026-02-25,2026-09-06,Bronze
+C10047,Rohan Shah,Tamil Nadu,2,30549.1,2026-07-12,2026-10-14,Silver
+C10168,Isha Singh,Tamil Nadu,5,56638.95,2026-01-27,2026-09-03,Silver
+C10514,Divya Sharma,Karnataka,3,62542.1,2026-03-10,2026-10-21,Silver
+C10568,Sneha Joshi,Telangana,3,98524.85,2026-05-13,2026-07-01,Silver
+C10477,Sneha Singh,Tamil Nadu,1,67676.0,2026-05-17,2026-05-17,Silver
+C10407,Ganesh Reddy,Telangana,1,10691.1,2026-03-14,2026-03-14,Bronze
+C10615,Aarav Mehta,Gujarat,4,49476.4,2026-02-12,2026-09-23,Silver
+C10555,Pallavi Desai,Maharashtra,3,23124.2,2026-03-03,2026-07-31,Bronze
+C10915,Shruti Reddy,Karnataka,2,36294.0,2026-05-18,2026-09-19,Silver
+C10052,Aditya Singh,Maharashtra,4,188165.95,2026-01-02,2026-07-31,Gold
+C10644,Amit Pawar,Maharashtra,4,50135.7,2026-01-02,2026-10-10,Silver
+C10897,Pranav Desai,Maharashtra,3,58638.5,2026-05-04,2026-09-30,Silver
+C10515,Yash Rao,Maharashtra,1,10538.3,2026-04-26,2026-04-26,Bronze
+C10467,Komal Sharma,Maharashtra,1,22198.0,2026-03-23,2026-03-23,Bronze
+C10039,Swati Verma,Karnataka,5,138369.0,2026-01-09,2026-09-16,Gold
+C10439,Siddharth Menon,Maharashtra,2,33117.35,2026-03-09,2026-06-21,Silver
+C10143,Kavya Patil,Tamil Nadu,3,20910.6,2026-07-11,2026-09-16,Bronze
+C10291,Ganesh Jadhav,Tamil Nadu,1,72245.0,2026-06-17,2026-06-17,Silver
+C10025,Vivaan Verma,Tamil Nadu,2,19886.55,2026-02-16,2026-05-13,Bronze
+C10965,Sneha Reddy,Telangana,1,40441.3,2026-03-09,2026-03-09,Silver
+C10811,Swati Joshi,Maharashtra,3,55892.15,2026-04-13,2026-06-21,Silver
+C10945,Tejas Desai,Karnataka,1,1529.0,2026-02-18,2026-02-18,Bronze
+C10153,Deepa Verma,Maharashtra,3,60755.1,2026-01-29,2026-09-27,Silver
+C10090,Diya Kulkarni,Delhi,3,17971.4,2026-04-02,2026-04-26,Bronze
+C10322,Rahul Pillai,Maharashtra,4,137783.4,2026-06-23,2026-07-14,Gold
+C10105,Komal Desai,Tamil Nadu,1,3603.15,2026-07-30,2026-07-30,Bronze
+C10064,Meera Menon,Gujarat,1,11459.0,2026-02-01,2026-02-01,Bronze
+C10155,Sakshi Nair,Delhi,1,20918.0,2026-03-24,2026-03-24,Bronze
+C10665,Kabir Bhat,Delhi,2,212240.4,2026-03-27,2026-10-16,Gold
+C10888,Lakshmi Bhat,Maharashtra,4,29652.15,2026-04-23,2026-10-12,Silver
+C10589,Sameer Joshi,Maharashtra,1,11579.0,2026-06-24,2026-06-24,Bronze
+C10507,Sahil Sharma,Maharashtra,2,110973.0,2026-05-17,2026-09-23,Gold
+C10968,Swati Menon,Maharashtra,4,107984.9,2026-03-19,2026-09-20,Gold
+C10798,Lakshmi Sharma,Maharashtra,4,104347.75,2026-02-12,2026-09-18,Gold
+C10355,Pooja Bhat,Tamil Nadu,2,24725.0,2026-07-04,2026-07-17,Bronze
+C10594,Sneha Menon,Maharashtra,1,4243.65,2026-04-08,2026-04-08,Bronze
+C10778,Amit Nair,Telangana,3,106933.0,2026-04-13,2026-10-14,Gold
+C10684,Sakshi Pawar,Maharashtra,3,129689.65,2026-01-25,2026-09-14,Gold
+C10623,Kabir Gupta,Tamil Nadu,4,128013.2,2026-01-13,2026-08-21,Gold
+C10692,Sneha Pawar,Karnataka,2,21537.3,2026-07-02,2026-10-28,Bronze
+C10010,Shruti Bhat,Tamil Nadu,1,32307.0,2026-05-31,2026-05-31,Silver
+C10838,Kabir Mehta,Gujarat,3,53906.85,2026-06-18,2026-10-26,Silver
+C10862,Meera Verma,Maharashtra,2,111621.15,2026-05-09,2026-09-17,Gold
+C10608,Tanvi Iyer,Tamil Nadu,1,2958.4,2026-06-10,2026-06-10,Bronze
+C10306,Lakshmi Singh,Telangana,1,5516.0,2026-03-04,2026-03-04,Bronze
+C10814,Neha Patil,Maharashtra,2,103623.0,2026-02-10,2026-09-21,Gold
+C10402,Priya Verma,Karnataka,3,86978.3,2026-02-26,2026-10-10,Silver
+C10217,Kabir Pillai,Tamil Nadu,3,76522.05,2026-04-24,2026-10-02,Silver
+C10150,Nisha Gupta,Telangana,1,7578.0,2026-03-06,2026-03-06,Bronze
+C10603,Kavya Mehta,Karnataka,1,25437.0,2026-05-05,2026-05-05,Silver
+C10345,Divya Mehta,Maharashtra,2,74569.15,2026-05-13,2026-09-25,Silver
+C10274,Pranav Shah,Maharashtra,2,63614.0,2026-03-22,2026-04-20,Silver
+C10796,Lakshmi Verma,Karnataka,1,37645.0,2026-08-28,2026-08-28,Silver
+C10824,Pranav Desai,Gujarat,1,8679.0,2026-06-11,2026-06-11,Bronze
+C10391,Siddharth Singh,Maharashtra,1,18916.0,2026-04-04,2026-04-04,Bronze
+C10690,Neha Pawar,Telangana,3,97380.4,2026-01-03,2026-10-14,Silver
+C10537,Nikhil Mehta,Gujarat,4,18873.85,2026-02-11,2026-07-04,Bronze
+C10706,Tejas Shah,Maharashtra,3,58712.85,2026-04-02,2026-08-22,Silver
+C10895,Sneha Sharma,Gujarat,3,96325.0,2026-01-27,2026-05-29,Silver
+C10789,Swati Iyer,Tamil Nadu,1,6452.1,2026-06-09,2026-06-09,Bronze
+C10861,Aditya Menon,Karnataka,1,20653.3,2026-09-24,2026-09-24,Bronze
+C10619,Arjun Desai,Karnataka,2,16560.4,2026-02-10,2026-02-22,Bronze
+C10849,Deepa Pawar,Telangana,3,58519.2,2026-02-05,2026-04-24,Silver
+C10762,Rutuja Gupta,Telangana,3,134354.2,2026-01-18,2026-08-09,Gold
+C10297,Nikhil Gupta,Karnataka,2,15150.15,2026-03-13,2026-06-28,Bronze
+C10478,Ananya Reddy,Maharashtra,1,81995.0,2026-06-14,2026-06-14,Silver
+C10992,Deepa Nair,Tamil Nadu,3,240063.25,2026-08-05,2026-10-24,Gold
+C10920,Kiran Shah,Gujarat,3,54254.2,2026-06-17,2026-08-20,Silver
+C10020,Neha Reddy,Karnataka,1,2132.1,2026-06-27,2026-06-27,Bronze
+C10093,Riya Iyer,Gujarat,2,30766.85,2026-06-04,2026-08-04,Silver
+C10219,Akash Patil,Maharashtra,3,50104.55,2026-08-08,2026-10-19,Silver
+C10174,Gauri Bhat,Karnataka,3,78979.6,2026-03-04,2026-07-28,Silver
+C10482,Pranav Mehta,Tamil Nadu,1,16929.0,2026-08-15,2026-08-15,Bronze
+C10782,Varun Joshi,Tamil Nadu,3,20586.0,2026-01-21,2026-04-13,Bronze
+C10240,Kabir Mehta,Maharashtra,1,440.1,2026-10-27,2026-10-27,Bronze
+C10289,Komal Mehta,Delhi,3,74553.15,2026-03-26,2026-08-24,Silver
+C10733,Priya Bhat,Maharashtra,2,121733.0,2026-03-04,2026-07-06,Gold
+C10794,Arjun Chavan,Maharashtra,1,3230.4,2026-01-24,2026-01-24,Bronze
+C10869,Ananya Sharma,Maharashtra,3,30545.4,2026-02-11,2026-10-19,Silver
+C10338,Nisha Jadhav,Tamil Nadu,2,15418.0,2026-02-02,2026-08-28,Bronze
+C10624,Kunal Joshi,Maharashtra,2,28100.1,2026-04-28,2026-06-07,Silver
+C10336,Riya Nair,Karnataka,3,49619.0,2026-03-21,2026-10-20,Silver
+C10629,Riya Menon,Gujarat,3,59311.1,2026-01-27,2026-09-22,Silver
+C10285,Sahil Joshi,Maharashtra,1,8278.0,2026-02-04,2026-02-04,Bronze
+C10942,Aarav Rao,Tamil Nadu,1,18889.0,2026-09-01,2026-09-01,Bronze
+C10416,Amit Reddy,Delhi,2,32804.05,2026-02-01,2026-09-22,Silver
+C10632,Pranav Pillai,Karnataka,2,120090.6,2026-03-04,2026-04-08,Gold
+C10433,Varun Verma,Telangana,3,71152.85,2026-03-04,2026-07-14,Silver
+C10557,Sneha Desai,Tamil Nadu,1,11029.0,2026-10-20,2026-10-20,Bronze
+C10913,Priya Pawar,Maharashtra,4,99789.0,2026-06-29,2026-10-17,Silver
+C10085,Sakshi Rao,Tamil Nadu,2,76104.75,2026-01-10,2026-02-22,Silver
+C10459,Gauri Pawar,Tamil Nadu,3,40853.5,2026-05-25,2026-09-18,Silver
+C10460,Vivaan Gupta,Telangana,1,61467.0,2026-08-22,2026-08-22,Silver
+C10956,Amit Mehta,Gujarat,2,37238.05,2026-01-25,2026-07-13,Silver
+C10719,Tanvi Pillai,Maharashtra,1,6629.0,2026-02-27,2026-02-27,Bronze
+C10935,Siddharth Bhat,Gujarat,2,35646.0,2026-07-01,2026-08-01,Silver
+C10656,Riya Nair,Tamil Nadu,2,34184.1,2026-03-14,2026-09-15,Silver
+C10545,Diya Patil,Tamil Nadu,1,10350.45,2026-04-16,2026-04-16,Bronze
+C10403,Anjali Sharma,Telangana,1,1679.2,2026-05-17,2026-05-17,Bronze
+C10637,Riya Sharma,Telangana,3,155087.65,2026-05-22,2026-10-22,Gold
+C10607,Kunal Rao,Maharashtra,4,48870.1,2026-01-24,2026-09-13,Silver
+C10518,Sakshi Desai,Gujarat,2,12458.3,2026-02-06,2026-02-23,Bronze
+C10129,Deepa Iyer,Telangana,2,17885.7,2026-03-31,2026-06-18,Bronze
+C10121,Aarav Pillai,Telangana,3,101507.3,2026-08-19,2026-10-26,Gold
+C10483,Nisha Kulkarni,Tamil Nadu,2,125475.0,2026-03-30,2026-08-04,Gold
+C10092,Sakshi Gupta,Delhi,6,69856.2,2026-05-04,2026-09-03,Silver
+C10828,Ananya Verma,Karnataka,3,46067.75,2026-05-26,2026-07-28,Silver
+C10686,Priya Verma,Gujarat,1,20498.0,2026-07-20,2026-07-20,Bronze
+C10880,Vivaan Iyer,Maharashtra,1,1299.0,2026-05-20,2026-05-20,Bronze
+C10600,Siddharth Rao,Tamil Nadu,2,6448.0,2026-09-30,2026-10-01,Bronze
+C10837,Nikhil Pillai,Tamil Nadu,1,6408.15,2026-09-16,2026-09-16,Bronze
+C10031,Pooja Sharma,Maharashtra,3,33603.2,2026-02-22,2026-08-18,Silver
+C10504,Swati Pillai,Gujarat,1,34977.0,2026-02-06,2026-02-06,Silver
+C10747,Sameer Joshi,Maharashtra,1,10474.2,2026-04-06,2026-04-06,Bronze
+C10225,Sahil Sharma,Telangana,2,4895.15,2026-01-09,2026-08-07,Bronze
+C10657,Kiran Pillai,Karnataka,1,61636.0,2026-05-16,2026-05-16,Silver
+C10082,Tanvi Jadhav,Gujarat,2,20892.1,2026-02-24,2026-10-03,Bronze
+C10390,Nisha Gupta,Maharashtra,4,62862.15,2026-01-05,2026-08-30,Silver
+C10511,Sakshi Verma,Gujarat,1,36889.15,2026-07-05,2026-07-05,Silver
+C10468,Kabir Desai,Gujarat,1,25758.0,2026-02-25,2026-02-25,Silver
+C10233,Anjali Nair,Karnataka,1,1529.0,2026-05-21,2026-05-21,Bronze
+C10577,Sakshi Patil,Telangana,3,126732.65,2026-03-16,2026-07-07,Gold
+C10353,Varun Chavan,Maharashtra,5,106064.9,2026-01-05,2026-09-20,Gold
+C10659,Rohan Desai,Telangana,1,13118.55,2026-06-08,2026-06-08,Bronze
+C10912,Pooja Jadhav,Maharashtra,2,123966.2,2026-03-18,2026-09-18,Gold
+C10430,Arun Rao,Maharashtra,1,6049.0,2026-06-10,2026-06-10,Bronze
+C10551,Arjun Bhat,Tamil Nadu,3,16831.85,2026-01-21,2026-06-29,Bronze
+C10163,Suresh Shah,Karnataka,1,8499.0,2026-05-08,2026-05-08,Bronze
+C10533,Harsh Reddy,Karnataka,2,12834.0,2026-02-13,2026-09-30,Bronze
+C10461,Komal Nair,Maharashtra,2,64966.7,2026-08-26,2026-09-14,Silver
+C10476,Lakshmi Jadhav,Delhi,2,55465.2,2026-03-08,2026-08-28,Silver
+C10606,Priya Shah,Tamil Nadu,2,31828.5,2026-04-27,2026-08-28,Silver
+C10495,Lakshmi Reddy,Gujarat,1,33238.0,2026-04-09,2026-04-09,Silver
+C10421,Suresh Gupta,Gujarat,3,96424.65,2026-03-07,2026-09-21,Silver
+C10704,Tejas Shah,Delhi,2,53406.0,2026-06-09,2026-07-07,Silver
+C10141,Ganesh Chavan,Telangana,4,30813.5,2026-01-16,2026-09-22,Silver
+C10422,Riya Joshi,Gujarat,4,132757.95,2026-06-15,2026-09-08,Gold
+C10729,Priya Chavan,Telangana,3,84678.2,2026-01-11,2026-08-29,Silver
+C10094,Arjun Patil,Tamil Nadu,3,44388.75,2026-01-12,2026-07-29,Silver
+C10490,Nisha Joshi,Maharashtra,1,20060.1,2026-09-12,2026-09-12,Bronze
+C10165,Riya Mehta,Gujarat,2,79125.0,2026-05-09,2026-07-06,Silver
+C10327,Omkar Reddy,Gujarat,1,8909.0,2026-07-04,2026-07-04,Bronze
+C10974,Nisha Nair,Karnataka,1,35002.75,2026-06-26,2026-06-26,Silver
+C10415,Sahil Chavan,Telangana,4,116943.3,2026-04-27,2026-09-24,Gold
+C10687,Ananya Mehta,Tamil Nadu,2,43199.5,2026-02-10,2026-03-02,Silver
+C10352,Tanvi Shah,Maharashtra,3,36182.3,2026-06-20,2026-08-28,Silver
+C10800,Sakshi Shah,Karnataka,2,46402.0,2026-03-16,2026-10-23,Silver
+C10496,Arjun Chavan,Maharashtra,1,30092.2,2026-06-25,2026-06-25,Silver
+C10366,Isha Kulkarni,Tamil Nadu,5,68701.85,2026-01-09,2026-10-16,Silver
+C10182,Isha Rao,Karnataka,2,104045.0,2026-05-30,2026-09-07,Gold
+C10604,Riya Reddy,Gujarat,2,30018.2,2026-03-15,2026-03-27,Silver
+C10966,Pooja Chavan,Gujarat,2,62400.6,2026-07-03,2026-08-23,Silver
+C10764,Shruti Joshi,Tamil Nadu,2,14679.15,2026-05-10,2026-06-21,Bronze
+C10576,Omkar Joshi,Maharashtra,1,39676.0,2026-06-11,2026-06-11,Silver
+C10588,Nisha Iyer,Delhi,2,99004.2,2026-05-21,2026-08-19,Silver
+C10489,Omkar Desai,Maharashtra,2,21676.0,2026-07-16,2026-07-20,Bronze
+C10658,Aditya Patil,Karnataka,3,34650.2,2026-02-09,2026-10-07,Silver
+C10237,Sneha Sharma,Telangana,2,26577.0,2026-04-08,2026-07-02,Silver
+C10481,Pooja Reddy,Maharashtra,1,64645.0,2026-06-30,2026-06-30,Silver
+C10593,Siddharth Menon,Maharashtra,6,173331.25,2026-01-09,2026-09-28,Gold
+C10646,Suresh Pillai,Gujarat,2,6068.0,2026-04-13,2026-07-11,Bronze
+C10044,Kabir Patil,Gujarat,2,15458.0,2026-05-12,2026-09-02,Bronze
+C10395,Yash Pillai,Tamil Nadu,1,30379.0,2026-02-09,2026-02-09,Silver
+C10300,Rohan Gupta,Delhi,1,14609.0,2026-09-26,2026-09-26,Bronze
+C10003,Suresh Verma,Delhi,2,16084.65,2026-06-08,2026-08-20,Bronze
+C10275,Kavya Mehta,Gujarat,1,4059.0,2026-03-30,2026-03-30,Bronze
+C10381,Varun Shah,Karnataka,1,2716.0,2026-05-06,2026-05-06,Bronze
+C10769,Varun Chavan,Delhi,2,57153.6,2026-03-02,2026-09-29,Silver
+C10304,Amit Gupta,Gujarat,3,39991.25,2026-04-23,2026-09-09,Silver
+C10648,Kabir Singh,Maharashtra,1,8156.6,2026-02-22,2026-02-22,Bronze
+C10053,Sahil Menon,Maharashtra,2,23479.5,2026-06-30,2026-08-26,Bronze
+C10531,Kabir Chavan,Maharashtra,2,19608.25,2026-05-23,2026-08-29,Bronze
+C10790,Anjali Verma,Tamil Nadu,1,9989.1,2026-09-11,2026-09-11,Bronze
+C10320,Vivaan Singh,Gujarat,3,43269.1,2026-01-24,2026-10-05,Silver
+C10855,Mrunal Desai,Tamil Nadu,4,55091.15,2026-02-25,2026-10-11,Silver
+C10249,Priya Bhat,Karnataka,1,413.1,2026-07-16,2026-07-16,Bronze
+C10979,Divya Iyer,Telangana,3,33130.35,2026-02-20,2026-08-11,Silver
+C10806,Aditya Reddy,Tamil Nadu,1,4969.0,2026-04-12,2026-04-12,Bronze
+C10239,Tanvi Pillai,Tamil Nadu,3,98842.75,2026-01-26,2026-10-06,Silver
+C10228,Rohan Bhat,Telangana,3,143992.1,2026-01-01,2026-06-21,Gold
+C10845,Sahil Reddy,Tamil Nadu,1,16316.0,2026-01-28,2026-01-28,Bronze
+C10859,Ananya Pillai,Tamil Nadu,3,19369.65,2026-01-14,2026-09-30,Bronze
+C10967,Rahul Kulkarni,Gujarat,1,50436.0,2026-07-11,2026-07-11,Silver
+C10718,Pranav Pillai,Gujarat,3,48937.0,2026-03-17,2026-04-23,Silver
+C10547,Priya Patil,Karnataka,5,211681.55,2026-06-06,2026-10-25,Gold
+C10981,Tejas Bhat,Tamil Nadu,2,28508.0,2026-07-27,2026-09-07,Silver
+C10018,Omkar Chavan,Maharashtra,3,29436.65,2026-06-17,2026-10-09,Silver
+C10561,Sahil Rao,Maharashtra,5,238047.2,2026-01-26,2026-05-23,Gold
+C10146,Anjali Iyer,Karnataka,4,43265.2,2026-02-10,2026-05-02,Silver
+C10473,Aditya Verma,Tamil Nadu,3,47614.1,2026-02-27,2026-09-30,Silver
+C10484,Pallavi Menon,Karnataka,2,63056.85,2026-02-06,2026-10-11,Silver
+C10255,Lakshmi Singh,Karnataka,3,39254.3,2026-04-01,2026-06-16,Silver
+C10013,Ketan Chavan,Telangana,2,8656.15,2026-02-03,2026-03-10,Bronze
+C10980,Neha Reddy,Maharashtra,1,3738.0,2026-10-24,2026-10-24,Bronze
+C10570,Swati Verma,Maharashtra,5,187458.0,2026-01-02,2026-09-18,Gold
+C10192,Gauri Singh,Delhi,3,64101.3,2026-04-07,2026-08-24,Silver
+C10502,Shruti Sharma,Gujarat,2,20036.3,2026-08-04,2026-10-05,Bronze
+C10636,Mrunal Rao,Karnataka,5,77847.6,2026-03-30,2026-09-02,Silver
+C10676,Arjun Pawar,Tamil Nadu,2,31619.85,2026-03-23,2026-06-15,Silver
+C10699,Kunal Pillai,Telangana,1,7215.2,2026-01-31,2026-01-31,Bronze
+C10951,Rohan Chavan,Maharashtra,3,28583.1,2026-04-30,2026-07-24,Silver
+C10977,Aarav Jadhav,Gujarat,2,96637.55,2026-09-23,2026-10-15,Silver
+C10009,Komal Reddy,Gujarat,1,8189.1,2026-07-06,2026-07-06,Bronze
+C10572,Rohan Gupta,Karnataka,2,23089.25,2026-01-17,2026-09-06,Bronze
+C10774,Ketan Sharma,Tamil Nadu,2,20997.65,2026-02-03,2026-05-08,Bronze
+C10162,Arjun Singh,Maharashtra,1,26167.75,2026-03-14,2026-03-14,Silver
+C10918,Shruti Pawar,Maharashtra,2,7638.55,2026-10-08,2026-10-24,Bronze
+C10512,Rahul Joshi,Maharashtra,1,10666.65,2026-06-21,2026-06-21,Bronze
+C10958,Isha Rao,Karnataka,4,124045.65,2026-04-09,2026-05-11,Gold
+C10500,Ganesh Desai,Gujarat,3,89017.05,2026-05-04,2026-10-20,Silver
+C10112,Omkar Desai,Telangana,1,38230.2,2026-05-10,2026-05-10,Silver
+C10708,Sakshi Gupta,Maharashtra,1,23036.0,2026-02-04,2026-02-04,Bronze
+C10037,Nikhil Patil,Maharashtra,1,18039.2,2026-08-23,2026-08-23,Bronze
+C10694,Kunal Gupta,Maharashtra,3,23006.1,2026-08-13,2026-09-20,Bronze
+C10388,Manish Iyer,Tamil Nadu,3,64166.7,2026-01-26,2026-10-02,Silver
+C10825,Rutuja Sharma,Maharashtra,2,114140.1,2026-01-08,2026-06-08,Gold
+C10361,Amit Rao,Telangana,3,40577.4,2026-02-08,2026-09-11,Silver
+C10783,Mrunal Bhat,Gujarat,3,29243.35,2026-02-15,2026-10-03,Silver
+C10326,Sakshi Sharma,Maharashtra,2,150112.0,2026-08-21,2026-08-27,Gold
+C10773,Harsh Sharma,Gujarat,2,21236.2,2026-06-29,2026-08-29,Bronze
+C10997,Rutuja Mehta,Maharashtra,2,28618.0,2026-06-22,2026-06-22,Silver
+C10580,Komal Reddy,Gujarat,3,94081.1,2026-01-16,2026-07-12,Silver
+C10431,Pooja Shah,Gujarat,3,138622.45,2026-03-31,2026-10-04,Gold
+C10333,Ketan Desai,Maharashtra,6,86298.65,2026-01-09,2026-10-28,Silver
+C10354,Varun Shah,Tamil Nadu,3,109445.9,2026-05-23,2026-09-18,Gold
+C10418,Harsh Shah,Maharashtra,2,53544.1,2026-01-12,2026-02-01,Silver
+C10885,Pallavi Gupta,Karnataka,1,7079.0,2026-07-12,2026-07-12,Bronze
+C10096,Tejas Joshi,Telangana,3,55065.9,2026-02-12,2026-09-30,Silver
+C10519,Nikhil Gupta,Gujarat,3,36019.85,2026-03-26,2026-08-28,Silver
+C10910,Nikhil Pawar,Tamil Nadu,6,153236.5,2026-01-12,2026-06-03,Gold
+C10927,Rahul Bhat,Gujarat,3,116458.0,2026-04-05,2026-09-15,Gold
+C10574,Divya Shah,Telangana,3,140235.0,2026-03-17,2026-10-24,Gold
+C10384,Priya Pawar,Maharashtra,2,8173.6,2026-02-02,2026-08-06,Bronze
+C10917,Siddharth Rao,Maharashtra,2,85902.6,2026-06-12,2026-08-11,Silver
+C10501,Rutuja Reddy,Telangana,5,100908.75,2026-02-23,2026-08-22,Gold
+C10098,Rahul Pawar,Tamil Nadu,3,51832.9,2026-01-29,2026-10-20,Silver
+C10318,Anjali Iyer,Delhi,1,22631.2,2026-06-10,2026-06-10,Bronze
+C10445,Ganesh Nair,Tamil Nadu,1,66228.6,2026-08-01,2026-08-01,Silver
+C10964,Kunal Menon,Karnataka,5,98968.05,2026-02-03,2026-05-28,Silver
+C10021,Aarav Chavan,Maharashtra,1,4438.0,2026-07-07,2026-07-07,Bronze
+C10156,Suresh Nair,Telangana,2,41455.05,2026-04-12,2026-05-12,Silver
+C10585,Manish Pillai,Karnataka,4,125674.5,2026-02-24,2026-09-08,Gold
+C10651,Rahul Pawar,Tamil Nadu,3,90595.0,2026-02-15,2026-10-13,Silver
+C10860,Sameer Rao,Gujarat,1,34083.3,2026-10-11,2026-10-11,Silver
+C10358,Sameer Joshi,Gujarat,3,35628.3,2026-03-25,2026-05-31,Silver
+C10364,Nisha Kulkarni,Gujarat,2,108576.0,2026-05-30,2026-08-16,Gold
+C10941,Nisha Nair,Gujarat,2,27859.4,2026-01-24,2026-08-17,Silver
+C10250,Ketan Kulkarni,Maharashtra,3,86316.8,2026-06-11,2026-08-18,Silver
+C10534,Ganesh Singh,Tamil Nadu,2,16728.0,2026-03-12,2026-09-06,Bronze
+C10367,Rohan Pillai,Telangana,2,33613.2,2026-04-19,2026-07-16,Silver
+C10097,Komal Desai,Maharashtra,2,29064.55,2026-04-28,2026-05-17,Silver
+C10154,Riya Singh,Karnataka,3,21706.3,2026-05-10,2026-07-01,Bronze
+C10190,Siddharth Menon,Maharashtra,2,58561.8,2026-07-15,2026-10-20,Silver
+C10046,Pranav Jadhav,Delhi,2,116336.1,2026-03-02,2026-08-06,Gold
+C10634,Ganesh Menon,Gujarat,1,62932.75,2026-07-12,2026-07-12,Silver
+C10738,Kiran Mehta,Maharashtra,2,72897.15,2026-09-11,2026-10-20,Silver
+C10314,Meera Pawar,Karnataka,1,4940.1,2026-04-01,2026-04-01,Bronze
+C10986,Arun Bhat,Telangana,3,68805.5,2026-01-30,2026-05-27,Silver
+C10667,Yash Mehta,Tamil Nadu,1,7169.0,2026-07-18,2026-07-18,Bronze
+C10736,Sameer Shah,Tamil Nadu,1,38048.4,2026-03-31,2026-03-31,Silver
+C10028,Riya Chavan,Tamil Nadu,4,48697.3,2026-07-25,2026-10-13,Silver
+C10469,Meera Kulkarni,Maharashtra,1,5831.1,2026-05-26,2026-05-26,Bronze
+C10528,Aditya Desai,Telangana,3,48778.4,2026-06-10,2026-10-03,Silver
+C10846,Rahul Patil,Gujarat,2,17254.1,2026-04-29,2026-06-10,Bronze
+C10801,Lakshmi Patil,Karnataka,2,88743.25,2026-01-13,2026-03-10,Silver
+C10337,Varun Verma,Delhi,4,69393.2,2026-01-15,2026-05-20,Silver
+C10926,Sahil Rao,Tamil Nadu,1,40791.1,2026-10-07,2026-10-07,Silver
+C10497,Vivaan Menon,Tamil Nadu,1,52764.8,2026-06-15,2026-06-15,Silver
+C10865,Sneha Mehta,Tamil Nadu,3,31382.85,2026-02-10,2026-09-07,Silver
+C10689,Sakshi Menon,Karnataka,2,28787.0,2026-06-05,2026-07-21,Silver
+C10157,Divya Bhat,Tamil Nadu,4,76921.0,2026-05-16,2026-09-11,Silver
+C10717,Sahil Shah,Maharashtra,1,4942.4,2026-05-11,2026-05-11,Bronze
+C10943,Harsh Desai,Karnataka,2,37634.0,2026-02-11,2026-02-14,Silver
+C10032,Tejas Patil,Maharashtra,1,41493.6,2026-10-23,2026-10-23,Silver
+C10605,Lakshmi Kulkarni,Karnataka,1,5887.2,2026-06-18,2026-06-18,Bronze
+C10818,Omkar Jadhav,Telangana,4,34808.3,2026-02-16,2026-08-16,Silver
+C10674,Ananya Joshi,Telangana,3,98616.35,2026-01-30,2026-09-25,Silver
+C10823,Tejas Gupta,Maharashtra,1,2679.0,2026-03-31,2026-03-31,Bronze
+C10807,Arjun Gupta,Maharashtra,2,109659.15,2026-07-30,2026-08-30,Gold
+C10200,Sneha Iyer,Maharashtra,3,68410.65,2026-05-07,2026-08-26,Silver
+C10161,Manish Singh,Gujarat,3,25342.65,2026-02-13,2026-06-29,Silver
+C10423,Sameer Gupta,Delhi,1,8469.0,2026-05-07,2026-05-07,Bronze
+C10720,Pranav Chavan,Gujarat,1,11276.0,2026-08-21,2026-08-21,Bronze
+C10451,Manish Desai,Maharashtra,1,27358.0,2026-10-17,2026-10-17,Silver
+C10158,Sahil Menon,Maharashtra,2,13889.65,2026-06-18,2026-06-23,Bronze
+C10819,Ganesh Kulkarni,Maharashtra,1,15879.0,2026-01-05,2026-01-05,Bronze
+C10767,Komal Jadhav,Telangana,5,76133.55,2026-04-09,2026-09-13,Silver
+C10321,Yash Nair,Tamil Nadu,1,17139.0,2026-06-26,2026-06-26,Bronze
+C10851,Aarav Mehta,Karnataka,2,3097.75,2026-01-07,2026-07-30,Bronze
+C10877,Deepa Singh,Gujarat,2,13273.2,2026-05-27,2026-07-21,Bronze
+C10122,Vivaan Reddy,Maharashtra,1,1637.1,2026-03-12,2026-03-12,Bronze
+C10178,Arjun Kulkarni,Telangana,3,48058.0,2026-06-15,2026-10-08,Silver
+C10839,Diya Sharma,Tamil Nadu,1,11749.0,2026-07-18,2026-07-18,Bronze
+C10522,Yash Desai,Telangana,2,31356.8,2026-06-25,2026-09-16,Silver
+C10152,Ganesh Pillai,Karnataka,2,7136.25,2026-01-11,2026-07-02,Bronze
+C10682,Riya Reddy,Delhi,3,32090.2,2026-06-29,2026-10-24,Silver
+C10267,Nikhil Chavan,Maharashtra,3,55660.0,2026-01-02,2026-09-26,Silver
+C10387,Ketan Bhat,Karnataka,1,91956.0,2026-05-27,2026-05-27,Silver
+C10872,Lakshmi Bhat,Tamil Nadu,4,24634.25,2026-05-14,2026-09-24,Bronze
+C10360,Deepa Pawar,Gujarat,1,9130.5,2026-05-11,2026-05-11,Bronze
+C10171,Nikhil Patil,Gujarat,2,11970.05,2026-09-21,2026-10-07,Bronze
+C10575,Varun Joshi,Maharashtra,2,29572.15,2026-07-26,2026-10-13,Silver
+C10751,Ananya Patil,Telangana,2,62128.8,2026-05-11,2026-08-21,Silver
+C10218,Kabir Menon,Gujarat,1,6122.75,2026-02-20,2026-02-20,Bronze
+C10033,Aditya Nair,Gujarat,1,1367.2,2026-04-25,2026-04-25,Bronze
+C10491,Varun Menon,Maharashtra,1,29143.95,2026-06-28,2026-06-28,Silver
+C10071,Kiran Mehta,Karnataka,1,13722.75,2026-04-11,2026-04-11,Bronze
+C10631,Siddharth Verma,Tamil Nadu,5,105669.0,2026-02-01,2026-06-17,Gold
+C10716,Kavya Verma,Telangana,2,27069.1,2026-07-12,2026-08-22,Silver
+C10947,Pranav Singh,Tamil Nadu,1,6627.45,2026-09-14,2026-09-14,Bronze
+C10111,Neha Mehta,Maharashtra,1,20484.15,2026-01-01,2026-01-01,Bronze
+C10089,Aarav Sharma,Karnataka,4,126737.65,2026-02-08,2026-08-08,Gold
+C10586,Meera Pillai,Telangana,2,12375.9,2026-02-26,2026-02-28,Bronze
+C10176,Nisha Reddy,Gujarat,3,115319.1,2026-06-10,2026-10-25,Gold
+C10602,Manish Verma,Maharashtra,1,1219.0,2026-08-14,2026-08-14,Bronze
+C10475,Arun Pillai,Maharashtra,4,57394.3,2026-01-03,2026-09-28,Silver
+C10106,Arun Mehta,Karnataka,3,31320.05,2026-06-21,2026-10-10,Silver
+C10498,Suresh Sharma,Tamil Nadu,3,69596.2,2026-03-16,2026-06-27,Silver
+C10209,Amit Iyer,Tamil Nadu,1,1529.0,2026-03-01,2026-03-01,Bronze
+C10599,Sameer Menon,Maharashtra,3,53356.65,2026-01-11,2026-08-16,Silver
+C10635,Gauri Rao,Tamil Nadu,1,66424.95,2026-05-12,2026-05-12,Silver
+C10993,Aditya Iyer,Maharashtra,1,13495.0,2026-05-07,2026-05-07,Bronze
+C10208,Kabir Pawar,Gujarat,1,9430.2,2026-05-15,2026-05-15,Bronze
+C10749,Sneha Iyer,Karnataka,1,1547.1,2026-05-21,2026-05-21,Bronze
+C10084,Tanvi Menon,Gujarat,1,3049.0,2026-08-14,2026-08-14,Bronze
+C10432,Harsh Chavan,Gujarat,3,10065.1,2026-01-09,2026-09-05,Bronze
+C10075,Arun Iyer,Gujarat,3,131390.1,2026-01-13,2026-09-04,Gold
+C10976,Anjali Singh,Maharashtra,2,9636.1,2026-03-11,2026-07-16,Bronze
+C10934,Tejas Reddy,Tamil Nadu,2,31657.0,2026-09-04,2026-09-06,Silver
+C10529,Sameer Singh,Karnataka,2,56713.3,2026-07-16,2026-10-16,Silver
+C10978,Rahul Patil,Gujarat,1,10539.15,2026-02-27,2026-02-27,Bronze
+C10653,Vivaan Rao,Maharashtra,2,50366.4,2026-02-04,2026-06-28,Silver
+C10914,Harsh Verma,Karnataka,3,95499.8,2026-01-01,2026-04-18,Silver
+C10232,Arun Jadhav,Maharashtra,1,20499.0,2026-05-19,2026-05-19,Bronze
+C10056,Diya Joshi,Telangana,3,31698.9,2026-03-04,2026-08-26,Silver
+C10223,Neha Kulkarni,Tamil Nadu,2,40375.0,2026-03-11,2026-05-28,Silver
+C10126,Nisha Chavan,Maharashtra,1,96695.0,2026-05-01,2026-05-01,Silver
+C10908,Pranav Shah,Maharashtra,2,127114.0,2026-02-10,2026-06-24,Gold
+C10714,Diya Pillai,Tamil Nadu,3,18630.5,2026-06-26,2026-08-28,Bronze
+C10640,Vivaan Singh,Telangana,2,9011.55,2026-07-07,2026-10-12,Bronze
+C10622,Shruti Menon,Maharashtra,4,33948.45,2026-02-07,2026-08-19,Silver
+C10998,Sneha Gupta,Karnataka,3,46185.15,2026-01-09,2026-06-04,Silver
+C10023,Pallavi Verma,Telangana,1,24298.0,2026-03-18,2026-03-18,Bronze
+C10340,Rohan Shah,Gujarat,1,10089.0,2026-06-19,2026-06-19,Bronze
+C10549,Amit Bhat,Gujarat,3,36577.7,2026-01-08,2026-10-10,Silver
+C10424,Omkar Menon,Maharashtra,3,37486.35,2026-02-22,2026-09-22,Silver
+C10038,Amit Nair,Maharashtra,2,9538.0,2026-04-09,2026-06-29,Bronze
+C10847,Tejas Patil,Maharashtra,3,23755.15,2026-04-21,2026-09-04,Bronze
+C10022,Divya Sharma,Tamil Nadu,3,44318.35,2026-02-10,2026-08-01,Silver
+C10711,Priya Menon,Tamil Nadu,4,62582.75,2026-02-04,2026-07-28,Silver
+C10183,Akash Bhat,Karnataka,1,1795.5,2026-09-15,2026-09-15,Bronze
+C10645,Kiran Gupta,Gujarat,5,91465.3,2026-01-18,2026-09-14,Silver
+C10374,Rahul Desai,Karnataka,3,50052.6,2026-06-11,2026-08-12,Silver
+C10763,Divya Gupta,Karnataka,2,72277.4,2026-01-04,2026-02-21,Silver
+C10265,Pooja Patil,Telangana,3,114803.4,2026-02-28,2026-06-28,Gold
+C10601,Sakshi Verma,Maharashtra,3,107098.2,2026-01-24,2026-07-27,Gold
+C10884,Neha Iyer,Gujarat,2,99395.0,2026-03-14,2026-10-21,Silver
+C10282,Siddharth Kulkarni,Maharashtra,1,10088.65,2026-09-05,2026-09-05,Bronze
+C10241,Pooja Shah,Maharashtra,3,39865.1,2026-05-17,2026-10-20,Silver
+C10331,Kunal Jadhav,Tamil Nadu,1,52738.0,2026-10-14,2026-10-14,Silver
+C10148,Sameer Jadhav,Maharashtra,5,182416.95,2026-01-15,2026-09-10,Gold
+C10924,Ketan Chavan,Karnataka,1,59360.4,2026-07-04,2026-07-04,Silver
+C10754,Tejas Mehta,Tamil Nadu,1,16919.0,2026-03-06,2026-03-06,Bronze
+C10109,Vivaan Chavan,Karnataka,1,7099.0,2026-09-11,2026-09-11,Bronze
+C10426,Lakshmi Menon,Tamil Nadu,1,2999.0,2026-04-13,2026-04-13,Bronze
+C10380,Sakshi Pillai,Tamil Nadu,1,18818.15,2026-08-12,2026-08-12,Bronze
+C10781,Ananya Reddy,Telangana,2,34933.65,2026-02-09,2026-02-23,Silver
+C10446,Mrunal Patil,Delhi,1,7719.0,2026-05-04,2026-05-04,Bronze
+C10462,Kabir Shah,Maharashtra,2,103872.25,2026-07-03,2026-07-17,Gold
+C10755,Sahil Joshi,Maharashtra,2,16037.0,2026-03-19,2026-09-06,Bronze
+C10597,Aditya Bhat,Karnataka,1,8511.05,2026-05-07,2026-05-07,Bronze
+C10332,Arjun Pawar,Telangana,1,11609.0,2026-05-08,2026-05-08,Bronze
+C10836,Pooja Reddy,Karnataka,2,50715.0,2026-05-19,2026-06-02,Silver
+C10843,Ketan Iyer,Karnataka,3,80008.6,2026-03-24,2026-10-05,Silver
+C10058,Sakshi Bhat,Tamil Nadu,3,70786.7,2026-04-25,2026-05-24,Silver
+C10224,Akash Iyer,Maharashtra,1,2545.05,2026-05-31,2026-05-31,Bronze
+C10435,Deepa Pillai,Delhi,3,183533.4,2026-01-02,2026-08-03,Gold
+C10734,Meera Desai,Gujarat,2,87603.3,2026-03-13,2026-09-25,Silver
+C10858,Riya Pillai,Karnataka,3,86335.0,2026-06-27,2026-10-09,Silver
+C10290,Aarav Pawar,Tamil Nadu,1,15807.2,2026-09-04,2026-09-04,Bronze
+C10650,Riya Desai,Gujarat,1,1682.15,2026-03-21,2026-03-21,Bronze
+C10144,Kabir Mehta,Karnataka,1,1331.1,2026-06-17,2026-06-17,Bronze
+C10260,Gauri Shah,Karnataka,3,30162.05,2026-04-04,2026-05-12,Silver
+C10567,Anjali Shah,Gujarat,1,8179.0,2026-09-11,2026-09-11,Bronze
+C10185,Ganesh Gupta,Gujarat,1,14689.0,2026-04-11,2026-04-11,Bronze
+C10850,Yash Mehta,Maharashtra,2,7854.35,2026-06-22,2026-08-28,Bronze
+C10592,Omkar Rao,Tamil Nadu,3,46838.2,2026-10-05,2026-10-28,Silver
+C10470,Amit Nair,Maharashtra,6,68464.5,2026-01-20,2026-09-07,Silver
+C10532,Meera Rao,Karnataka,2,89243.4,2026-04-17,2026-10-03,Silver
+C10701,Swati Pawar,Gujarat,1,11168.15,2026-07-06,2026-07-06,Bronze
+C11000,Meera Desai,Maharashtra,8,146486.0,2026-02-05,2026-09-15,Gold
+C10288,Pooja Nair,Karnataka,2,33281.8,2026-01-20,2026-05-23,Silver
+C10414,Sneha Shah,Gujarat,3,23742.1,2026-05-22,2026-10-16,Bronze
+C10805,Kunal Desai,Gujarat,2,13839.3,2026-07-15,2026-08-21,Bronze
+C10548,Riya Sharma,Tamil Nadu,3,57565.0,2026-04-10,2026-07-05,Silver
+C10891,Diya Bhat,Karnataka,1,10678.0,2026-09-06,2026-09-06,Bronze
+C10939,Manish Jadhav,Gujarat,5,127575.95,2026-01-20,2026-06-29,Gold
+C10524,Aditya Kulkarni,Telangana,5,111942.45,2026-01-01,2026-10-11,Gold
+C10571,Harsh Singh,Telangana,1,9499.0,2026-06-27,2026-06-27,Bronze
+C10236,Gauri Jadhav,Gujarat,2,81036.0,2026-05-04,2026-07-21,Silver
+C10287,Kabir Gupta,Gujarat,5,67071.0,2026-04-10,2026-10-12,Silver
+C10437,Riya Mehta,Maharashtra,2,27855.2,2026-04-01,2026-08-30,Silver
+C10613,Pranav Joshi,Tamil Nadu,2,16721.55,2026-05-31,2026-10-23,Bronze
+C10740,Arjun Chavan,Gujarat,3,41682.5,2026-01-23,2026-09-16,Silver
+C10471,Sameer Mehta,Karnataka,1,52056.2,2026-09-05,2026-09-05,Silver
+C10741,Suresh Pawar,Maharashtra,1,3416.15,2026-08-14,2026-08-14,Bronze
+C10139,Suresh Nair,Telangana,3,18764.7,2026-04-22,2026-06-19,Bronze
+C10308,Suresh Bhat,Maharashtra,3,106037.8,2026-04-04,2026-08-31,Gold
+C10543,Lakshmi Bhat,Maharashtra,1,14814.65,2026-03-05,2026-03-05,Bronze
+C10591,Deepa Nair,Karnataka,4,100921.85,2026-03-04,2026-09-25,Gold
+C10788,Swati Rao,Maharashtra,3,23167.7,2026-05-01,2026-07-28,Bronze
+C10379,Suresh Kulkarni,Telangana,3,8064.15,2026-01-15,2026-08-18,Bronze
+C10728,Komal Desai,Tamil Nadu,3,21515.2,2026-04-15,2026-09-02,Bronze
+C10189,Siddharth Kulkarni,Delhi,1,22941.5,2026-07-16,2026-07-16,Bronze
+C10036,Manish Reddy,Telangana,2,34230.35,2026-01-30,2026-02-13,Silver
+C10831,Ketan Verma,Delhi,2,30059.2,2026-01-30,2026-10-01,Silver
+C10902,Siddharth Rao,Karnataka,1,3267.05,2026-04-03,2026-04-03,Bronze
+C10305,Ketan Mehta,Delhi,1,16038.0,2026-06-19,2026-06-19,Bronze
+C10853,Siddharth Sharma,Maharashtra,1,61497.0,2026-03-19,2026-03-19,Silver
+C10536,Pallavi Jadhav,Telangana,2,14887.45,2026-03-12,2026-10-23,Bronze
+C10562,Divya Singh,Maharashtra,3,28695.0,2026-04-04,2026-07-01,Silver
+C10342,Kabir Bhat,Gujarat,3,72950.5,2026-09-17,2026-10-04,Silver
+C10671,Isha Mehta,Gujarat,2,62855.25,2026-03-09,2026-06-02,Silver
+C10066,Riya Verma,Tamil Nadu,1,4232.15,2026-01-31,2026-01-31,Bronze
+C10709,Arjun Pillai,Gujarat,1,6215.2,2026-01-01,2026-01-01,Bronze
+C10969,Meera Gupta,Karnataka,3,65233.3,2026-03-11,2026-05-30,Silver
+C10864,Sneha Gupta,Gujarat,4,62636.45,2026-01-22,2026-06-24,Silver
+C10235,Tanvi Chavan,Tamil Nadu,2,72235.6,2026-04-24,2026-06-21,Silver
+C10312,Gauri Shah,Tamil Nadu,2,68253.0,2026-02-10,2026-09-10,Silver
+C10030,Sahil Gupta,Maharashtra,3,60530.3,2026-03-01,2026-04-24,Silver
+C10727,Ganesh Patil,Karnataka,2,23121.1,2026-02-23,2026-04-01,Bronze
+C10400,Aarav Jadhav,Gujarat,1,8718.15,2026-04-24,2026-04-24,Bronze
+C10948,Pooja Gupta,Maharashtra,1,20397.0,2026-05-14,2026-05-14,Bronze
+C10664,Nisha Kulkarni,Gujarat,2,3333.15,2026-05-17,2026-06-19,Bronze
+C10195,Rohan Singh,Maharashtra,3,93254.85,2026-05-29,2026-09-27,Silver
+C10344,Harsh Verma,Tamil Nadu,1,11014.3,2026-05-30,2026-05-30,Bronze
+C10137,Kavya Verma,Maharashtra,2,24781.65,2026-02-17,2026-05-06,Bronze
+C10382,Ananya Patil,Tamil Nadu,2,25561.2,2026-06-18,2026-07-10,Silver
+C10573,Aditya Joshi,Karnataka,2,25933.2,2026-02-28,2026-03-18,Silver
+C10854,Pranav Nair,Tamil Nadu,1,13695.0,2026-01-09,2026-01-09,Bronze
+C10441,Kavya Pawar,Maharashtra,3,49310.0,2026-05-27,2026-09-02,Silver
+C10810,Kunal Verma,Telangana,4,41277.65,2026-01-28,2026-08-12,Silver
+C10752,Kavya Gupta,Maharashtra,2,52153.2,2026-05-04,2026-06-16,Silver
+C10072,Ananya Nair,Maharashtra,3,54670.15,2026-04-03,2026-07-22,Silver
+C10142,Tejas Sharma,Tamil Nadu,1,16350.6,2026-02-25,2026-02-25,Bronze
+C10578,Ananya Gupta,Maharashtra,1,28497.0,2026-09-18,2026-09-18,Silver
+C10293,Riya Joshi,Delhi,2,50766.4,2026-01-02,2026-06-28,Silver
+C10479,Komal Desai,Telangana,2,20190.0,2026-06-30,2026-07-02,Bronze
+C10911,Deepa Bhat,Maharashtra,1,12469.0,2026-06-24,2026-06-24,Bronze
+C10118,Rahul Reddy,Maharashtra,2,13898.1,2026-01-15,2026-06-07,Bronze
+C10004,Yash Reddy,Delhi,2,41001.4,2026-01-22,2026-03-25,Silver
+C10610,Pranav Gupta,Gujarat,2,19137.6,2026-04-19,2026-06-09,Bronze
+C10985,Pooja Rao,Gujarat,1,36844.95,2026-05-07,2026-05-07,Silver
+C10377,Kiran Rao,Tamil Nadu,1,1799.0,2026-08-29,2026-08-29,Bronze
+C10256,Deepa Kulkarni,Karnataka,1,5259.0,2026-10-17,2026-10-17,Bronze
+C10216,Shruti Reddy,Karnataka,1,15023.2,2026-04-11,2026-04-11,Bronze
+C10503,Tanvi Singh,Gujarat,4,36180.15,2026-01-22,2026-06-07,Silver
+C10863,Mrunal Desai,Maharashtra,2,23879.55,2026-02-14,2026-06-19,Bronze
+C10618,Aarav Reddy,Karnataka,3,111355.5,2026-03-03,2026-10-24,Gold
+C10325,Harsh Sharma,Gujarat,3,58449.9,2026-04-02,2026-10-26,Silver
+C10015,Rahul Menon,Tamil Nadu,2,19363.3,2026-04-10,2026-04-24,Bronze
+C10703,Ananya Verma,Karnataka,8,254817.2,2026-01-01,2026-10-05,Gold
+C10890,Isha Iyer,Tamil Nadu,4,142162.4,2026-02-21,2026-07-24,Gold
+C10378,Sneha Menon,Karnataka,3,89536.1,2026-01-02,2026-10-12,Silver
+C10204,Sahil Shah,Maharashtra,3,35059.8,2026-06-26,2026-07-28,Silver
+C10654,Sakshi Mehta,Karnataka,2,24132.6,2026-03-02,2026-07-10,Bronze
+C10929,Pooja Rao,Telangana,1,15425.1,2026-09-26,2026-09-26,Bronze
+C10770,Swati Jadhav,Maharashtra,3,186833.65,2026-03-21,2026-08-20,Gold
+C10243,Rohan Jadhav,Maharashtra,2,4237.1,2026-01-31,2026-02-17,Bronze
+C10115,Nikhil Pillai,Karnataka,1,6820.2,2026-05-01,2026-05-01,Bronze
+C10088,Vivaan Jadhav,Gujarat,1,24156.0,2026-06-01,2026-06-01,Bronze
+C10434,Kunal Reddy,Telangana,5,71557.3,2026-05-16,2026-09-26,Silver
+C10035,Kiran Rao,Tamil Nadu,2,12128.0,2026-07-10,2026-07-26,Bronze
+C10281,Sahil Mehta,Gujarat,2,13665.25,2026-03-15,2026-03-29,Bronze
+C10234,Anjali Sharma,Tamil Nadu,2,54164.65,2026-02-12,2026-07-10,Silver
+C10566,Omkar Kulkarni,Maharashtra,2,63418.2,2026-04-06,2026-08-29,Silver
+C10564,Shruti Jadhav,Tamil Nadu,1,2885.75,2026-06-24,2026-06-24,Bronze
+C10027,Pranav Pawar,Maharashtra,1,29220.1,2026-07-22,2026-07-22,Silver
+C10335,Deepa Sharma,Tamil Nadu,1,15298.2,2026-01-15,2026-01-15,Bronze
+C10002,Sahil Singh,Gujarat,2,54343.6,2026-01-08,2026-09-16,Silver
+C10569,Tanvi Iyer,Gujarat,3,179431.0,2026-03-14,2026-06-04,Gold
+C10748,Priya Joshi,Tamil Nadu,4,51769.35,2026-02-19,2026-08-17,Silver
+C10844,Neha Rao,Tamil Nadu,1,5869.0,2026-02-08,2026-02-08,Bronze
+C10214,Vivaan Singh,Tamil Nadu,1,1758.65,2026-09-14,2026-09-14,Bronze
+C10412,Nikhil Nair,Maharashtra,4,104895.15,2026-07-11,2026-10-22,Gold
+C10803,Neha Shah,Tamil Nadu,4,21235.0,2026-01-20,2026-09-18,Bronze
+C10868,Rutuja Patil,Karnataka,2,14702.05,2026-01-21,2026-04-04,Bronze
+C10069,Rahul Nair,Tamil Nadu,1,7283.65,2026-03-01,2026-03-01,Bronze
+C10940,Arun Pawar,Maharashtra,1,5595.2,2026-07-29,2026-07-29,Bronze
+C10302,Sakshi Shah,Telangana,1,7209.0,2026-07-09,2026-07-09,Bronze
+C10298,Aditya Shah,Telangana,1,3347.3,2026-09-08,2026-09-08,Bronze
+C10024,Vivaan Singh,Telangana,1,8898.0,2026-09-15,2026-09-15,Bronze
+C10661,Anjali Chavan,Telangana,2,11985.3,2026-05-02,2026-09-19,Bronze
+C10523,Rohan Kulkarni,Tamil Nadu,3,48701.3,2026-02-06,2026-09-25,Silver
+C10488,Sakshi Sharma,Maharashtra,1,45145.0,2026-03-03,2026-03-03,Silver
+C10833,Kavya Joshi,Telangana,1,4317.15,2026-08-12,2026-08-12,Bronze
+C10087,Isha Shah,Karnataka,1,7658.0,2026-01-09,2026-01-09,Bronze
+C10443,Tejas Jadhav,Maharashtra,2,38743.35,2026-07-15,2026-10-17,Silver
+C10750,Aarav Chavan,Maharashtra,2,23664.75,2026-02-20,2026-04-09,Bronze
+C10436,Riya Pawar,Maharashtra,1,48108.6,2026-04-25,2026-04-25,Silver
+C10273,Vivaan Reddy,Gujarat,4,73819.15,2026-01-07,2026-07-04,Silver
+C10919,Tejas Kulkarni,Maharashtra,4,189527.5,2026-01-15,2026-08-19,Gold
+C10480,Harsh Chavan,Karnataka,3,40619.1,2026-01-07,2026-09-24,Silver
+C10175,Sneha Kulkarni,Gujarat,3,119013.1,2026-01-28,2026-10-06,Gold
+C10110,Ananya Rao,Telangana,2,26494.65,2026-08-04,2026-09-10,Silver
+C10119,Aditya Reddy,Karnataka,1,3099.0,2026-04-14,2026-04-14,Bronze
+C10959,Aarav Pillai,Tamil Nadu,1,12398.0,2026-05-11,2026-05-11,Bronze
+C10261,Nisha Desai,Tamil Nadu,4,29698.15,2026-01-29,2026-09-02,Silver
+C10440,Gauri Sharma,Telangana,4,41448.3,2026-01-05,2026-06-14,Silver
+C10730,Tejas Pillai,Maharashtra,3,44601.2,2026-08-25,2026-10-23,Silver
+C10405,Harsh Joshi,Gujarat,4,113596.45,2026-06-28,2026-09-23,Gold
+C10983,Divya Jadhav,Tamil Nadu,4,88101.05,2026-01-07,2026-04-30,Silver
+C10199,Ketan Singh,Maharashtra,1,3849.65,2026-10-02,2026-10-02,Bronze
+C10303,Arun Menon,Maharashtra,2,15587.0,2026-03-21,2026-03-28,Bronze
+C10324,Omkar Patil,Maharashtra,5,64893.35,2026-01-01,2026-09-28,Silver
+C10901,Pallavi Rao,Karnataka,2,116910.2,2026-09-15,2026-10-15,Gold
+C10933,Komal Chavan,Karnataka,2,9559.3,2026-01-19,2026-10-01,Bronze
+C10936,Aarav Nair,Maharashtra,2,31449.2,2026-03-12,2026-08-27,Silver
+C10879,Harsh Chavan,Gujarat,1,12849.0,2026-09-23,2026-09-23,Bronze
+C10616,Pallavi Bhat,Tamil Nadu,1,12410.1,2026-08-22,2026-08-22,Bronze
+C10062,Pallavi Menon,Karnataka,2,19134.05,2026-04-16,2026-05-28,Bronze
+C10641,Kunal Pawar,Maharashtra,2,40579.25,2026-02-10,2026-03-26,Silver
+C10971,Anjali Kulkarni,Maharashtra,4,32571.7,2026-04-16,2026-09-12,Silver
+C10506,Vivaan Jadhav,Telangana,2,18738.0,2026-04-10,2026-06-24,Bronze
+C10525,Swati Iyer,Karnataka,3,97293.0,2026-01-08,2026-08-30,Silver
+C10777,Isha Gupta,Karnataka,1,33045.3,2026-06-08,2026-06-08,Silver
+C10140,Rohan Kulkarni,Maharashtra,5,312511.6,2026-04-19,2026-10-13,Gold
+C10277,Omkar Sharma,Maharashtra,3,181326.55,2026-02-15,2026-07-24,Gold
+C10510,Diya Pawar,Maharashtra,1,28718.0,2026-05-12,2026-05-12,Silver
+C10202,Suresh Menon,Gujarat,1,15978.0,2026-04-27,2026-04-27,Bronze
+C10628,Nikhil Pawar,Maharashtra,2,89091.0,2026-03-20,2026-07-22,Silver
+C10102,Kabir Mehta,Karnataka,1,44178.0,2026-05-13,2026-05-13,Silver
+C10554,Ketan Menon,Maharashtra,1,40498.0,2026-03-27,2026-03-27,Silver
+C10198,Lakshmi Pawar,Delhi,4,25083.35,2026-01-19,2026-09-30,Silver
+C10552,Ganesh Reddy,Tamil Nadu,3,35304.1,2026-06-26,2026-09-16,Silver
+C10124,Meera Chavan,Delhi,3,104952.8,2026-05-25,2026-09-13,Gold
+C10753,Rohan Pillai,Tamil Nadu,1,8959.0,2026-06-30,2026-06-30,Bronze
+C10101,Sahil Jadhav,Telangana,1,7599.2,2026-10-20,2026-10-20,Bronze
+C10369,Pallavi Verma,Karnataka,1,9769.0,2026-05-11,2026-05-11,Bronze
+C10668,Neha Verma,Telangana,1,8891.05,2026-04-15,2026-04-15,Bronze
+C10982,Aarav Chavan,Karnataka,2,38832.2,2026-03-07,2026-06-16,Silver
+C10316,Akash Verma,Maharashtra,1,9955.05,2026-02-19,2026-02-19,Bronze
+C10957,Rahul Gupta,Telangana,3,118306.2,2026-04-22,2026-09-17,Gold
+C10194,Varun Pawar,Tamil Nadu,3,77039.45,2026-03-16,2026-06-16,Silver
+C10373,Shruti Shah,Maharashtra,1,10769.0,2026-10-19,2026-10-19,Bronze
+C10280,Priya Pawar,Maharashtra,1,32796.8,2026-04-15,2026-04-15,Silver
+C10357,Manish Mehta,Maharashtra,1,25455.2,2026-06-17,2026-06-17,Silver
+C10544,Diya Rao,Tamil Nadu,1,15242.75,2026-09-27,2026-09-27,Bronze
+C10867,Kabir Menon,Tamil Nadu,1,5339.0,2026-10-05,2026-10-05,Bronze
+C10397,Aditya Singh,Maharashtra,4,31920.1,2026-01-30,2026-09-18,Silver
+C10086,Ketan Mehta,Telangana,3,43258.2,2026-04-03,2026-08-02,Silver
+C10579,Rohan Singh,Maharashtra,1,9458.0,2026-06-03,2026-06-03,Bronze
+C10756,Pooja Gupta,Telangana,4,82173.2,2026-04-11,2026-10-11,Silver
+C10932,Aarav Mehta,Karnataka,2,14194.0,2026-05-05,2026-08-10,Bronze
+C10458,Vivaan Kulkarni,Maharashtra,2,46714.5,2026-04-07,2026-06-07,Silver
+C10226,Sneha Pawar,Maharashtra,1,1614.05,2026-10-12,2026-10-12,Bronze
+C10826,Sneha Menon,Tamil Nadu,5,49999.4,2026-02-26,2026-09-02,Silver
+C10113,Pranav Verma,Tamil Nadu,3,41301.7,2026-04-29,2026-10-01,Silver
+C10222,Lakshmi Pillai,Telangana,1,7079.0,2026-03-02,2026-03-02,Bronze
+C10117,Rutuja Singh,Telangana,2,83500.5,2026-01-04,2026-04-23,Silver
+C10191,Sahil Jadhav,Tamil Nadu,2,5390.2,2026-06-13,2026-10-10,Bronze
+C10772,Komal Bhat,Maharashtra,1,3029.0,2026-03-20,2026-03-20,Bronze
+C10091,Meera Mehta,Karnataka,1,2492.1,2026-08-06,2026-08-06,Bronze
+C10639,Komal Menon,Gujarat,3,61119.35,2026-01-15,2026-03-29,Silver
+C10019,Manish Nair,Gujarat,2,19458.0,2026-04-26,2026-09-01,Bronze
+C10001,Sneha Jadhav,Telangana,1,22999.3,2026-08-11,2026-08-11,Bronze
+C10546,Rohan Chavan,Tamil Nadu,1,39100.8,2026-07-05,2026-07-05,Silver
+C10212,Swati Reddy,Gujarat,3,48437.0,2026-05-31,2026-07-29,Silver
+C10136,Pranav Singh,Telangana,1,36479.0,2026-07-11,2026-07-11,Silver
+C10808,Pallavi Bhat,Gujarat,1,5607.0,2026-10-24,2026-10-24,Bronze
+C10792,Arun Chavan,Karnataka,3,155356.9,2026-01-18,2026-05-18,Gold
+C10949,Lakshmi Joshi,Karnataka,1,5119.0,2026-09-02,2026-09-02,Bronze
+C10672,Anjali Pawar,Gujarat,1,6259.0,2026-04-30,2026-04-30,Bronze
+C10744,Lakshmi Shah,Maharashtra,1,18779.0,2026-10-11,2026-10-11,Bronze
+C10700,Shruti Pawar,Gujarat,4,115356.2,2026-01-02,2026-07-19,Gold
+C10757,Nikhil Menon,Maharashtra,2,26867.0,2026-07-22,2026-10-22,Silver
+C10427,Anjali Gupta,Gujarat,2,120374.0,2026-03-26,2026-07-01,Gold
+C10104,Sameer Bhat,Maharashtra,1,1500.05,2026-04-24,2026-04-24,Bronze
+C10802,Mrunal Joshi,Gujarat,1,3938.0,2026-06-21,2026-06-21,Bronze
+C10125,Arjun Joshi,Tamil Nadu,2,23298.0,2026-05-03,2026-10-07,Bronze
+C10499,Mrunal Iyer,Karnataka,3,59050.05,2026-02-07,2026-09-17,Silver
+C10723,Lakshmi Chavan,Tamil Nadu,2,52660.9,2026-02-08,2026-07-25,Silver
+C10625,Sameer Pawar,Tamil Nadu,2,65947.0,2026-03-28,2026-05-20,Silver
+C10583,Kabir Bhat,Delhi,3,72875.0,2026-01-28,2026-03-23,Silver
+C10210,Meera Menon,Maharashtra,3,21758.65,2026-05-12,2026-09-29,Bronze
+C10341,Deepa Desai,Tamil Nadu,2,168646.5,2026-02-18,2026-06-05,Gold
+C10245,Komal Kulkarni,Karnataka,3,60641.0,2026-04-04,2026-06-18,Silver
+C10598,Isha Iyer,Karnataka,3,62698.5,2026-01-10,2026-04-15,Silver
+C10128,Shruti Iyer,Karnataka,2,23048.0,2026-03-31,2026-07-06,Bronze
+C10685,Harsh Mehta,Karnataka,1,50436.0,2026-03-25,2026-03-25,Silver
+C10683,Arun Sharma,Maharashtra,1,8022.75,2026-03-07,2026-03-07,Bronze
+C10584,Arun Menon,Gujarat,2,47279.6,2026-03-30,2026-05-30,Silver
+C10832,Pranav Chavan,Maharashtra,2,30434.25,2026-01-19,2026-09-09,Silver
+C10334,Kunal Sharma,Karnataka,2,12586.15,2026-05-17,2026-07-11,Bronze
+C10348,Nisha Shah,Maharashtra,2,143061.0,2026-07-24,2026-08-09,Gold
+C10014,Riya Mehta,Telangana,3,42461.1,2026-02-13,2026-07-04,Silver
+C10008,Neha Chavan,Gujarat,2,23982.1,2026-01-06,2026-03-29,Bronze
+C10043,Omkar Joshi,Delhi,4,163917.8,2026-01-24,2026-09-15,Gold
+C10530,Suresh Kulkarni,Maharashtra,1,7939.0,2026-05-15,2026-05-15,Bronze
+C10675,Ketan Chavan,Telangana,2,106732.2,2026-01-11,2026-03-13,Gold
+C10627,Sameer Mehta,Maharashtra,5,133548.0,2026-01-15,2026-08-23,Gold
+C10990,Kunal Shah,Maharashtra,3,59169.45,2026-01-11,2026-06-07,Silver
+C10513,Rutuja Patil,Telangana,3,59098.25,2026-01-10,2026-05-07,Silver
+C10311,Tanvi Joshi,Karnataka,3,77357.65,2026-01-14,2026-08-05,Silver
+C10558,Akash Singh,Delhi,1,6832.3,2026-07-18,2026-07-18,Bronze
+C10673,Aarav Desai,Tamil Nadu,1,39345.0,2026-01-31,2026-01-31,Silver
+C10715,Pooja Bhat,Maharashtra,2,14828.15,2026-04-05,2026-08-16,Bronze
+C10135,Nisha Jadhav,Gujarat,3,10720.35,2026-02-14,2026-05-11,Bronze
+C10359,Mrunal Pawar,Tamil Nadu,1,3532.6,2026-02-15,2026-02-15,Bronze
+C10916,Arjun Chavan,Karnataka,1,9338.0,2026-08-28,2026-08-28,Bronze
+C10852,Lakshmi Shah,Gujarat,2,8096.25,2026-01-28,2026-03-04,Bronze
+C10820,Siddharth Desai,Maharashtra,4,131708.5,2026-02-16,2026-09-11,Gold
+C10563,Rohan Patil,Gujarat,3,24289.7,2026-04-06,2026-08-09,Bronze
+C10455,Rohan Pawar,Maharashtra,3,83411.6,2026-02-05,2026-09-09,Silver
+C10827,Sakshi Joshi,Maharashtra,1,1969.0,2026-04-26,2026-04-26,Bronze
+C10724,Yash Kulkarni,Gujarat,2,44734.5,2026-02-24,2026-09-21,Silver
+C10386,Deepa Verma,Tamil Nadu,3,141619.0,2026-01-01,2026-07-24,Gold
+C10745,Nikhil Mehta,Telangana,1,38789.0,2026-02-05,2026-02-05,Silver
+C10179,Pranav Gupta,Maharashtra,5,34684.5,2026-02-05,2026-08-07,Silver
+C10197,Aarav Kulkarni,Karnataka,3,27230.9,2026-02-02,2026-04-28,Silver
+C10896,Isha Nair,Maharashtra,3,66804.9,2026-01-30,2026-08-06,Silver
+C10133,Pallavi Pillai,Gujarat,2,10110.6,2026-03-10,2026-09-25,Bronze
+C10172,Priya Mehta,Gujarat,2,80419.35,2026-03-06,2026-07-24,Silver
+C10999,Deepa Rao,Delhi,1,2987.1,2026-07-09,2026-07-09,Bronze
+C10083,Ananya Mehta,Tamil Nadu,3,21659.1,2026-01-06,2026-08-31,Bronze
+C10987,Tejas Desai,Delhi,3,60308.2,2026-03-31,2026-09-17,Silver
+C10841,Akash Iyer,Telangana,2,40477.3,2026-06-28,2026-08-03,Silver
+C10542,Priya Pawar,Gujarat,1,10467.1,2026-04-10,2026-04-10,Bronze
+C10251,Suresh Chavan,Maharashtra,3,28865.65,2026-02-16,2026-10-24,Silver
+C10356,Rutuja Patil,Karnataka,4,27578.9,2026-02-10,2026-05-06,Silver
+C10565,Rahul Joshi,Telangana,1,3549.0,2026-07-14,2026-07-14,Bronze
+C10909,Arjun Bhat,Karnataka,2,145314.0,2026-05-21,2026-10-24,Gold
+C10457,Akash Iyer,Maharashtra,1,27356.0,2026-04-05,2026-04-05,Silver
+C10505,Yash Gupta,Maharashtra,1,30796.0,2026-07-05,2026-07-05,Silver
+C10100,Mrunal Bhat,Tamil Nadu,2,28298.1,2026-05-25,2026-06-11,Silver
+C10246,Rohan Menon,Telangana,3,46062.75,2026-03-18,2026-10-28,Silver
+C10953,Pranav Gupta,Tamil Nadu,1,5584.1,2026-01-05,2026-01-05,Bronze
+C10779,Shruti Singh,Delhi,1,11326.4,2026-09-19,2026-09-19,Bronze
+C10404,Isha Mehta,Gujarat,1,21132.75,2026-04-30,2026-04-30,Bronze
+C10737,Shruti Gupta,Tamil Nadu,2,11993.55,2026-07-12,2026-07-13,Bronze
+C10284,Aditya Patil,Gujarat,2,13517.25,2026-04-09,2026-09-13,Bronze
+C10346,Anjali Singh,Maharashtra,3,158533.2,2026-04-12,2026-08-17,Gold
+C10866,Tanvi Patil,Tamil Nadu,2,18282.05,2026-05-12,2026-07-30,Bronze
+C10925,Rohan Menon,Telangana,2,12371.2,2026-03-16,2026-05-30,Bronze
+C10065,Deepa Reddy,Maharashtra,1,14939.0,2026-07-06,2026-07-06,Bronze
+C10181,Manish Pillai,Maharashtra,3,70119.5,2026-02-25,2026-03-21,Silver
+C10080,Anjali Gupta,Gujarat,1,65926.2,2026-08-08,2026-08-08,Silver
+C10649,Komal Reddy,Maharashtra,1,8094.4,2026-10-10,2026-10-10,Bronze
+C10931,Aditya Patil,Tamil Nadu,3,86184.0,2026-03-19,2026-10-22,Silver
+C10383,Swati Shah,Karnataka,1,16140.65,2026-09-22,2026-09-22,Bronze
+C10396,Kunal Jadhav,Gujarat,5,50513.15,2026-04-18,2026-09-26,Silver
+C10952,Gauri Nair,Maharashtra,3,60216.2,2026-02-11,2026-08-17,Silver
+C10804,Mrunal Sharma,Karnataka,4,40578.05,2026-02-07,2026-09-21,Silver
+C10007,Yash Chavan,Maharashtra,3,99256.1,2026-01-12,2026-09-01,Silver
+C10248,Shruti Gupta,Gujarat,3,35225.3,2026-03-23,2026-10-25,Silver
+C10928,Sakshi Menon,Maharashtra,1,16167.1,2026-06-09,2026-06-09,Bronze
+C10587,Aditya Nair,Karnataka,4,16196.65,2026-02-18,2026-09-04,Bronze
+C10731,Gauri Joshi,Maharashtra,1,10479.0,2026-04-03,2026-04-03,Bronze
+C10317,Arun Rao,Gujarat,1,30018.0,2026-03-08,2026-03-08,Silver
+C10732,Komal Sharma,Tamil Nadu,2,12272.1,2026-05-29,2026-10-03,Bronze
+C10329,Rutuja Kulkarni,Delhi,2,45065.45,2026-04-09,2026-06-17,Silver
+C10339,Arun Bhat,Maharashtra,1,71795.0,2026-06-29,2026-06-29,Silver
+C10795,Deepa Pawar,Tamil Nadu,1,20945.0,2026-02-27,2026-02-27,Bronze
+C10725,Tejas Sharma,Gujarat,3,170166.35,2026-01-15,2026-07-24,Gold
+C10309,Meera Rao,Maharashtra,2,36681.75,2026-05-15,2026-10-24,Silver
+C10201,Varun Sharma,Maharashtra,2,45275.0,2026-05-03,2026-07-10,Silver
+C10766,Siddharth Iyer,Karnataka,2,29329.0,2026-05-23,2026-09-07,Silver
+C10930,Ganesh Reddy,Delhi,3,17400.2,2026-03-11,2026-06-25,Bronze
+C10815,Shruti Jadhav,Tamil Nadu,2,21922.05,2026-07-24,2026-07-27,Bronze
+C10130,Ananya Menon,Telangana,3,85292.3,2026-02-07,2026-06-25,Silver
+C10493,Ananya Sharma,Maharashtra,7,101645.85,2026-02-07,2026-09-12,Gold
+C10787,Sneha Reddy,Tamil Nadu,2,23652.35,2026-02-17,2026-08-07,Bronze
+C10266,Ketan Desai,Maharashtra,3,100231.0,2026-03-21,2026-09-21,Gold
+C10413,Nikhil Iyer,Delhi,4,215253.2,2026-02-09,2026-07-10,Gold
+C10444,Komal Verma,Maharashtra,1,16994.55,2026-04-08,2026-04-08,Bronze
+C10099,Kavya Verma,Maharashtra,2,6592.1,2026-03-18,2026-04-28,Bronze
+C10295,Amit Pawar,Tamil Nadu,1,76666.6,2026-02-19,2026-02-19,Silver
+C10399,Aarav Gupta,Delhi,1,74320.6,2026-08-11,2026-08-11,Silver
+C10453,Kabir Patil,Tamil Nadu,1,14381.15,2026-04-21,2026-04-21,Bronze
+C10760,Manish Patil,Telangana,4,109495.2,2026-01-09,2026-07-08,Gold
+C10581,Pallavi Mehta,Gujarat,3,120755.1,2026-02-06,2026-08-07,Gold
+C10060,Shruti Pawar,Karnataka,2,49634.0,2026-09-21,2026-10-10,Silver
+C10045,Priya Patil,Tamil Nadu,2,44990.2,2026-07-25,2026-10-18,Silver
+C10213,Rahul Kulkarni,Karnataka,2,103463.0,2026-01-10,2026-03-28,Gold
+C10494,Omkar Gupta,Maharashtra,5,73298.9,2026-02-04,2026-04-10,Silver
+C10408,Swati Desai,Karnataka,2,17414.2,2026-02-07,2026-09-09,Bronze
+C10582,Swati Nair,Karnataka,3,55673.65,2026-01-14,2026-08-17,Silver
+C10875,Rohan Menon,Karnataka,1,6027.0,2026-06-28,2026-06-28,Bronze
+C10017,Anjali Bhat,Telangana,2,22930.4,2026-02-05,2026-05-25,Bronze
+C10822,Arjun Joshi,Tamil Nadu,2,175325.2,2026-03-24,2026-09-09,Gold
+C10923,Amit Verma,Telangana,2,14455.4,2026-02-21,2026-05-04,Bronze
+C10821,Sneha Chavan,Telangana,3,29004.5,2026-01-29,2026-10-07,Silver
+C10406,Harsh Mehta,Maharashtra,1,7127.2,2026-10-26,2026-10-26,Bronze
+C10652,Aarav Chavan,Karnataka,3,74019.3,2026-01-07,2026-04-24,Silver
+C10363,Kiran Menon,Telangana,1,26990.0,2026-08-14,2026-08-14,Silver
+C10662,Pallavi Desai,Delhi,3,69019.3,2026-01-04,2026-06-11,Silver
+C10278,Isha Sharma,Gujarat,1,106827.0,2026-08-27,2026-08-27,Gold
+C10114,Rahul Iyer,Gujarat,1,1219.0,2026-01-02,2026-01-02,Bronze
+C10449,Ketan Joshi,Karnataka,4,67107.7,2026-05-04,2026-08-25,Silver
+C10376,Manish Joshi,Gujarat,1,29680.2,2026-01-09,2026-01-09,Silver
+C10509,Rohan Pillai,Delhi,4,188093.75,2026-04-03,2026-10-10,Gold
+C10829,Suresh Desai,Telangana,4,83853.0,2026-03-18,2026-10-10,Silver
+C10876,Isha Iyer,Karnataka,2,41432.55,2026-04-24,2026-05-02,Silver
+C10786,Sameer Sharma,Maharashtra,1,1729.0,2026-09-01,2026-09-01,Bronze
+C10556,Harsh Mehta,Telangana,1,17402.1,2026-08-20,2026-08-20,Bronze
+C10450,Gauri Sharma,Tamil Nadu,2,14633.1,2026-06-09,2026-10-02,Bronze
+C10791,Sameer Rao,Maharashtra,3,52991.8,2026-02-18,2026-07-04,Silver
+C10906,Sahil Jadhav,Tamil Nadu,3,77158.8,2026-02-21,2026-07-09,Silver
+C10630,Pooja Verma,Tamil Nadu,1,13419.0,2026-06-01,2026-06-01,Bronze
+C10691,Varun Joshi,Karnataka,2,19375.2,2026-07-31,2026-10-23,Bronze
+C10989,Ketan Singh,Tamil Nadu,2,23394.4,2026-04-22,2026-09-05,Bronze
+C10596,Rahul Kulkarni,Telangana,2,129242.75,2026-07-02,2026-10-16,Gold
+C10343,Shruti Iyer,Karnataka,3,68872.15,2026-02-22,2026-09-28,Silver
+C10830,Arun Desai,Karnataka,3,50124.6,2026-04-19,2026-08-25,Silver
+C10242,Aarav Mehta,Maharashtra,2,18152.0,2026-02-27,2026-04-03,Bronze
+C10159,Pallavi Reddy,Maharashtra,1,5277.0,2026-07-18,2026-07-18,Bronze
+C10739,Isha Pillai,Karnataka,2,98591.4,2026-08-03,2026-09-06,Silver
+C10070,Varun Kulkarni,Maharashtra,2,25525.05,2026-06-12,2026-06-19,Silver
+C10029,Aditya Desai,Telangana,1,31274.1,2026-06-08,2026-06-08,Silver
+C10254,Tejas Patil,Tamil Nadu,2,36653.5,2026-01-17,2026-05-30,Silver
+C10904,Diya Verma,Tamil Nadu,1,46364.4,2026-07-08,2026-07-08,Silver

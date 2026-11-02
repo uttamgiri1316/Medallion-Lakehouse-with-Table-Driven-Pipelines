@@ -1,0 +1,4 @@
+source_id,source_file,bronze_table,silver_table,key_column,load_order,is_active
+1,customers.csv,bronze_customers,silver_customers,customer_id,1,Y
+2,products.csv,bronze_products,silver_products,product_id,2,Y
+3,orders.csv,bronze_orders,silver_orders,order_id,3,Y

@@ -1,0 +1,1001 @@
+customer_id,customer_name,email,phone,city,state,signup_date,segment,updated_at,_source_file,_load_ts,_run_id,is_email_valid
+C10001,Sneha Jadhav,sneha.jadhav1@example.in,9923418596,Warangal,Telangana,2025-10-24,Retail,2026-08-01 09:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10002,Sahil Singh,sahil.singh2@example.in,9904521971,Vadodara,Gujarat,2025-07-14,SMB,2026-08-01 10:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10003,Suresh Verma,suresh.verma3@example.in,9659496827,New Delhi,Delhi,2024-01-03,Retail,2026-08-01 10:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10004,Yash Reddy,yash.reddy4@example.in,9956664961,New Delhi,Delhi,2026-04-14,SMB,2026-08-01 11:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10005,Swati Jadhav,swati.jadhav5@example.in,9373294770,Mysuru,Karnataka,2024-09-14,SMB,2026-08-01 12:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10006,Deepa Bhat,deepa.bhat6@example.in,9598557955,Mumbai,Maharashtra,2024-04-01,Retail,2026-08-01 12:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10007,Yash Chavan,yash.chavan7@example.in,9026563621,Nagpur,Maharashtra,2024-11-12,Retail,2026-08-01 13:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10008,Neha Chavan,neha.chavan8@example.in,9956670387,Vadodara,Gujarat,2025-02-12,SMB,2026-08-01 13:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10009,Komal Reddy,komal.reddy9@example.in,9805463982,Vadodara,Gujarat,2026-04-01,SMB,2026-08-01 14:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10010,Shruti Bhat,shruti.bhat10@example.in,9994535237,Chennai,Tamil Nadu,2025-07-31,SMB,2026-08-01 15:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10011,Nisha Patil,nisha.patil11@example.in,9052492769,Mangaluru,Karnataka,2026-04-17,SMB,2026-08-01 15:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10012,Amit Reddy,amit.reddy12@example.in,9517665009,Vadodara,Gujarat,2024-05-25,Retail,2026-08-01 16:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10013,Ketan Chavan,ketan.chavan13@example.in,9601076435,Hyderabad,Telangana,2024-09-14,Enterprise,2026-08-01 17:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10014,Riya Mehta,riya.mehta14@example.in,9949671058,Warangal,Telangana,2026-04-04,SMB,2026-08-01 17:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10015,Rahul Menon,rahul.menon15@example.in,9160893498,Chennai,Tamil Nadu,2024-02-03,SMB,2026-08-01 18:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10016,Anjali Bhat,anjali.bhat16@example.in,9279291540,Hyderabad,Telangana,2024-07-23,SMB,2026-08-01 18:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10017,Anjali Bhat,anjali.bhat17@example.in,9712854559,Hyderabad,Telangana,2025-07-25,Retail,2026-08-01 19:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10018,Omkar Chavan,omkar.chavan18@example.in,9769355824,Nashik,Maharashtra,2025-12-06,Retail,2026-08-01 20:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10019,Manish Nair,manish.nair19@example.in,9696373372,Vadodara,Gujarat,2024-03-06,SMB,2026-08-01 20:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10020,Neha Reddy,neha.reddy20@example.in,9482534007,Mysuru,Karnataka,2024-05-29,Retail,2026-08-01 21:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10021,Aarav Chavan,aarav.chavan21@example.in,9213450963,Mumbai,Maharashtra,2026-03-23,Retail,2026-08-01 21:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10022,Divya Sharma,divya.sharma22@example.in,9005509473,Chennai,Tamil Nadu,2024-06-07,Enterprise,2026-08-01 22:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10023,Pallavi Verma,pallavi.verma23@example.in,9239366764,Hyderabad,Telangana,2025-07-12,SMB,2026-08-01 23:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10024,Vivaan Singh,vivaan.singh24@example.in,9448586715,Warangal,Telangana,2024-03-27,Retail,2026-08-01 23:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10025,Vivaan Verma,vivaan.verma25@example.in,9419196655,Coimbatore,Tamil Nadu,2025-02-25,SMB,2026-08-02 00:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10026,Rahul Shah,rahul.shah26@example.in,9953236592,Kolhapur,Maharashtra,2025-02-02,Retail,2026-08-02 01:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10027,Pranav Pawar,pranav.pawar27@example.in,9511127328,Kolhapur,Maharashtra,2025-06-06,Enterprise,2026-08-02 01:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10028,Riya Chavan,riya.chavan28@example.in,9500989477,Madurai,Tamil Nadu,2025-05-24,SMB,2026-08-02 02:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10029,Aditya Desai,,9669309519,Warangal,Telangana,2025-03-20,SMB,2026-08-02 02:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10030,Sahil Gupta,sahil.gupta30@example.in,9036671169,Mumbai,Maharashtra,2025-02-12,Enterprise,2026-08-02 03:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10031,Pooja Sharma,,9810363366,Pune,Maharashtra,2026-06-07,Retail,2026-08-02 04:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10032,Tejas Patil,tejas.patil32@example.in,9843326434,Nagpur,Maharashtra,2024-08-11,Retail,2026-08-02 04:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10033,Aditya Nair,aditya.nair33@example.in,9572316109,Surat,Gujarat,2025-03-11,Retail,2026-08-02 05:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10034,Varun Menon,varun.menon34@example.in,9282870507,Bengaluru,Karnataka,2024-06-27,SMB,2026-08-02 05:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10035,Kiran Rao,kiran.rao35@example.in,9349813560,Coimbatore,Tamil Nadu,2024-06-30,SMB,2026-08-02 06:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10036,Manish Reddy,manish.reddy36@example.in,9294025590,Warangal,Telangana,2026-03-26,Retail,2026-08-02 07:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10037,Nikhil Patil,,9354809561,Mumbai,Maharashtra,2025-10-23,SMB,2026-08-02 07:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10038,Amit Nair,,9168318828,Kolhapur,Maharashtra,2026-05-16,SMB,2026-08-02 08:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10039,Swati Verma,swati.verma39@example.in,9768812610,Mysuru,Karnataka,2025-09-27,SMB,2026-08-02 09:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10040,Suresh Verma,suresh.verma40@example.in,9604335600,Mysuru,Karnataka,2024-10-28,Enterprise,2026-08-02 09:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10041,Rutuja Desai,rutuja.desai41@example.in,9468208209,Nashik,Maharashtra,2024-04-08,Retail,2026-08-02 10:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10042,Swati Sharma,swati.sharma42@example.in,9676550271,Ahmedabad,Gujarat,2025-10-23,SMB,2026-08-02 10:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10043,Omkar Joshi,omkar.joshi43@example.in,9173292139,New Delhi,Delhi,2024-11-18,Enterprise,2026-10-16 02:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10044,Kabir Patil,kabir.patil44@example.in,9016567828,Vadodara,Gujarat,2025-02-28,Retail,2026-08-02 12:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10045,Priya Patil,priya.patil45@example.in,9736400609,Coimbatore,Tamil Nadu,2024-04-06,SMB,2026-08-02 12:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10046,Pranav Jadhav,pranav.jadhav46@example.in,9702997131,New Delhi,Delhi,2025-10-02,SMB,2026-08-02 13:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10047,Rohan Shah,rohan.shah47@example.in,9637864324,Madurai,Tamil Nadu,2024-08-08,SMB,2026-08-02 13:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10048,Swati Reddy,swati.reddy48@example.in,9991849711,Ahmedabad,Gujarat,2025-11-28,SMB,2026-08-02 14:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10049,Yash Pawar,,9025408290,Pune,Maharashtra,2026-06-18,Enterprise,2026-08-02 15:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10050,Sakshi Menon,sakshi.menon50@example.in,9447360045,Nashik,Maharashtra,2026-02-25,SMB,2026-08-02 15:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10051,Diya Mehta,diya.mehta51@example.in,9060285397,Madurai,Tamil Nadu,2025-07-28,Retail,2026-08-02 16:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10052,Aditya Singh,aditya.singh52@example.in,9134949974,Nashik,Maharashtra,2024-02-08,Retail,2026-08-02 17:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10053,Sahil Menon,sahil.menon53@example.in,9135611246,Kolhapur,Maharashtra,2025-08-15,SMB,2026-08-02 17:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10054,Varun Shah,varun.shah54@example.in,9235756434,Mangaluru,Karnataka,2025-11-09,Retail,2026-08-02 18:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10055,Akash Patil,,9158573823,Surat,Gujarat,2026-03-16,Retail,2026-08-02 18:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10056,Diya Joshi,diya.joshi56@example.in,,Hyderabad,Telangana,2024-09-27,Enterprise,2026-08-02 19:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10057,Pallavi Iyer,pallavi.iyer57@example.in,,Bengaluru,Karnataka,2024-02-08,Retail,2026-08-02 20:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10058,Sakshi Bhat,sakshi.bhat58@example.in,9902643474,Madurai,Tamil Nadu,2025-11-04,Enterprise,2026-08-02 20:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10059,Priya Pillai,,9546126839,Pune,Maharashtra,2025-11-26,Enterprise,2026-08-02 21:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10060,Shruti Pawar,shruti.pawar60@example.in,9296097140,Mangaluru,Karnataka,2026-04-28,Retail,2026-08-02 22:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10061,Neha Pawar,neha.pawar61@example.in,9871274398,New Delhi,Delhi,2025-07-15,Enterprise,2026-08-02 22:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10062,Pallavi Menon,pallavi.menon62@example.in,9440812061,Mysuru,Karnataka,2025-10-05,SMB,2026-08-02 23:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10063,Aarav Pawar,aarav.pawar63@example.in,9040272065,Warangal,Telangana,2026-03-25,Retail,2026-08-02 23:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10064,Meera Menon,meera.menon64@example.in,9284557547,Ahmedabad,Gujarat,2026-01-18,Enterprise,2026-08-03 00:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10065,Deepa Reddy,deepa.reddy65@example.in,9912478246,Kolhapur,Maharashtra,2024-08-10,SMB,2026-08-03 01:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10066,Riya Verma,riya.verma66@example.in,9578726398,Coimbatore,Tamil Nadu,2025-01-24,Retail,2026-10-16 04:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10067,Amit Nair,amit.nair67@example.in,9152355731,Warangal,Telangana,2024-03-28,SMB,2026-08-03 02:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10068,Sakshi Mehta,,9791702093,Chennai,Tamil Nadu,2024-02-12,Enterprise,2026-08-03 02:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10069,Rahul Nair,rahul.nair69@example.in,9306637893,Coimbatore,Tamil Nadu,2025-07-08,Retail,2026-08-03 03:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10070,Varun Kulkarni,varun.kulkarni70@example.in,,Kolhapur,Maharashtra,2025-10-25,Retail,2026-08-03 04:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10071,Kiran Mehta,kiran.mehta71@example.in,9192868844,Bengaluru,Karnataka,2024-01-31,SMB,2026-08-03 04:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10072,Ananya Nair,ananya.nair72@example.in,9716940355,Kolhapur,Maharashtra,2025-06-11,Enterprise,2026-08-03 05:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10073,Kiran Patil,kiran.patil73@example.in,,Ahmedabad,Gujarat,2025-01-11,SMB,2026-08-03 06:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10074,Ananya Singh,ananya.singh74@example.in,9350352551,Mangaluru,Karnataka,2024-04-18,Retail,2026-08-03 06:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10075,Arun Iyer,arun.iyer75@example.in,9323728089,Surat,Gujarat,2025-09-23,Retail,2026-08-03 07:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10076,Pranav Pillai,pranav.pillai76@example.in,9557214404,Hyderabad,Telangana,2025-07-22,Retail,2026-08-03 07:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10077,Swati Chavan,swati.chavan77@example.in,9836494403,Ahmedabad,Gujarat,2024-03-11,SMB,2026-08-03 08:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10078,Kiran Menon,kiran.menon78@example.in,9348968265,Chennai,Tamil Nadu,2024-06-21,SMB,2026-08-03 09:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10079,Rutuja Jadhav,rutuja.jadhav79@example.in,9336813925,Madurai,Tamil Nadu,2025-02-16,Retail,2026-08-03 09:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10080,Anjali Gupta,anjali.gupta80@example.in,9892946454,Ahmedabad,Gujarat,2025-02-23,SMB,2026-08-03 10:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10081,Kavya Desai,kavya.desai81@example.in,9790392551,New Delhi,Delhi,2025-11-03,SMB,2026-08-03 10:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10082,Tanvi Jadhav,,9903210259,Surat,Gujarat,2024-09-29,Retail,2026-10-17 09:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10083,Ananya Mehta,ananya.mehta83@example.in,9154044219,Chennai,Tamil Nadu,2024-12-05,Retail,2026-08-03 12:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10084,Tanvi Menon,tanvi.menon84@example.in,9023322541,Surat,Gujarat,2025-02-13,SMB,2026-10-18 02:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10085,Sakshi Rao,sakshi.rao85@example.in,9823725387,Madurai,Tamil Nadu,2025-11-26,Enterprise,2026-08-03 13:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10086,Ketan Mehta,ketan.mehta86@example.in,9378129394,Warangal,Telangana,2025-03-10,Retail,2026-08-03 14:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10087,Isha Shah,isha.shah87@example.in,9600137340,Bengaluru,Karnataka,2024-09-30,Retail,2026-08-03 14:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10088,Vivaan Jadhav,vivaan.jadhav88@example.in,9954754873,Vadodara,Gujarat,2026-05-21,Retail,2026-08-03 15:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10089,Aarav Sharma,aarav.sharma89@example.in,9914712400,Mangaluru,Karnataka,2025-11-07,Retail,2026-08-03 15:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10090,Diya Kulkarni,diya.kulkarni90@example.in,9668753987,New Delhi,Delhi,2024-10-10,Retail,2026-08-03 16:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10091,Meera Mehta,meera.mehta91@example.in,9012233286,Mysuru,Karnataka,2026-02-26,Retail,2026-08-03 17:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10092,Sakshi Gupta,sakshi.gupta92@example.in,9722781712,New Delhi,Delhi,2025-09-12,Enterprise,2026-08-03 17:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10093,Riya Iyer,riya.iyer93@example.in,9632499199,Vadodara,Gujarat,2025-11-28,Retail,2026-08-03 18:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10094,Arjun Patil,arjun.patil94@example.in,9198919457,Chennai,Tamil Nadu,2024-02-15,Enterprise,2026-08-03 18:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10095,Sameer Gupta,sameer.gupta95@example.in,,Hyderabad,Telangana,2024-12-17,SMB,2026-08-03 19:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10096,Tejas Joshi,tejas.joshi96@example.in,9268545197,Hyderabad,Telangana,,Enterprise,2026-08-03 20:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10097,Komal Desai,komal.desai97@example.in,9393190766,Kolhapur,Maharashtra,2026-04-08,SMB,2026-08-03 20:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10098,Rahul Pawar,rahul.pawar98@example.in,9786135614,Chennai,Tamil Nadu,2026-05-12,Retail,2026-08-03 21:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10099,Kavya Verma,kavya.verma99@example.in,9069314647,Pune,Maharashtra,2026-06-02,Enterprise,2026-08-03 22:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10100,Mrunal Bhat,mrunal.bhat100@example.in,9097408033,Coimbatore,Tamil Nadu,2025-09-23,SMB,2026-08-03 22:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10101,Sahil Jadhav,sahil.jadhav101@example.in,9364652665,Hyderabad,Telangana,2025-11-07,Retail,2026-08-03 23:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10102,Kabir Mehta,kabir.mehta102@example.in,9566928117,Bengaluru,Karnataka,2026-06-11,SMB,2026-08-03 23:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10103,Ketan Reddy,ketan.reddy103@example.in,9258659374,Mysuru,Karnataka,2025-04-19,SMB,2026-08-04 00:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10104,Sameer Bhat,sameer.bhat104@example.in,9850061490,Nagpur,Maharashtra,2024-08-04,Enterprise,2026-08-04 01:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10105,Komal Desai,komal.desai105@example.in,9420909020,Madurai,Tamil Nadu,2025-10-28,SMB,2026-08-04 01:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10106,Arun Mehta,arun.mehta106@example.in,9591963319,Mysuru,Karnataka,2025-09-13,Retail,2026-08-04 02:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10107,Arun Desai,arun.desai107@example.in,9860983122,Nagpur,Maharashtra,2024-03-03,Retail,2026-08-04 02:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10108,Tanvi Menon,tanvi.menon108@example.in,9580163320,Bengaluru,Karnataka,2024-09-30,Retail,2026-08-04 03:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10109,Vivaan Chavan,vivaan.chavan109@example.in,9057598498,Bengaluru,Karnataka,2025-12-10,Enterprise,2026-08-04 04:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10110,Ananya Rao,ananya.rao110@example.in,9322818521,Hyderabad,Telangana,2024-01-30,SMB,2026-08-04 04:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10111,Neha Mehta,neha.mehta111@example.in,9802243279,Mumbai,Maharashtra,2025-11-27,Retail,2026-08-04 05:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10112,Omkar Desai,omkar.desai112@example.in,9008122527,Warangal,Telangana,2025-04-27,Retail,2026-08-04 06:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10113,Pranav Verma,pranav.verma113@example.in,9030159062,Chennai,Tamil Nadu,2026-02-13,SMB,2026-08-04 06:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10114,Rahul Iyer,rahul.iyer114@example.in,9894539783,Vadodara,Gujarat,2024-07-23,Retail,2026-08-04 07:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10115,Nikhil Pillai,nikhil.pillai115@example.in,9575377032,Mysuru,Karnataka,2024-06-11,Enterprise,2026-08-04 07:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10116,Gauri Chavan,gauri.chavan116@example.in,9675755461,Ahmedabad,Gujarat,2024-11-12,SMB,2026-08-04 08:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10117,Rutuja Singh,rutuja.singh117@example.in,9963075418,Hyderabad,Telangana,2026-06-18,Enterprise,2026-08-04 09:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10118,Rahul Reddy,rahul.reddy118@example.in,9729094465,Mumbai,Maharashtra,2026-01-01,Enterprise,2026-08-04 09:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10119,Aditya Reddy,aditya.reddy119@example.in,9465560379,Bengaluru,Karnataka,2025-10-18,SMB,2026-08-04 10:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10120,Diya Mehta,diya.mehta120@example.in,9793637733,Nagpur,Maharashtra,2024-10-21,SMB,2026-08-04 11:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10121,Aarav Pillai,aarav.pillai121@example.in,9902446525,Warangal,Telangana,2024-10-06,SMB,2026-08-04 11:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10122,Vivaan Reddy,vivaan.reddy122@example.in,9385467639,Nagpur,Maharashtra,2024-08-15,SMB,2026-08-04 12:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10123,Sahil Verma,,9810573992,Pune,Maharashtra,2024-11-30,Enterprise,2026-08-04 12:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10124,Meera Chavan,meera.chavan124@example.in,9886859932,New Delhi,Delhi,2025-07-13,Retail,2026-10-15 20:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10125,Arjun Joshi,arjun.joshi125@example.in,9633731558,Coimbatore,Tamil Nadu,2024-03-23,Retail,2026-08-04 14:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10126,Nisha Chavan,nisha.chavan126@example.in,9693067144,Nashik,Maharashtra,2026-03-29,SMB,2026-08-04 14:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10127,Divya Pillai,divya.pillai127@example.in,9144225647,Kolhapur,Maharashtra,2024-11-22,Retail,2026-08-04 15:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10128,Shruti Iyer,shruti.iyer128@example.in,9273748579,Bengaluru,Karnataka,2026-05-31,Retail,2026-08-04 15:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10129,Deepa Iyer,deepa.iyer129@example.in,9919661970,Warangal,Telangana,2026-01-20,Enterprise,2026-08-04 16:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10130,Ananya Menon,ananya.menon130@example.in,9769834137,Hyderabad,Telangana,2024-11-25,Enterprise,2026-08-04 17:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10131,Priya Shah,,9911000814,Mangaluru,Karnataka,2026-05-31,SMB,2026-08-04 17:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10132,Rohan Pillai,rohan.pillai132@example.in,9470860407,Mangaluru,Karnataka,2024-07-07,Retail,2026-08-04 18:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10133,Pallavi Pillai,pallavi.pillai133@example.in,9017554969,Surat,Gujarat,2025-06-26,Retail,2026-08-04 19:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10134,Varun Sharma,varun.sharma134@example.in,9150633173,Warangal,Telangana,2026-03-14,Retail,2026-08-04 19:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10135,Nisha Jadhav,nisha.jadhav135@example.in,9789483351,Ahmedabad,Gujarat,2026-06-03,SMB,2026-10-18 16:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10136,Pranav Singh,pranav.singh136@example.in,9131175587,Warangal,Telangana,2025-06-27,Retail,2026-08-04 20:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10137,Kavya Verma,kavya.verma137@example.in,9491008216,Mumbai,Maharashtra,2024-06-23,Retail,2026-08-04 21:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10138,Arjun Rao,arjun.rao138@example.in,9211144170,Surat,Gujarat,2024-09-07,Retail,2026-08-04 22:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10139,Suresh Nair,suresh.nair139@example.in,9090787196,Warangal,Telangana,2025-01-18,Retail,2026-08-04 22:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10140,Rohan Kulkarni,rohan.kulkarni140@example.in,9716201598,Nashik,Maharashtra,2025-07-16,Retail,2026-08-04 23:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10141,Ganesh Chavan,ganesh.chavan141@example.in,9204014561,Warangal,Telangana,2026-05-29,Enterprise,2026-08-04 23:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10142,Tejas Sharma,tejas.sharma142@example.in,9699937880,Coimbatore,Tamil Nadu,2024-06-21,Retail,2026-08-05 00:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10143,Kavya Patil,kavya.patil143@example.in,9046820256,Coimbatore,Tamil Nadu,2025-10-23,Retail,2026-08-05 01:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10144,Kabir Mehta,kabir.mehta144@example.in,9554795069,Bengaluru,Karnataka,2025-10-12,SMB,2026-08-05 01:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10145,Priya Pillai,priya.pillai145@example.in,9245130416,Pune,Maharashtra,2024-12-26,SMB,2026-08-05 02:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10146,Anjali Iyer,anjali.iyer146@example.in,9443998622,Mangaluru,Karnataka,2024-01-16,SMB,2026-08-05 03:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10147,Meera Chavan,meera.chavan147@example.in,9176726217,Bengaluru,Karnataka,2024-08-30,Retail,2026-08-05 03:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10148,Sameer Jadhav,sameer.jadhav148@example.in,9703921774,Nagpur,Maharashtra,2025-10-23,Retail,2026-10-17 12:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10149,Meera Patil,meera.patil149@example.in,9808399002,Ahmedabad,Gujarat,2026-02-04,SMB,2026-08-05 04:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10150,Nisha Gupta,nisha.gupta150@example.in,9857810590,Hyderabad,Telangana,2025-12-04,Retail,2026-08-05 05:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10151,Komal Mehta,komal.mehta151@example.in,9874461728,Nashik,Maharashtra,2024-01-02,Retail,2026-08-05 06:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10152,Ganesh Pillai,ganesh.pillai152@example.in,9550089936,Bengaluru,Karnataka,2024-12-12,Retail,2026-10-16 02:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10153,Deepa Verma,deepa.verma153@example.in,9124104665,Kolhapur,Maharashtra,2024-08-31,Retail,2026-08-05 07:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10154,Riya Singh,riya.singh154@example.in,9570426272,Bengaluru,Karnataka,2026-02-03,Retail,2026-08-05 07:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10155,Sakshi Nair,sakshi.nair155@example.in,9260547318,New Delhi,Delhi,2024-04-09,SMB,2026-08-05 08:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10156,Suresh Nair,suresh.nair156@example.in,9072496794,Warangal,Telangana,2024-04-25,Retail,2026-08-05 09:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10157,Divya Bhat,divya.bhat157@example.in,9270639986,Coimbatore,Tamil Nadu,2025-02-21,SMB,2026-08-05 09:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10158,Sahil Menon,sahil.menon158@example.in,9671465941,Nagpur,Maharashtra,2025-10-10,SMB,2026-08-05 10:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10159,Pallavi Reddy,pallavi.reddy159@example.in,9348709327,Nashik,Maharashtra,2026-05-01,Retail,2026-08-05 11:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10160,Varun Joshi,varun.joshi160@example.in,9892114569,New Delhi,Delhi,2026-01-15,Retail,2026-08-05 11:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10161,Manish Singh,manish.singh161@example.in,9923423298,Vadodara,Gujarat,2024-10-30,Retail,2026-08-05 12:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10162,Arjun Singh,arjun.singh162@example.in,9750604183,Kolhapur,Maharashtra,2024-08-06,Enterprise,2026-08-05 12:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10163,Suresh Shah,suresh.shah163@example.in,9859094667,Mangaluru,Karnataka,2024-06-18,Retail,2026-08-05 13:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10164,Varun Desai,varun.desai164@example.in,9222979182,Madurai,Tamil Nadu,2025-02-08,SMB,2026-08-05 14:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10165,Riya Mehta,riya.mehta165@example.in,9929472415,Surat,Gujarat,2024-12-21,Retail,2026-08-05 14:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10166,Pooja Bhat,pooja.bhat166@example.in,9667000588,Coimbatore,Tamil Nadu,2026-01-22,Retail,2026-08-05 15:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10167,Aditya Rao,aditya.rao167@example.in,9683292575,Nagpur,Maharashtra,2025-01-19,Enterprise,2026-08-05 15:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10168,Isha Singh,,9640622570,Coimbatore,Tamil Nadu,2026-03-29,Retail,2026-08-05 16:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10169,Rutuja Menon,rutuja.menon169@example.in,9675853364,Kolhapur,Maharashtra,2025-12-08,Retail,2026-10-17 22:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10170,Yash Singh,yash.singh170@example.in,9376586318,Warangal,Telangana,2026-05-01,SMB,2026-08-05 17:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10171,Nikhil Patil,nikhil.patil171@example.in,9415978949,Vadodara,Gujarat,2025-03-15,Retail,2026-08-05 18:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10172,Priya Mehta,priya.mehta172@example.in,,Surat,Gujarat,2026-06-03,Retail,2026-08-05 19:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10173,Priya Kulkarni,priya.kulkarni173@example.in,9422622106,Bengaluru,Karnataka,2025-09-24,Retail,2026-08-05 19:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10174,Gauri Bhat,gauri.bhat174@example.in,9585562624,Mysuru,Karnataka,2024-02-01,Retail,2026-08-05 20:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10175,Sneha Kulkarni,sneha.kulkarni175@example.in,,Surat,Gujarat,2025-04-13,Enterprise,2026-08-05 20:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10176,Nisha Reddy,nisha.reddy176@example.in,9333510237,Vadodara,Gujarat,2024-11-24,Retail,2026-08-05 21:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10177,Kabir Jadhav,kabir.jadhav177@example.in,9444392858,Nagpur,Maharashtra,2025-10-04,Enterprise,2026-08-05 22:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10178,Arjun Kulkarni,arjun.kulkarni178@example.in,9194474539,Hyderabad,Telangana,2025-08-31,Retail,2026-08-05 22:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10179,Pranav Gupta,pranav.gupta179@example.in,9917853468,Nagpur,Maharashtra,2025-04-22,SMB,2026-08-05 23:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10180,Gauri Desai,gauri.desai180@example.in,9497970303,Mumbai,Maharashtra,2025-12-03,Retail,2026-08-06 00:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10181,Manish Pillai,manish.pillai181@example.in,9377470999,Pune,Maharashtra,2025-05-01,Retail,2026-08-06 00:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10182,Isha Rao,,9073752656,Bengaluru,Karnataka,2025-10-17,Enterprise,2026-08-06 01:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10183,Akash Bhat,akash.bhat183@example.in,9375891571,Mangaluru,Karnataka,2024-04-21,Retail,2026-08-06 01:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10184,Ananya Singh,ananya.singh184@example.in,9860638659,Coimbatore,Tamil Nadu,2026-03-05,Retail,2026-08-06 02:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10185,Ganesh Gupta,ganesh.gupta185@example.in,9940800403,Ahmedabad,Gujarat,2025-02-24,Retail,2026-08-06 03:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10186,Kunal Singh,kunal.singh186@example.in,9921102393,Chennai,Tamil Nadu,2025-03-13,SMB,2026-08-06 03:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10187,Riya Gupta,riya.gupta187@example.in,9449962734,Warangal,Telangana,2025-06-24,Retail,2026-08-06 04:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10188,Rutuja Singh,,9311532423,Chennai,Tamil Nadu,2025-04-16,Enterprise,2026-08-06 04:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10189,Siddharth Kulkarni,siddharth.kulkarni189@example.in,9874851704,New Delhi,Delhi,2025-01-01,Retail,2026-08-06 05:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10190,Siddharth Menon,siddharth.menon190@example.in,9002078495,Nashik,Maharashtra,2024-09-09,SMB,2026-08-06 06:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10191,Sahil Jadhav,sahil.jadhav191@example.in,9361249298,Madurai,Tamil Nadu,2025-11-07,Enterprise,2026-08-06 06:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10192,Gauri Singh,gauri.singh192@example.in,9725451231,New Delhi,Delhi,2025-01-20,Retail,2026-08-06 07:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10193,Gauri Chavan,gauri.chavan193@example.in,9384680703,Madurai,Tamil Nadu,2025-01-21,Retail,2026-08-06 08:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10194,Varun Pawar,,9386728154,Chennai,Tamil Nadu,2024-01-11,SMB,2026-08-06 08:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10195,Rohan Singh,rohan.singh195@example.in,9584859734,Kolhapur,Maharashtra,2025-07-07,Retail,2026-08-06 09:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10196,Kiran Jadhav,kiran.jadhav196@example.in,9322157251,Vadodara,Gujarat,2025-01-28,Retail,2026-08-06 09:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10197,Aarav Kulkarni,aarav.kulkarni197@example.in,9245756488,Mysuru,Karnataka,2024-03-20,Retail,2026-08-06 10:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10198,Lakshmi Pawar,lakshmi.pawar198@example.in,9657695755,New Delhi,Delhi,2025-11-23,SMB,2026-08-06 11:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10199,Ketan Singh,ketan.singh199@example.in,9116064621,Pune,Maharashtra,2024-05-09,Retail,2026-08-06 11:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10200,Sneha Iyer,sneha.iyer200@example.in,9938866682,Nashik,Maharashtra,2025-08-26,Enterprise,2026-08-06 12:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10201,Varun Sharma,varun.sharma201@example.in,9603282129,Nagpur,Maharashtra,2026-05-03,Retail,2026-08-06 12:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10202,Suresh Menon,suresh.menon202@example.in,9726295990,Vadodara,Gujarat,2025-07-24,Retail,2026-08-06 13:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10203,Isha Rao,isha.rao203@example.in,9686738147,Bengaluru,Karnataka,2024-09-30,Retail,2026-10-16 01:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10204,Sahil Shah,sahil.shah204@example.in,9616472975,Pune,Maharashtra,2025-04-09,SMB,2026-08-06 14:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10205,Manish Desai,manish.desai205@example.in,9838508174,Kolhapur,Maharashtra,2026-03-07,Retail,2026-08-06 15:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10206,Gauri Kulkarni,gauri.kulkarni206@example.in,9667249801,Chennai,Tamil Nadu,2025-06-20,Retail,2026-08-06 16:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10207,Omkar Nair,omkar.nair207@example.in,9207578787,Coimbatore,Tamil Nadu,2024-04-15,SMB,2026-08-06 16:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10208,Kabir Pawar,kabir.pawar208@example.in,9010776531,Surat,Gujarat,2026-05-28,SMB,2026-08-06 17:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10209,Amit Iyer,amit.iyer209@example.in,9208761051,Chennai,Tamil Nadu,2024-08-12,Retail,2026-08-06 17:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10210,Meera Menon,meera.menon210@example.in,9740560407,Nashik,Maharashtra,2024-03-15,SMB,2026-08-06 18:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10211,Rutuja Pawar,rutuja.pawar211@example.in,9208504003,Nagpur,Maharashtra,2024-06-02,Retail,2026-08-06 19:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10212,Swati Reddy,swati.reddy212@example.in,9694411253,Surat,Gujarat,2025-08-25,Retail,2026-08-06 19:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10213,Rahul Kulkarni,,9069347420,Bengaluru,Karnataka,,SMB,2026-08-06 20:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10214,Vivaan Singh,vivaan.singh214@example.in,9596356436,Coimbatore,Tamil Nadu,2024-02-20,Retail,2026-08-06 20:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10215,Arun Joshi,arun.joshi215@example.in,9163046143,Hyderabad,Telangana,2024-11-08,SMB,2026-08-06 21:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10216,Shruti Reddy,shruti.reddy216@example.in,9277486690,Mysuru,Karnataka,2024-05-06,SMB,2026-08-06 22:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10217,Kabir Pillai,kabir.pillai217@example.in,9140603834,Madurai,Tamil Nadu,2024-11-01,Retail,2026-08-06 22:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10218,Kabir Menon,kabir.menon218@example.in,9216337300,Vadodara,Gujarat,2026-06-16,Retail,2026-08-06 23:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10219,Akash Patil,akash.patil219@example.in,9029772575,Kolhapur,Maharashtra,2024-07-25,Retail,2026-08-07 00:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10220,Arjun Joshi,arjun.joshi220@example.in,9442299282,Hyderabad,Telangana,2026-05-08,Retail,2026-08-07 00:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10221,Akash Singh,akash.singh221@example.in,9904048648,Madurai,Tamil Nadu,2025-01-01,Retail,2026-10-15 12:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10222,Lakshmi Pillai,lakshmi.pillai222@example.in,9671470976,Hyderabad,Telangana,2024-03-04,Retail,2026-08-07 01:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10223,Neha Kulkarni,neha.kulkarni223@example.in,9563488799,Chennai,Tamil Nadu,2025-10-11,SMB,2026-08-07 02:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10224,Akash Iyer,akash.iyer224@example.in,9732491405,Kolhapur,Maharashtra,2025-04-21,Enterprise,2026-08-07 03:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10225,Sahil Sharma,sahil.sharma225@example.in,9708152572,Hyderabad,Telangana,2026-06-07,SMB,2026-08-07 03:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10226,Sneha Pawar,sneha.pawar226@example.in,9260868184,Nashik,Maharashtra,2024-04-30,Retail,2026-08-07 04:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10227,Mrunal Kulkarni,mrunal.kulkarni227@example.in,9735478912,Chennai,Tamil Nadu,,Retail,2026-08-07 04:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10228,Rohan Bhat,rohan.bhat228@example.in,9422795828,Hyderabad,Telangana,2024-06-25,Retail,2026-08-07 05:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10229,Rahul Singh,rahul.singh229@example.in,9806313531,Coimbatore,Tamil Nadu,2024-11-11,Retail,2026-08-07 06:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10230,Gauri Rao,,9425783278,Vadodara,Gujarat,2024-04-01,Retail,2026-08-07 06:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10231,Kavya Singh,kavya.singh231@example.in,9340728389,Hyderabad,Telangana,2026-03-01,Retail,2026-08-07 07:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10232,Arun Jadhav,arun.jadhav232@example.in,9287748602,Mumbai,Maharashtra,2026-01-27,Retail,2026-08-07 08:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10233,Anjali Nair,anjali.nair233@example.in,9668134828,Mangaluru,Karnataka,2024-11-12,SMB,2026-08-07 08:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10234,Anjali Sharma,anjali.sharma234@example.in,9098546524,Chennai,Tamil Nadu,2025-12-11,Retail,2026-08-07 09:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10235,Tanvi Chavan,tanvi.chavan235@example.in,9416167912,Madurai,Tamil Nadu,2026-02-18,SMB,2026-08-07 09:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10236,Gauri Jadhav,gauri.jadhav236@example.in,9750549926,Vadodara,Gujarat,2024-05-02,Retail,2026-08-07 10:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10237,Sneha Sharma,sneha.sharma237@example.in,9349654427,Warangal,Telangana,2024-09-10,Retail,2026-08-07 11:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10238,Nikhil Joshi,nikhil.joshi238@example.in,9304196186,Chennai,Tamil Nadu,2025-11-26,SMB,2026-08-07 11:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10239,Tanvi Pillai,tanvi.pillai239@example.in,9805980726,Chennai,Tamil Nadu,2025-06-14,Enterprise,2026-08-07 12:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10240,Kabir Mehta,kabir.mehta240@example.in,9286037737,Nagpur,Maharashtra,2026-04-03,Retail,2026-08-07 13:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10241,Pooja Shah,pooja.shah241@example.in,9433655123,Mumbai,Maharashtra,2025-01-14,Enterprise,2026-08-07 13:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10242,Aarav Mehta,aarav.mehta242@example.in,9949082856,Kolhapur,Maharashtra,2024-02-26,Enterprise,2026-08-07 14:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10243,Rohan Jadhav,rohan.jadhav243@example.in,9525642486,Nagpur,Maharashtra,2024-01-22,Retail,2026-08-07 14:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10244,Pallavi Reddy,pallavi.reddy244@example.in,9807599925,New Delhi,Delhi,2024-07-22,Retail,2026-08-07 15:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10245,Komal Kulkarni,komal.kulkarni245@example.in,9486380460,Mangaluru,Karnataka,2025-01-17,Retail,2026-08-07 16:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10246,Rohan Menon,rohan.menon246@example.in,9481982324,Warangal,Telangana,2025-05-03,SMB,2026-08-07 16:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10247,Ganesh Reddy,ganesh.reddy247@example.in,9083338713,Vadodara,Gujarat,2026-05-24,Retail,2026-08-07 17:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10248,Shruti Gupta,shruti.gupta248@example.in,9005387473,Ahmedabad,Gujarat,2024-03-23,Retail,2026-08-07 17:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10249,Priya Bhat,priya.bhat249@example.in,9912277079,Mangaluru,Karnataka,2024-02-20,Retail,2026-08-07 18:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10250,Ketan Kulkarni,ketan.kulkarni250@example.in,9178951457,Kolhapur,Maharashtra,2024-11-12,Retail,2026-08-07 19:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10251,Suresh Chavan,suresh.chavan251@example.in,9105850962,Mumbai,Maharashtra,2025-05-19,Retail,2026-08-07 19:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10252,Pooja Verma,,9954998506,Mangaluru,Karnataka,2024-03-24,SMB,2026-08-07 20:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10253,Manish Sharma,manish.sharma253@example.in,9160799255,Warangal,Telangana,2026-03-12,SMB,2026-08-07 21:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10254,Tejas Patil,tejas.patil254@example.in,9775505496,Madurai,Tamil Nadu,2025-09-10,SMB,2026-08-07 21:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10255,Lakshmi Singh,lakshmi.singh255@example.in,9910748983,Bengaluru,Karnataka,2025-08-31,Retail,2026-08-07 22:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10256,Deepa Kulkarni,deepa.kulkarni256@example.in,9901663994,Mysuru,Karnataka,2024-03-03,SMB,2026-08-07 22:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10257,Swati Reddy,swati.reddy257@example.in,,Warangal,Telangana,2024-05-05,Retail,2026-08-07 23:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10258,Vivaan Verma,,9993291342,Nashik,Maharashtra,2025-05-15,Enterprise,2026-08-08 00:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10259,Shruti Pillai,shruti.pillai259@example.in,9585073364,Madurai,Tamil Nadu,2024-09-23,Retail,2026-08-08 00:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10260,Gauri Shah,gauri.shah260@example.in,9423770336,Mangaluru,Karnataka,2024-04-08,SMB,2026-08-08 01:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10261,Nisha Desai,nisha.desai261@example.in,9210398781,Madurai,Tamil Nadu,2025-04-19,SMB,2026-08-08 01:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10262,Arun Iyer,arun.iyer262@example.in,9488755444,Nagpur,Maharashtra,2024-05-01,Enterprise,2026-08-08 02:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10263,Lakshmi Nair,lakshmi.nair263@example.in,9874417042,Surat,Gujarat,2024-08-17,SMB,2026-08-08 03:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10264,Shruti Desai,shruti.desai264@example.in,9026688409,Warangal,Telangana,,SMB,2026-08-08 03:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10265,Pooja Patil,pooja.patil265@example.in,9774106120,Warangal,Telangana,2025-12-22,Retail,2026-08-08 04:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10266,Ketan Desai,ketan.desai266@example.in,9433231875,Kolhapur,Maharashtra,,SMB,2026-08-08 05:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10267,Nikhil Chavan,nikhil.chavan267@example.in,9750781063,Kolhapur,Maharashtra,2025-10-10,Retail,2026-08-08 05:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10268,Varun Sharma,varun.sharma268@example.in,9631311671,Nashik,Maharashtra,2025-06-17,SMB,2026-08-08 06:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10269,Manish Patil,manish.patil269@example.in,9129363411,Coimbatore,Tamil Nadu,2024-11-16,SMB,2026-08-08 06:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10270,Isha Reddy,,9671313959,Mangaluru,Karnataka,2026-02-06,Retail,2026-08-08 07:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10271,Pooja Shah,pooja.shah271@example.in,9208941762,Ahmedabad,Gujarat,2026-01-16,SMB,2026-08-08 08:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10272,Nisha Desai,nisha.desai272@example.in,9035269291,New Delhi,Delhi,2025-12-12,SMB,2026-08-08 08:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10273,Vivaan Reddy,vivaan.reddy273@example.in,9100730658,Surat,Gujarat,2024-06-28,SMB,2026-08-08 09:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10274,Pranav Shah,pranav.shah274@example.in,9021350183,Pune,Maharashtra,2024-02-12,Retail,2026-08-08 09:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10275,Kavya Mehta,kavya.mehta275@example.in,9645763178,Surat,Gujarat,2025-02-06,Retail,2026-08-08 10:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10276,Siddharth Gupta,siddharth.gupta276@example.in,9833762245,Nagpur,Maharashtra,2024-10-29,Retail,2026-08-08 11:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10277,Omkar Sharma,omkar.sharma277@example.in,9801189344,Mumbai,Maharashtra,2026-06-08,Retail,2026-08-08 11:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10278,Isha Sharma,isha.sharma278@example.in,9946271980,Vadodara,Gujarat,2026-06-17,SMB,2026-08-08 12:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10279,Kabir Pillai,kabir.pillai279@example.in,9818670712,Mumbai,Maharashtra,2024-06-22,Retail,2026-08-08 13:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10280,Priya Pawar,priya.pawar280@example.in,,Mumbai,Maharashtra,2024-12-12,Retail,2026-08-08 13:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10281,Sahil Mehta,sahil.mehta281@example.in,9829248006,Vadodara,Gujarat,2024-01-17,Retail,2026-08-08 14:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10282,Siddharth Kulkarni,siddharth.kulkarni282@example.in,9044870912,Nashik,Maharashtra,2024-03-19,Enterprise,2026-08-08 14:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10283,Diya Desai,diya.desai283@example.in,9168030884,Bengaluru,Karnataka,2024-01-02,Retail,2026-08-08 15:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10284,Aditya Patil,aditya.patil284@example.in,9292518307,Ahmedabad,Gujarat,2024-03-27,Retail,2026-08-08 16:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10285,Sahil Joshi,,9310193545,Nashik,Maharashtra,2024-08-04,SMB,2026-08-08 16:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10286,Diya Bhat,diya.bhat286@example.in,9432393373,Nagpur,Maharashtra,2025-06-05,Enterprise,2026-08-08 17:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10287,Kabir Gupta,kabir.gupta287@example.in,9122229400,Ahmedabad,Gujarat,2026-01-19,Retail,2026-08-08 17:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10288,Pooja Nair,pooja.nair288@example.in,9743075728,Mysuru,Karnataka,2025-11-11,Retail,2026-08-08 18:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10289,Komal Mehta,komal.mehta289@example.in,9049493306,New Delhi,Delhi,2025-02-09,Enterprise,2026-08-08 19:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10290,Aarav Pawar,aarav.pawar290@example.in,9905266466,Coimbatore,Tamil Nadu,2024-10-20,SMB,2026-08-08 19:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10291,Ganesh Jadhav,ganesh.jadhav291@example.in,9150685836,Coimbatore,Tamil Nadu,2024-09-19,SMB,2026-08-08 20:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10292,Tanvi Iyer,tanvi.iyer292@example.in,9964247136,Bengaluru,Karnataka,2026-04-08,SMB,2026-08-08 21:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10293,Riya Joshi,riya.joshi293@example.in,9042416521,New Delhi,Delhi,2025-02-14,Enterprise,2026-08-08 21:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10294,Anjali Iyer,anjali.iyer294@example.in,9420119125,Mangaluru,Karnataka,2024-08-21,Retail,2026-08-08 22:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10295,Amit Pawar,amit.pawar295@example.in,9616881860,Madurai,Tamil Nadu,2024-10-18,Retail,2026-08-08 22:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10296,Anjali Patil,anjali.patil296@example.in,9458638746,Vadodara,Gujarat,2024-12-11,Enterprise,2026-08-08 23:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10297,Nikhil Gupta,,9994823079,Mysuru,Karnataka,2025-04-21,SMB,2026-08-09 00:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10298,Aditya Shah,aditya.shah298@example.in,9010905116,Hyderabad,Telangana,2024-04-21,SMB,2026-08-09 00:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10299,Shruti Menon,shruti.menon299@example.in,9889866351,Chennai,Tamil Nadu,2025-02-13,Retail,2026-08-09 01:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10300,Rohan Gupta,,9336486930,New Delhi,Delhi,2024-01-28,SMB,2026-08-09 02:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10301,Priya Desai,priya.desai301@example.in,9985861730,Vadodara,Gujarat,2025-11-25,SMB,2026-08-09 02:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10302,Sakshi Shah,sakshi.shah302@example.in,9380021627,Warangal,Telangana,2025-01-25,SMB,2026-08-09 03:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10303,Arun Menon,arun.menon303@example.in,9562638133,Pune,Maharashtra,2025-07-29,Retail,2026-08-09 03:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10304,Amit Gupta,amit.gupta304@example.in,9194018404,Vadodara,Gujarat,,SMB,2026-08-09 04:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10305,Ketan Mehta,ketan.mehta305@example.in,9356732344,New Delhi,Delhi,2025-08-10,Enterprise,2026-08-09 05:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10306,Lakshmi Singh,lakshmi.singh306@example.in,,Hyderabad,Telangana,2024-04-25,SMB,2026-08-09 05:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10307,Nisha Singh,nisha.singh307@example.in,9024048525,Hyderabad,Telangana,2025-11-16,Retail,2026-08-09 06:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10308,Suresh Bhat,,9013379626,Nagpur,Maharashtra,2026-05-26,Retail,2026-08-09 06:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10309,Meera Rao,meera.rao309@example.in,9280399280,Nagpur,Maharashtra,2025-06-17,Retail,2026-08-09 07:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10310,Komal Bhat,komal.bhat310@example.in,9407318035,Nagpur,Maharashtra,2025-12-19,Retail,2026-08-09 08:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10311,Tanvi Joshi,tanvi.joshi311@example.in,9501441571,Mysuru,Karnataka,2026-05-17,Retail,2026-08-09 08:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10312,Gauri Shah,gauri.shah312@example.in,9674361973,Chennai,Tamil Nadu,2024-06-18,Retail,2026-08-09 09:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10313,Gauri Pillai,gauri.pillai313@example.in,9169956470,New Delhi,Delhi,2025-09-02,Retail,2026-08-09 10:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10314,Meera Pawar,meera.pawar314@example.in,9474671851,Mysuru,Karnataka,2024-11-02,SMB,2026-08-09 10:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10315,Amit Shah,amit.shah315@example.in,9376808053,New Delhi,Delhi,2025-10-18,Retail,2026-08-09 11:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10316,Akash Verma,akash.verma316@example.in,9180718871,Pune,Maharashtra,2024-08-09,Retail,2026-08-09 11:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10317,Arun Rao,arun.rao317@example.in,9633756948,Surat,Gujarat,2025-03-02,Retail,2026-08-09 12:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10318,Anjali Iyer,anjali.iyer318@example.in,9826480830,New Delhi,Delhi,2024-07-12,SMB,2026-10-18 08:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10319,Kunal Joshi,kunal.joshi319@example.in,9713825645,Hyderabad,Telangana,2025-01-15,Enterprise,2026-08-09 13:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10320,Vivaan Singh,vivaan.singh320@example.in,9194377964,Ahmedabad,Gujarat,2025-09-22,SMB,2026-08-09 14:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10321,Yash Nair,yash.nair321@example.in,9532433998,Madurai,Tamil Nadu,2024-11-24,SMB,2026-08-09 14:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10322,Rahul Pillai,rahul.pillai322@example.in,9434004158,Nashik,Maharashtra,2025-12-15,Retail,2026-08-09 15:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10323,Omkar Desai,omkar.desai323@example.in,,Vadodara,Gujarat,2025-12-25,Retail,2026-08-09 16:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10324,Omkar Patil,omkar.patil324@example.in,9402441939,Mumbai,Maharashtra,2024-10-26,Retail,2026-08-09 16:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10325,Harsh Sharma,harsh.sharma325@example.in,9680684567,Vadodara,Gujarat,2026-05-08,Retail,2026-08-09 17:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10326,Sakshi Sharma,sakshi.sharma326@example.in,9288213493,Kolhapur,Maharashtra,,SMB,2026-08-09 18:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10327,Omkar Reddy,omkar.reddy327@example.in,9000809329,Vadodara,Gujarat,2024-04-29,SMB,2026-10-17 14:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10328,Priya Iyer,priya.iyer328@example.in,9276853394,Ahmedabad,Gujarat,2024-02-13,Retail,2026-08-09 19:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10329,Rutuja Kulkarni,rutuja.kulkarni329@example.in,9970129339,New Delhi,Delhi,2026-01-16,SMB,2026-08-09 19:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10330,Sakshi Singh,sakshi.singh330@example.in,9075570302,Vadodara,Gujarat,2024-01-16,Retail,2026-08-09 20:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10331,Kunal Jadhav,kunal.jadhav331@example.in,9406782615,Coimbatore,Tamil Nadu,2024-11-12,Retail,2026-08-09 21:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10332,Arjun Pawar,arjun.pawar332@example.in,9718597843,Hyderabad,Telangana,2026-01-30,SMB,2026-08-09 21:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10333,Ketan Desai,ketan.desai333@example.in,9184434633,Mumbai,Maharashtra,2025-11-15,Retail,2026-08-09 22:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10334,Kunal Sharma,kunal.sharma334@example.in,9688508702,Bengaluru,Karnataka,2025-07-17,SMB,2026-08-09 22:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10335,Deepa Sharma,deepa.sharma335@example.in,9355596531,Coimbatore,Tamil Nadu,2025-09-10,Retail,2026-08-09 23:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10336,Riya Nair,riya.nair336@example.in,9247248935,Mangaluru,Karnataka,2025-10-03,Enterprise,2026-08-10 00:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10337,Varun Verma,varun.verma337@example.in,9917146420,New Delhi,Delhi,2024-11-22,SMB,2026-08-10 00:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10338,Nisha Jadhav,nisha.jadhav338@example.in,9495530797,Coimbatore,Tamil Nadu,2024-10-02,Retail,2026-08-10 01:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10339,Arun Bhat,arun.bhat339@example.in,9286781228,Kolhapur,Maharashtra,2025-08-19,SMB,2026-08-10 02:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10340,Rohan Shah,rohan.shah340@example.in,9912785822,Ahmedabad,Gujarat,2025-06-18,SMB,2026-08-10 02:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10341,Deepa Desai,deepa.desai341@example.in,9292348278,Madurai,Tamil Nadu,2025-06-30,SMB,2026-08-10 03:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10342,Kabir Bhat,kabir.bhat342@example.in,9031104624,Vadodara,Gujarat,2024-09-24,Retail,2026-08-10 03:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10343,Shruti Iyer,,9850372454,Mysuru,Karnataka,2025-05-21,Retail,2026-08-10 04:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10344,Harsh Verma,harsh.verma344@example.in,9696371786,Coimbatore,Tamil Nadu,,Enterprise,2026-08-10 05:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10345,Divya Mehta,divya.mehta345@example.in,9224475983,Nashik,Maharashtra,2025-11-03,Retail,2026-08-10 05:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10346,Anjali Singh,,9744454687,Mumbai,Maharashtra,2024-08-15,SMB,2026-08-10 06:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10347,Tanvi Chavan,tanvi.chavan347@example.in,9208832106,New Delhi,Delhi,2025-01-30,SMB,2026-08-10 06:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10348,Nisha Shah,nisha.shah348@example.in,9331053914,Mumbai,Maharashtra,2024-01-12,Enterprise,2026-08-10 07:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10349,Tanvi Iyer,tanvi.iyer349@example.in,9072518616,Warangal,Telangana,2026-04-26,Enterprise,2026-08-10 08:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10350,Mrunal Joshi,mrunal.joshi350@example.in,9681383364,Nashik,Maharashtra,2025-09-21,SMB,2026-10-17 14:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10351,Nikhil Reddy,nikhil.reddy351@example.in,9626379598,Chennai,Tamil Nadu,2026-04-20,Retail,2026-08-10 09:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10352,Tanvi Shah,tanvi.shah352@example.in,9783239637,Nashik,Maharashtra,2024-03-02,Retail,2026-08-10 10:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10353,Varun Chavan,varun.chavan353@example.in,9740767674,Nashik,Maharashtra,2024-05-28,Enterprise,2026-08-10 10:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10354,Varun Shah,,9930539812,Coimbatore,Tamil Nadu,2024-06-23,Retail,2026-08-10 11:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10355,Pooja Bhat,pooja.bhat355@example.in,9137780213,Chennai,Tamil Nadu,2024-12-11,Retail,2026-08-10 11:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10356,Rutuja Patil,rutuja.patil356@example.in,9500210088,Bengaluru,Karnataka,2025-10-02,Enterprise,2026-08-10 12:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10357,Manish Mehta,manish.mehta357@example.in,9554984203,Mumbai,Maharashtra,2025-01-22,SMB,2026-08-10 13:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10358,Sameer Joshi,sameer.joshi358@example.in,9637697928,Surat,Gujarat,2025-05-16,SMB,2026-08-10 13:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10359,Mrunal Pawar,mrunal.pawar359@example.in,9441667209,Madurai,Tamil Nadu,2024-12-13,Retail,2026-08-10 14:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10360,Deepa Pawar,deepa.pawar360@example.in,9568255981,Ahmedabad,Gujarat,,Enterprise,2026-08-10 15:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10361,Amit Rao,amit.rao361@example.in,9586485259,Hyderabad,Telangana,2025-07-07,SMB,2026-08-10 15:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10362,Sameer Jadhav,,9958488331,Mysuru,Karnataka,2025-02-05,Retail,2026-08-10 16:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10363,Kiran Menon,kiran.menon363@example.in,9525187105,Warangal,Telangana,2024-03-10,Retail,2026-08-10 16:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10364,Nisha Kulkarni,nisha.kulkarni364@example.in,9881306593,Vadodara,Gujarat,2024-02-13,Retail,2026-08-10 17:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10365,Aarav Iyer,aarav.iyer365@example.in,,Mumbai,Maharashtra,2024-06-23,SMB,2026-08-10 18:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10366,Isha Kulkarni,,9033624615,Madurai,Tamil Nadu,2024-12-14,SMB,2026-08-10 18:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10367,Rohan Pillai,rohan.pillai367@example.in,9857533504,Hyderabad,Telangana,2025-06-02,Enterprise,2026-08-10 19:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10368,Riya Pawar,riya.pawar368@example.in,9031503879,Hyderabad,Telangana,2024-03-30,SMB,2026-08-10 19:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10369,Pallavi Verma,pallavi.verma369@example.in,9794230674,Bengaluru,Karnataka,2024-08-06,SMB,2026-08-10 20:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10370,Rahul Desai,rahul.desai370@example.in,9936512525,New Delhi,Delhi,2025-05-08,Retail,2026-08-10 21:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10371,Kiran Reddy,kiran.reddy371@example.in,9923111379,Chennai,Tamil Nadu,2024-11-23,Retail,2026-08-10 21:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10372,Omkar Verma,,9552309503,Mysuru,Karnataka,2025-10-12,Retail,2026-08-10 22:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10373,Shruti Shah,shruti.shah373@example.in,9081226243,Nashik,Maharashtra,2025-05-09,Retail,2026-10-17 09:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10374,Rahul Desai,rahul.desai374@example.in,9811617441,Mangaluru,Karnataka,2024-06-18,Retail,2026-08-10 23:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10375,Vivaan Mehta,vivaan.mehta375@example.in,9243061710,Hyderabad,Telangana,2024-04-27,Enterprise,2026-08-11 00:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10376,Manish Joshi,manish.joshi376@example.in,9239234015,Surat,Gujarat,,Retail,2026-10-16 04:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10377,Kiran Rao,kiran.rao377@example.in,9171607381,Chennai,Tamil Nadu,2025-06-16,Retail,2026-08-11 01:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10378,Sneha Menon,sneha.menon378@example.in,9618952972,Mysuru,Karnataka,2024-12-10,SMB,2026-08-11 02:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10379,Suresh Kulkarni,suresh.kulkarni379@example.in,9311346252,Warangal,Telangana,2025-10-14,SMB,2026-08-11 02:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10380,Sakshi Pillai,sakshi.pillai380@example.in,9839093154,Coimbatore,Tamil Nadu,2024-03-16,SMB,2026-08-11 03:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10381,Varun Shah,varun.shah381@example.in,9146285197,Bengaluru,Karnataka,2024-03-17,Enterprise,2026-08-11 03:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10382,Ananya Patil,ananya.patil382@example.in,9396059442,Coimbatore,Tamil Nadu,2025-02-08,Retail,2026-08-11 04:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10383,Swati Shah,swati.shah383@example.in,,Bengaluru,Karnataka,2026-04-19,SMB,2026-08-11 05:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10384,Priya Pawar,priya.pawar384@example.in,9869140370,Pune,Maharashtra,2025-04-28,Retail,2026-08-11 05:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10385,Lakshmi Pawar,lakshmi.pawar385@example.in,9832130861,Nagpur,Maharashtra,2026-05-11,Retail,2026-08-11 06:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10386,Deepa Verma,deepa.verma386@example.in,9347335786,Coimbatore,Tamil Nadu,2024-01-21,Retail,2026-08-11 07:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10387,Ketan Bhat,ketan.bhat387@example.in,9906981126,Mangaluru,Karnataka,2024-01-19,Retail,2026-08-11 07:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10388,Manish Iyer,manish.iyer388@example.in,,Coimbatore,Tamil Nadu,2024-11-30,Retail,2026-08-11 08:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10389,Manish Nair,manish.nair389@example.in,9287125192,Bengaluru,Karnataka,2026-05-17,SMB,2026-08-11 08:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10390,Nisha Gupta,nisha.gupta390@example.in,9429467680,Pune,Maharashtra,2024-06-01,Retail,2026-08-11 09:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10391,Siddharth Singh,siddharth.singh391@example.in,9560646002,Pune,Maharashtra,2025-08-25,Retail,2026-08-11 10:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10392,Priya Bhat,priya.bhat392@example.in,9851384849,Chennai,Tamil Nadu,2024-01-01,SMB,2026-08-11 10:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10393,Lakshmi Patil,lakshmi.patil393@example.in,,Vadodara,Gujarat,2025-09-23,SMB,2026-08-11 11:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10394,Neha Jadhav,neha.jadhav394@example.in,9600605092,Mangaluru,Karnataka,2024-11-14,Retail,2026-08-11 11:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10395,Yash Pillai,yash.pillai395@example.in,9375763948,Chennai,Tamil Nadu,2025-11-08,SMB,2026-08-11 12:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10396,Kunal Jadhav,kunal.jadhav396@example.in,9204248030,Ahmedabad,Gujarat,2025-10-12,SMB,2026-08-11 13:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10397,Aditya Singh,aditya.singh397@example.in,9814347922,Mumbai,Maharashtra,2024-02-16,Retail,2026-08-11 13:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10398,Lakshmi Rao,lakshmi.rao398@example.in,9596713331,Mumbai,Maharashtra,2025-12-08,Retail,2026-08-11 14:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10399,Aarav Gupta,aarav.gupta399@example.in,,New Delhi,Delhi,2024-05-26,SMB,2026-08-11 15:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10400,Aarav Jadhav,aarav.jadhav400@example.in,9437068678,Surat,Gujarat,,SMB,2026-10-15 13:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10401,Arun Reddy,arun.reddy401@example.in,9122443046,Mysuru,Karnataka,2025-02-19,Retail,2026-08-11 16:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10402,Priya Verma,priya.verma402@example.in,9350053295,Bengaluru,Karnataka,2025-04-29,Retail,2026-08-11 16:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10403,Anjali Sharma,anjali.sharma403@example.in,9537637947,Hyderabad,Telangana,2024-01-28,SMB,2026-08-11 17:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10404,Isha Mehta,isha.mehta404@example.in,9501542646,Surat,Gujarat,2025-04-02,Retail,2026-08-11 18:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10405,Harsh Joshi,harsh.joshi405@example.in,9529980491,Surat,Gujarat,2024-06-11,Enterprise,2026-10-16 05:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10406,Harsh Mehta,harsh.mehta406@example.in,9128244069,Kolhapur,Maharashtra,2024-07-29,Retail,2026-08-11 19:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10407,Ganesh Reddy,ganesh.reddy407@example.in,9095676080,Hyderabad,Telangana,2025-02-19,Enterprise,2026-08-11 19:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10408,Swati Desai,swati.desai408@example.in,9344966614,Bengaluru,Karnataka,2024-04-14,Retail,2026-08-11 20:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10409,Shruti Jadhav,shruti.jadhav409@example.in,9795409377,Hyderabad,Telangana,2025-04-02,Enterprise,2026-08-11 21:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10410,Ananya Rao,ananya.rao410@example.in,9726806149,Kolhapur,Maharashtra,2025-07-29,Retail,2026-08-11 21:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10411,Nisha Bhat,nisha.bhat411@example.in,9618703152,Ahmedabad,Gujarat,2026-03-09,SMB,2026-08-11 22:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10412,Nikhil Nair,nikhil.nair412@example.in,9039905160,Kolhapur,Maharashtra,2025-05-02,Retail,2026-08-11 23:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10413,Nikhil Iyer,nikhil.iyer413@example.in,9030735983,New Delhi,Delhi,2025-05-25,Retail,2026-08-11 23:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10414,Sneha Shah,sneha.shah414@example.in,9326833071,Surat,Gujarat,2025-01-29,SMB,2026-08-12 00:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10415,Sahil Chavan,sahil.chavan415@example.in,9462850273,Warangal,Telangana,2025-05-26,SMB,2026-08-12 00:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10416,Amit Reddy,amit.reddy416@example.in,9463845973,New Delhi,Delhi,2025-12-25,Retail,2026-08-12 01:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10417,Rahul Menon,rahul.menon417@example.in,9337075219,Nagpur,Maharashtra,2025-02-02,SMB,2026-08-12 02:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10418,Harsh Shah,harsh.shah418@example.in,9722079098,Pune,Maharashtra,2025-03-22,Retail,2026-08-12 02:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10419,Manish Jadhav,manish.jadhav419@example.in,9108613780,Chennai,Tamil Nadu,2024-10-11,Retail,2026-08-12 03:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10420,Komal Pillai,komal.pillai420@example.in,9201626518,Mysuru,Karnataka,2025-10-10,Retail,2026-08-12 04:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10421,Suresh Gupta,suresh.gupta421@example.in,9889191487,Vadodara,Gujarat,2025-12-03,Retail,2026-08-12 04:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10422,Riya Joshi,,9996988300,Surat,Gujarat,2025-07-26,Retail,2026-08-12 05:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10423,Sameer Gupta,sameer.gupta423@example.in,9575094170,New Delhi,Delhi,2025-05-02,Retail,2026-10-17 08:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10424,Omkar Menon,omkar.menon424@example.in,9120247401,Kolhapur,Maharashtra,2025-08-12,Retail,2026-08-12 06:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10425,Pooja Reddy,pooja.reddy425@example.in,9023035096,Vadodara,Gujarat,2025-05-07,SMB,2026-08-12 07:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10426,Lakshmi Menon,lakshmi.menon426@example.in,9693215563,Chennai,Tamil Nadu,2026-04-15,Retail,2026-08-12 07:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10427,Anjali Gupta,anjali.gupta427@example.in,,Vadodara,Gujarat,2024-12-25,SMB,2026-08-12 08:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10428,Swati Nair,swati.nair428@example.in,9346460094,Ahmedabad,Gujarat,2025-10-06,Enterprise,2026-08-12 08:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10429,Gauri Jadhav,gauri.jadhav429@example.in,9808065280,Nashik,Maharashtra,2024-11-13,Retail,2026-08-12 09:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10430,Arun Rao,arun.rao430@example.in,9149768048,Pune,Maharashtra,2024-03-28,Enterprise,2026-08-12 10:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10431,Pooja Shah,pooja.shah431@example.in,9640944367,Surat,Gujarat,2025-03-29,Retail,2026-08-12 10:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10432,Harsh Chavan,harsh.chavan432@example.in,9655933360,Vadodara,Gujarat,2025-03-13,Retail,2026-08-12 11:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10433,Varun Verma,varun.verma433@example.in,9460920602,Hyderabad,Telangana,2024-03-13,SMB,2026-08-12 12:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10434,Kunal Reddy,kunal.reddy434@example.in,9663869410,Warangal,Telangana,2024-02-01,Retail,2026-08-12 12:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10435,Deepa Pillai,deepa.pillai435@example.in,9402980889,New Delhi,Delhi,2025-09-17,Retail,2026-08-12 13:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10436,Riya Pawar,riya.pawar436@example.in,9479158415,Kolhapur,Maharashtra,2024-09-16,SMB,2026-08-12 13:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10437,Riya Mehta,riya.mehta437@example.in,9590826072,Kolhapur,Maharashtra,2026-04-08,SMB,2026-08-12 14:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10438,Sahil Pawar,,9231776917,Ahmedabad,Gujarat,2024-11-06,SMB,2026-08-12 15:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10439,Siddharth Menon,siddharth.menon439@example.in,9179424734,Kolhapur,Maharashtra,2024-12-24,SMB,2026-08-12 15:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10440,Gauri Sharma,gauri.sharma440@example.in,,Hyderabad,Telangana,2024-09-07,Retail,2026-08-12 16:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10441,Kavya Pawar,kavya.pawar441@example.in,9049842759,Nashik,Maharashtra,2026-06-16,SMB,2026-08-12 16:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10442,Isha Bhat,isha.bhat442@example.in,9092682659,New Delhi,Delhi,2026-04-21,Retail,2026-08-12 17:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10443,Tejas Jadhav,tejas.jadhav443@example.in,9641916769,Pune,Maharashtra,2026-02-20,SMB,2026-08-12 18:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10444,Komal Verma,komal.verma444@example.in,9709124429,Nashik,Maharashtra,2024-06-21,SMB,2026-08-12 18:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10445,Ganesh Nair,ganesh.nair445@example.in,9123267291,Coimbatore,Tamil Nadu,2024-07-05,SMB,2026-08-12 19:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10446,Mrunal Patil,mrunal.patil446@example.in,9782157293,New Delhi,Delhi,2025-06-01,Retail,2026-08-12 20:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10447,Sakshi Joshi,sakshi.joshi447@example.in,9799308735,Nagpur,Maharashtra,2025-11-07,Retail,2026-08-12 20:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10448,Ganesh Jadhav,ganesh.jadhav448@example.in,9693569808,Nagpur,Maharashtra,2024-06-17,Retail,2026-08-12 21:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10449,Ketan Joshi,ketan.joshi449@example.in,9980149160,Mangaluru,Karnataka,2024-03-27,SMB,2026-08-12 21:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10450,Gauri Sharma,gauri.sharma450@example.in,9222997962,Chennai,Tamil Nadu,2024-10-20,Retail,2026-08-12 22:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10451,Manish Desai,manish.desai451@example.in,9206587700,Mumbai,Maharashtra,2025-07-11,SMB,2026-08-12 23:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10452,Sakshi Shah,sakshi.shah452@example.in,9758711955,Warangal,Telangana,2026-02-08,Retail,2026-08-12 23:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10453,Kabir Patil,kabir.patil453@example.in,9060087877,Chennai,Tamil Nadu,2024-04-25,Retail,2026-08-13 00:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10454,Pooja Menon,pooja.menon454@example.in,,Hyderabad,Telangana,,Retail,2026-08-13 00:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10455,Rohan Pawar,rohan.pawar455@example.in,9753359760,Pune,Maharashtra,2026-06-07,SMB,2026-08-13 01:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10456,Ketan Chavan,ketan.chavan456@example.in,9544021962,Ahmedabad,Gujarat,2024-11-10,SMB,2026-08-13 02:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10457,Akash Iyer,akash.iyer457@example.in,9541942088,Pune,Maharashtra,2024-01-14,Retail,2026-08-13 02:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10458,Vivaan Kulkarni,vivaan.kulkarni458@example.in,9777342781,Nagpur,Maharashtra,2025-09-18,Retail,2026-08-13 03:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10459,Gauri Pawar,gauri.pawar459@example.in,9977762724,Chennai,Tamil Nadu,2026-06-14,Retail,2026-08-13 04:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10460,Vivaan Gupta,vivaan.gupta460@example.in,9945405512,Hyderabad,Telangana,2024-06-12,Enterprise,2026-08-13 04:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10461,Komal Nair,komal.nair461@example.in,9919450448,Pune,Maharashtra,2024-12-25,Retail,2026-08-13 05:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10462,Kabir Shah,,9102622232,Nashik,Maharashtra,2025-07-20,Retail,2026-08-13 05:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10463,Rahul Kulkarni,rahul.kulkarni463@example.in,9918388797,New Delhi,Delhi,2026-04-07,Retail,2026-08-13 06:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10464,Meera Nair,meera.nair464@example.in,9053646150,Hyderabad,Telangana,2025-10-03,Retail,2026-10-18 13:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10465,Varun Rao,varun.rao465@example.in,9010987738,Nashik,Maharashtra,2026-05-07,Retail,2026-08-13 07:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10466,Sakshi Verma,sakshi.verma466@example.in,9141534543,Mangaluru,Karnataka,2025-07-14,Retail,2026-08-13 08:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10467,Komal Sharma,komal.sharma467@example.in,9390827903,Mumbai,Maharashtra,2025-02-23,SMB,2026-08-13 08:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10468,Kabir Desai,kabir.desai468@example.in,9144318882,Vadodara,Gujarat,2025-12-17,SMB,2026-08-13 09:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10469,Meera Kulkarni,meera.kulkarni469@example.in,9771321910,Nashik,Maharashtra,2024-10-04,SMB,2026-08-13 10:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10470,Amit Nair,amit.nair470@example.in,9847832270,Pune,Maharashtra,2024-06-21,Enterprise,2026-08-13 10:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10471,Sameer Mehta,sameer.mehta471@example.in,9105069107,Mangaluru,Karnataka,2025-05-01,Enterprise,2026-08-13 11:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10472,Rahul Kulkarni,rahul.kulkarni472@example.in,9116812472,Nagpur,Maharashtra,2024-12-02,Retail,2026-08-13 12:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10473,Aditya Verma,aditya.verma473@example.in,9305197509,Coimbatore,Tamil Nadu,2024-07-08,Retail,2026-08-13 12:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10474,Sneha Joshi,sneha.joshi474@example.in,9246250518,Mangaluru,Karnataka,2026-03-21,SMB,2026-08-13 13:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10475,Arun Pillai,arun.pillai475@example.in,9847861468,Nagpur,Maharashtra,2024-01-15,Retail,2026-08-13 13:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10476,Lakshmi Jadhav,lakshmi.jadhav476@example.in,9617890406,New Delhi,Delhi,2026-02-14,SMB,2026-08-13 14:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10477,Sneha Singh,sneha.singh477@example.in,9642581255,Madurai,Tamil Nadu,2024-02-24,Retail,2026-08-13 15:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10478,Ananya Reddy,ananya.reddy478@example.in,9121043464,Nashik,Maharashtra,2026-03-08,SMB,2026-08-13 15:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10479,Komal Desai,komal.desai479@example.in,9114813587,Warangal,Telangana,2024-02-05,Retail,2026-10-18 08:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10480,Harsh Chavan,harsh.chavan480@example.in,9454438335,Bengaluru,Karnataka,2026-06-13,Retail,2026-08-13 17:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10481,Pooja Reddy,pooja.reddy481@example.in,9285112932,Nashik,Maharashtra,2025-07-17,Retail,2026-08-13 17:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10482,Pranav Mehta,pranav.mehta482@example.in,9354714627,Chennai,Tamil Nadu,2025-09-30,Retail,2026-08-13 18:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10483,Nisha Kulkarni,nisha.kulkarni483@example.in,9575097408,Chennai,Tamil Nadu,2025-09-25,Enterprise,2026-08-13 18:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10484,Pallavi Menon,pallavi.menon484@example.in,9669302938,Mangaluru,Karnataka,2024-11-11,Enterprise,2026-08-13 19:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10485,Arjun Verma,arjun.verma485@example.in,9072363894,Kolhapur,Maharashtra,2024-01-26,SMB,2026-08-13 20:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10486,Akash Joshi,akash.joshi486@example.in,9314124196,Nagpur,Maharashtra,2026-06-07,Retail,2026-08-13 20:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10487,Arun Verma,arun.verma487@example.in,9369627546,Mumbai,Maharashtra,2024-01-24,Retail,2026-08-13 21:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10488,Sakshi Sharma,sakshi.sharma488@example.in,9899333149,Mumbai,Maharashtra,2024-04-16,SMB,2026-08-13 21:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10489,Omkar Desai,omkar.desai489@example.in,9689537606,Pune,Maharashtra,2024-09-10,SMB,2026-08-13 22:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10490,Nisha Joshi,nisha.joshi490@example.in,9334061584,Nagpur,Maharashtra,2024-07-25,SMB,2026-08-13 23:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10491,Varun Menon,varun.menon491@example.in,9321223604,Nashik,Maharashtra,,SMB,2026-08-13 23:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10492,Anjali Patil,,9411517448,Madurai,Tamil Nadu,2024-08-24,SMB,2026-08-14 00:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10493,Ananya Sharma,ananya.sharma493@example.in,9021052924,Pune,Maharashtra,2024-04-08,SMB,2026-08-14 01:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10494,Omkar Gupta,omkar.gupta494@example.in,9812210553,Pune,Maharashtra,2024-01-13,Retail,2026-08-14 01:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10495,Lakshmi Reddy,lakshmi.reddy495@example.in,9649470307,Ahmedabad,Gujarat,2025-05-24,Retail,2026-08-14 02:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10496,Arjun Chavan,arjun.chavan496@example.in,9806701212,Nagpur,Maharashtra,2024-05-06,Retail,2026-08-14 02:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10497,Vivaan Menon,vivaan.menon497@example.in,9617949989,Madurai,Tamil Nadu,2026-04-09,SMB,2026-08-14 03:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10498,Suresh Sharma,suresh.sharma498@example.in,9610337810,Chennai,Tamil Nadu,2024-05-24,Retail,2026-08-14 04:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10499,Mrunal Iyer,mrunal.iyer499@example.in,9616961243,Mysuru,Karnataka,2024-07-19,Retail,2026-08-14 04:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10500,Ganesh Desai,ganesh.desai500@example.in,9287889680,Vadodara,Gujarat,2026-01-21,Enterprise,2026-08-14 05:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10501,Rutuja Reddy,rutuja.reddy501@example.in,9354266887,Warangal,Telangana,2025-09-08,Retail,2026-08-14 05:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10502,Shruti Sharma,shruti.sharma502@example.in,9126092375,Surat,Gujarat,2026-02-26,Retail,2026-08-14 06:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10503,Tanvi Singh,,9876694311,Surat,Gujarat,2025-12-13,Enterprise,2026-08-14 07:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10504,Swati Pillai,,9607181933,Ahmedabad,Gujarat,2025-04-15,SMB,2026-08-14 07:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10505,Yash Gupta,yash.gupta505@example.in,9043286317,Nagpur,Maharashtra,2026-01-10,SMB,2026-08-14 08:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10506,Vivaan Jadhav,vivaan.jadhav506@example.in,9392321743,Hyderabad,Telangana,2026-03-26,Retail,2026-08-14 09:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10507,Sahil Sharma,sahil.sharma507@example.in,,Pune,Maharashtra,,Retail,2026-08-14 09:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10508,Neha Joshi,neha.joshi508@example.in,9663506512,Mangaluru,Karnataka,2024-06-03,Retail,2026-08-14 10:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10509,Rohan Pillai,rohan.pillai509@example.in,9635786145,New Delhi,Delhi,2024-07-19,Retail,2026-08-14 10:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10510,Diya Pawar,diya.pawar510@example.in,9230895483,Nashik,Maharashtra,2026-01-23,Retail,2026-08-14 11:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10511,Sakshi Verma,,9793363403,Surat,Gujarat,2025-12-18,Retail,2026-08-14 12:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10512,Rahul Joshi,rahul.joshi512@example.in,9107600664,Pune,Maharashtra,2024-12-09,Retail,2026-08-14 12:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10513,Rutuja Patil,rutuja.patil513@example.in,9463042289,Warangal,Telangana,2026-05-30,Enterprise,2026-08-14 13:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10514,Divya Sharma,divya.sharma514@example.in,9255177968,Mangaluru,Karnataka,2026-06-01,Retail,2026-08-14 13:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10515,Yash Rao,yash.rao515@example.in,9361732804,Nagpur,Maharashtra,2025-05-28,Enterprise,2026-08-14 14:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10516,Lakshmi Chavan,lakshmi.chavan516@example.in,9056296541,Nagpur,Maharashtra,2024-08-01,Retail,2026-08-14 15:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10517,Gauri Reddy,gauri.reddy517@example.in,9877696884,Vadodara,Gujarat,2025-01-22,Retail,2026-08-14 15:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10518,Sakshi Desai,sakshi.desai518@example.in,9801112671,Vadodara,Gujarat,2024-04-01,Retail,2026-08-14 16:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10519,Nikhil Gupta,nikhil.gupta519@example.in,9644497905,Vadodara,Gujarat,2025-11-10,SMB,2026-08-14 17:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10520,Pranav Kulkarni,pranav.kulkarni520@example.in,9592009574,Warangal,Telangana,2024-11-14,Retail,2026-08-14 17:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10521,Tejas Rao,tejas.rao521@example.in,9584404048,Warangal,Telangana,2026-04-17,Retail,2026-08-14 18:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10522,Yash Desai,yash.desai522@example.in,9898916380,Hyderabad,Telangana,2026-03-22,SMB,2026-08-14 18:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10523,Rohan Kulkarni,rohan.kulkarni523@example.in,9931072934,Chennai,Tamil Nadu,2025-03-01,Retail,2026-08-14 19:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10524,Aditya Kulkarni,aditya.kulkarni524@example.in,9750858795,Hyderabad,Telangana,2026-01-17,SMB,2026-08-14 20:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10525,Swati Iyer,swati.iyer525@example.in,9576402891,Mangaluru,Karnataka,2025-05-09,Enterprise,2026-08-14 20:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10526,Komal Iyer,komal.iyer526@example.in,9276608685,Pune,Maharashtra,2024-06-21,Retail,2026-08-14 21:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10527,Akash Bhat,akash.bhat527@example.in,9399242364,Chennai,Tamil Nadu,2025-06-25,Enterprise,2026-08-14 21:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10528,Aditya Desai,aditya.desai528@example.in,9649420685,Warangal,Telangana,2024-07-11,SMB,2026-08-14 22:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10529,Sameer Singh,,9941462530,Mysuru,Karnataka,2024-05-23,SMB,2026-08-14 23:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10530,Suresh Kulkarni,suresh.kulkarni530@example.in,9365697572,Nashik,Maharashtra,2025-09-21,Enterprise,2026-08-14 23:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10531,Kabir Chavan,kabir.chavan531@example.in,9521573620,Kolhapur,Maharashtra,2025-04-10,Retail,2026-08-15 00:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10532,Meera Rao,meera.rao532@example.in,9950729777,Bengaluru,Karnataka,2024-10-03,Enterprise,2026-08-15 01:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10533,Harsh Reddy,harsh.reddy533@example.in,9971971810,Mangaluru,Karnataka,2026-04-30,Enterprise,2026-08-15 01:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10534,Ganesh Singh,ganesh.singh534@example.in,9363851757,Madurai,Tamil Nadu,2025-01-26,Enterprise,2026-08-15 02:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10535,Harsh Desai,harsh.desai535@example.in,9958421465,Pune,Maharashtra,2024-11-28,SMB,2026-08-15 02:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10536,Pallavi Jadhav,pallavi.jadhav536@example.in,9685316332,Warangal,Telangana,2024-09-30,Retail,2026-08-15 03:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10537,Nikhil Mehta,nikhil.mehta537@example.in,9722937719,Surat,Gujarat,2025-02-26,Retail,2026-08-15 04:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10538,Nisha Verma,nisha.verma538@example.in,9782303747,Surat,Gujarat,2024-11-03,Enterprise,2026-08-15 04:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10539,Omkar Patil,omkar.patil539@example.in,9387504413,New Delhi,Delhi,2024-07-28,Enterprise,2026-08-15 05:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10540,Riya Verma,riya.verma540@example.in,9587140080,Mangaluru,Karnataka,2026-03-27,Retail,2026-08-15 06:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10541,Shruti Chavan,shruti.chavan541@example.in,9333910353,Pune,Maharashtra,2025-03-10,SMB,2026-08-15 06:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10542,Priya Pawar,priya.pawar542@example.in,9385501951,Vadodara,Gujarat,2025-06-07,SMB,2026-08-15 07:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10543,Lakshmi Bhat,lakshmi.bhat543@example.in,9783368561,Nashik,Maharashtra,2025-07-18,Retail,2026-08-15 07:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10544,Diya Rao,diya.rao544@example.in,9513468920,Chennai,Tamil Nadu,2025-09-23,Retail,2026-08-15 08:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10545,Diya Patil,,9291187473,Madurai,Tamil Nadu,2026-04-13,Retail,2026-08-15 09:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10546,Rohan Chavan,rohan.chavan546@example.in,9782654822,Madurai,Tamil Nadu,2024-09-24,SMB,2026-08-15 09:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10547,Priya Patil,,9012406569,Bengaluru,Karnataka,2024-03-31,Retail,2026-08-15 10:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10548,Riya Sharma,riya.sharma548@example.in,,Madurai,Tamil Nadu,2026-02-12,Retail,2026-08-15 10:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10549,Amit Bhat,amit.bhat549@example.in,9962863142,Surat,Gujarat,2025-05-12,SMB,2026-08-15 11:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10550,Varun Joshi,varun.joshi550@example.in,9825155177,Surat,Gujarat,2026-04-15,Retail,2026-08-15 12:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10551,Arjun Bhat,arjun.bhat551@example.in,9789036921,Chennai,Tamil Nadu,2024-09-10,Enterprise,2026-08-15 12:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10552,Ganesh Reddy,ganesh.reddy552@example.in,9007904240,Chennai,Tamil Nadu,2024-08-20,Retail,2026-08-15 13:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10553,Riya Menon,riya.menon553@example.in,9853413090,Mumbai,Maharashtra,,SMB,2026-08-15 14:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10554,Ketan Menon,ketan.menon554@example.in,9293965435,Kolhapur,Maharashtra,,SMB,2026-08-15 14:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10555,Pallavi Desai,pallavi.desai555@example.in,9732765917,Kolhapur,Maharashtra,2024-06-19,Retail,2026-08-15 15:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10556,Harsh Mehta,harsh.mehta556@example.in,9015699167,Hyderabad,Telangana,2025-10-06,Enterprise,2026-08-15 15:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10557,Sneha Desai,sneha.desai557@example.in,9894088414,Madurai,Tamil Nadu,2025-12-04,SMB,2026-08-15 16:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10558,Akash Singh,akash.singh558@example.in,9277089123,New Delhi,Delhi,2025-11-24,SMB,2026-08-15 17:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10559,Suresh Joshi,suresh.joshi559@example.in,9429367766,Pune,Maharashtra,2026-04-04,Retail,2026-08-15 17:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10560,Rutuja Rao,rutuja.rao560@example.in,9457033957,Chennai,Tamil Nadu,2025-10-16,Retail,2026-08-15 18:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10561,Sahil Rao,sahil.rao561@example.in,9500552283,Kolhapur,Maharashtra,2024-02-15,SMB,2026-08-15 18:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10562,Divya Singh,divya.singh562@example.in,9629032159,Mumbai,Maharashtra,2025-05-15,Retail,2026-08-15 19:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10563,Rohan Patil,rohan.patil563@example.in,9350084301,Ahmedabad,Gujarat,2025-02-25,SMB,2026-08-15 20:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10564,Shruti Jadhav,shruti.jadhav564@example.in,9605797928,Coimbatore,Tamil Nadu,2024-03-25,SMB,2026-08-15 20:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10565,Rahul Joshi,rahul.joshi565@example.in,9151941008,Warangal,Telangana,2024-07-21,SMB,2026-08-15 21:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10566,Omkar Kulkarni,omkar.kulkarni566@example.in,,Nashik,Maharashtra,2025-09-21,Retail,2026-08-15 22:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10567,Anjali Shah,anjali.shah567@example.in,9064526486,Surat,Gujarat,2024-10-04,Enterprise,2026-08-15 22:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10568,Sneha Joshi,sneha.joshi568@example.in,9091518195,Warangal,Telangana,2026-01-30,Retail,2026-08-15 23:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10569,Tanvi Iyer,tanvi.iyer569@example.in,9261380342,Ahmedabad,Gujarat,2024-10-03,Enterprise,2026-08-15 23:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10570,Swati Verma,swati.verma570@example.in,9891536203,Pune,Maharashtra,2024-07-03,Retail,2026-08-16 00:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10571,Harsh Singh,harsh.singh571@example.in,9861439064,Warangal,Telangana,2024-09-29,SMB,2026-08-16 01:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10572,Rohan Gupta,rohan.gupta572@example.in,9627697258,Bengaluru,Karnataka,2024-03-26,SMB,2026-08-16 01:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10573,Aditya Joshi,aditya.joshi573@example.in,9888392081,Mangaluru,Karnataka,2025-09-20,Enterprise,2026-08-16 02:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10574,Divya Shah,,9038005762,Warangal,Telangana,2025-04-25,Enterprise,2026-08-16 02:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10575,Varun Joshi,varun.joshi575@example.in,9393366590,Nagpur,Maharashtra,2024-02-07,Retail,2026-08-16 03:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10576,Omkar Joshi,omkar.joshi576@example.in,9983359830,Kolhapur,Maharashtra,2024-03-30,Enterprise,2026-08-16 04:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10577,Sakshi Patil,sakshi.patil577@example.in,9818915896,Hyderabad,Telangana,2025-09-26,SMB,2026-08-16 04:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10578,Ananya Gupta,ananya.gupta578@example.in,9964925312,Nashik,Maharashtra,2024-07-27,SMB,2026-08-16 05:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10579,Rohan Singh,rohan.singh579@example.in,9911427305,Pune,Maharashtra,2025-05-11,Enterprise,2026-08-16 06:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10580,Komal Reddy,komal.reddy580@example.in,9212951602,Vadodara,Gujarat,2025-07-16,Retail,2026-08-16 06:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10581,Pallavi Mehta,pallavi.mehta581@example.in,9987084226,Ahmedabad,Gujarat,2025-09-17,Retail,2026-08-16 07:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10582,Swati Nair,swati.nair582@example.in,9020141212,Mysuru,Karnataka,2024-10-18,Retail,2026-08-16 07:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10583,Kabir Bhat,kabir.bhat583@example.in,9670146374,New Delhi,Delhi,2025-01-02,SMB,2026-08-16 08:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10584,Arun Menon,arun.menon584@example.in,9181748993,Vadodara,Gujarat,2024-03-23,Retail,2026-08-16 09:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10585,Manish Pillai,manish.pillai585@example.in,9518159559,Bengaluru,Karnataka,2024-06-28,Retail,2026-08-16 09:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10586,Meera Pillai,meera.pillai586@example.in,9456067425,Hyderabad,Telangana,2024-09-15,Retail,2026-08-16 10:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10587,Aditya Nair,aditya.nair587@example.in,9525777285,Bengaluru,Karnataka,2026-01-07,Retail,2026-08-16 10:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10588,Nisha Iyer,nisha.iyer588@example.in,9415582794,New Delhi,Delhi,2026-05-07,Retail,2026-08-16 11:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10589,Sameer Joshi,sameer.joshi589@example.in,9983617045,Nashik,Maharashtra,2026-04-10,Retail,2026-08-16 12:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10590,Sameer Rao,sameer.rao590@example.in,9696324850,Kolhapur,Maharashtra,2024-01-31,Retail,2026-08-16 12:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10591,Deepa Nair,deepa.nair591@example.in,9992832140,Bengaluru,Karnataka,2024-07-10,Retail,2026-08-16 13:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10592,Omkar Rao,omkar.rao592@example.in,9278540519,Madurai,Tamil Nadu,,Enterprise,2026-08-16 14:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10593,Siddharth Menon,siddharth.menon593@example.in,9101388814,Nagpur,Maharashtra,2024-09-12,Retail,2026-08-16 14:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10594,Sneha Menon,sneha.menon594@example.in,9293268092,Nashik,Maharashtra,2025-08-22,Retail,2026-08-16 15:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10595,Ganesh Iyer,ganesh.iyer595@example.in,9841350691,Coimbatore,Tamil Nadu,2024-11-21,Retail,2026-08-16 15:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10596,Rahul Kulkarni,rahul.kulkarni596@example.in,9678755496,Warangal,Telangana,2024-07-30,Enterprise,2026-08-16 16:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10597,Aditya Bhat,aditya.bhat597@example.in,9322381167,Mangaluru,Karnataka,2025-05-02,Retail,2026-08-16 17:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10598,Isha Iyer,,9157272173,Bengaluru,Karnataka,2025-05-29,Retail,2026-08-16 17:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10599,Sameer Menon,sameer.menon599@example.in,9706535933,Pune,Maharashtra,2026-03-24,Retail,2026-08-16 18:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10600,Siddharth Rao,siddharth.rao600@example.in,9623785781,Madurai,Tamil Nadu,2024-08-20,Retail,2026-08-16 19:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10601,Sakshi Verma,sakshi.verma601@example.in,9351640910,Kolhapur,Maharashtra,2024-12-15,Retail,2026-08-16 19:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10602,Manish Verma,manish.verma602@example.in,9382907069,Pune,Maharashtra,2024-11-09,Retail,2026-08-16 20:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10603,Kavya Mehta,kavya.mehta603@example.in,9841319584,Mangaluru,Karnataka,2025-08-19,SMB,2026-08-16 20:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10604,Riya Reddy,riya.reddy604@example.in,9961459622,Vadodara,Gujarat,2026-04-10,Retail,2026-08-16 21:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10605,Lakshmi Kulkarni,lakshmi.kulkarni605@example.in,9460308447,Bengaluru,Karnataka,2025-03-31,Enterprise,2026-08-16 22:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10606,Priya Shah,priya.shah606@example.in,9317679042,Chennai,Tamil Nadu,2024-02-20,SMB,2026-08-16 22:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10607,Kunal Rao,kunal.rao607@example.in,9593781896,Mumbai,Maharashtra,2026-05-09,Retail,2026-08-16 23:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10608,Tanvi Iyer,tanvi.iyer608@example.in,9990055169,Coimbatore,Tamil Nadu,2024-02-23,Retail,2026-08-16 23:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10609,Tanvi Desai,tanvi.desai609@example.in,9757992845,Vadodara,Gujarat,2024-03-27,Retail,2026-08-17 00:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10610,Pranav Gupta,pranav.gupta610@example.in,9101945809,Vadodara,Gujarat,2026-02-07,Retail,2026-10-16 06:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10611,Kunal Reddy,kunal.reddy611@example.in,9687946449,Bengaluru,Karnataka,2024-02-23,Retail,2026-10-16 06:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10612,Aditya Iyer,aditya.iyer612@example.in,9068739117,Mangaluru,Karnataka,2024-04-13,Retail,2026-08-17 02:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10613,Pranav Joshi,pranav.joshi613@example.in,9619615119,Coimbatore,Tamil Nadu,2026-01-13,Enterprise,2026-08-17 03:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10614,Komal Reddy,komal.reddy614@example.in,9478397364,Mumbai,Maharashtra,2024-10-26,Retail,2026-08-17 03:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10615,Aarav Mehta,aarav.mehta615@example.in,9272043314,Surat,Gujarat,2026-06-18,Retail,2026-08-17 04:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10616,Pallavi Bhat,,9407925298,Coimbatore,Tamil Nadu,2024-09-16,Enterprise,2026-08-17 04:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10617,Priya Pillai,priya.pillai617@example.in,9008892957,Kolhapur,Maharashtra,2024-01-12,Retail,2026-08-17 05:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10618,Aarav Reddy,,9894679271,Mysuru,Karnataka,2026-02-02,Retail,2026-08-17 06:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10619,Arjun Desai,arjun.desai619@example.in,9370184131,Mangaluru,Karnataka,2025-10-17,Retail,2026-08-17 06:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10620,Deepa Pillai,deepa.pillai620@example.in,9163651162,Warangal,Telangana,2025-11-02,Enterprise,2026-08-17 07:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10621,Arun Gupta,arun.gupta621@example.in,9881661434,Mysuru,Karnataka,2025-07-24,Enterprise,2026-08-17 07:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10622,Shruti Menon,shruti.menon622@example.in,9428975671,Pune,Maharashtra,2026-03-25,Enterprise,2026-08-17 08:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10623,Kabir Gupta,kabir.gupta623@example.in,9534941913,Coimbatore,Tamil Nadu,2024-01-24,Enterprise,2026-08-17 09:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10624,Kunal Joshi,kunal.joshi624@example.in,9344161001,Nashik,Maharashtra,2024-12-24,Retail,2026-08-17 09:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10625,Sameer Pawar,sameer.pawar625@example.in,9957596694,Chennai,Tamil Nadu,2025-02-06,SMB,2026-08-17 10:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10626,Mrunal Pillai,mrunal.pillai626@example.in,9249900698,New Delhi,Delhi,2026-02-25,Retail,2026-08-17 11:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10627,Sameer Mehta,sameer.mehta627@example.in,9801119160,Nashik,Maharashtra,2024-06-22,SMB,2026-08-17 11:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10628,Nikhil Pawar,nikhil.pawar628@example.in,9452378850,Mumbai,Maharashtra,2025-10-21,Retail,2026-08-17 12:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10629,Riya Menon,riya.menon629@example.in,9914182102,Vadodara,Gujarat,2024-10-14,Retail,2026-08-17 12:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10630,Pooja Verma,pooja.verma630@example.in,,Coimbatore,Tamil Nadu,2026-01-14,Retail,2026-08-17 13:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10631,Siddharth Verma,siddharth.verma631@example.in,9824350443,Coimbatore,Tamil Nadu,2026-05-04,Retail,2026-08-17 14:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10632,Pranav Pillai,pranav.pillai632@example.in,9132519667,Bengaluru,Karnataka,2025-04-28,Retail,2026-08-17 14:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10633,Mrunal Kulkarni,,9002009034,Surat,Gujarat,2025-05-15,Retail,2026-08-17 15:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10634,Ganesh Menon,ganesh.menon634@example.in,9813039211,Surat,Gujarat,2026-02-03,SMB,2026-08-17 15:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10635,Gauri Rao,gauri.rao635@example.in,9374973244,Coimbatore,Tamil Nadu,2024-11-16,Enterprise,2026-08-17 16:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10636,Mrunal Rao,mrunal.rao636@example.in,9632866850,Mysuru,Karnataka,2024-11-12,SMB,2026-08-17 17:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10637,Riya Sharma,riya.sharma637@example.in,9183394869,Warangal,Telangana,2025-02-18,Enterprise,2026-08-17 17:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10638,Omkar Menon,omkar.menon638@example.in,9105697565,Hyderabad,Telangana,2026-01-16,Enterprise,2026-08-17 18:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10639,Komal Menon,komal.menon639@example.in,9123079383,Surat,Gujarat,2024-05-26,Retail,2026-08-17 19:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10640,Vivaan Singh,vivaan.singh640@example.in,9577567664,Warangal,Telangana,,SMB,2026-08-17 19:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10641,Kunal Pawar,kunal.pawar641@example.in,9576132168,Mumbai,Maharashtra,2025-06-14,SMB,2026-08-17 20:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10642,Priya Desai,priya.desai642@example.in,9926194514,Madurai,Tamil Nadu,2024-09-14,SMB,2026-08-17 20:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10643,Divya Gupta,divya.gupta643@example.in,9123247290,Madurai,Tamil Nadu,2025-08-12,SMB,2026-08-17 21:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10644,Amit Pawar,amit.pawar644@example.in,9216350315,Nagpur,Maharashtra,2025-05-31,Retail,2026-08-17 22:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10645,Kiran Gupta,kiran.gupta645@example.in,9597499262,Vadodara,Gujarat,2024-03-12,Retail,2026-08-17 22:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10646,Suresh Pillai,suresh.pillai646@example.in,9177180752,Surat,Gujarat,2024-09-15,SMB,2026-08-17 23:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10647,Kabir Jadhav,kabir.jadhav647@example.in,9086834296,Warangal,Telangana,2025-12-07,SMB,2026-08-17 23:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10648,Kabir Singh,kabir.singh648@example.in,,Kolhapur,Maharashtra,2024-08-17,Enterprise,2026-08-18 00:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10649,Komal Reddy,komal.reddy649@example.in,9668926176,Mumbai,Maharashtra,2024-05-17,Enterprise,2026-08-18 01:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10650,Riya Desai,riya.desai650@example.in,9271903080,Ahmedabad,Gujarat,2026-04-15,Retail,2026-08-18 01:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10651,Rahul Pawar,rahul.pawar651@example.in,9691923510,Chennai,Tamil Nadu,,Retail,2026-08-18 02:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10652,Aarav Chavan,aarav.chavan652@example.in,9274428075,Mysuru,Karnataka,2025-03-28,SMB,2026-08-18 03:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10653,Vivaan Rao,vivaan.rao653@example.in,9940623922,Pune,Maharashtra,2025-09-19,Retail,2026-08-18 03:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10654,Sakshi Mehta,sakshi.mehta654@example.in,9357015563,Bengaluru,Karnataka,2026-05-19,Enterprise,2026-10-16 17:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10655,Kavya Joshi,kavya.joshi655@example.in,9286601970,Nagpur,Maharashtra,2025-03-11,SMB,2026-08-18 04:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10656,Riya Nair,riya.nair656@example.in,,Coimbatore,Tamil Nadu,2025-08-16,Enterprise,2026-08-18 05:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10657,Kiran Pillai,kiran.pillai657@example.in,9202258012,Mangaluru,Karnataka,2025-07-25,SMB,2026-08-18 06:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10658,Aditya Patil,aditya.patil658@example.in,9181166963,Bengaluru,Karnataka,2025-09-18,Retail,2026-08-18 06:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10659,Rohan Desai,rohan.desai659@example.in,9344444687,Hyderabad,Telangana,2024-03-23,SMB,2026-08-18 07:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10660,Nisha Pawar,nisha.pawar660@example.in,9097267878,Pune,Maharashtra,2024-06-19,Retail,2026-08-18 08:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10661,Anjali Chavan,anjali.chavan661@example.in,9920911537,Warangal,Telangana,2025-08-23,Retail,2026-08-18 08:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10662,Pallavi Desai,pallavi.desai662@example.in,9842994650,New Delhi,Delhi,2024-01-25,Enterprise,2026-08-18 09:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10663,Sneha Chavan,sneha.chavan663@example.in,9313386892,Mangaluru,Karnataka,2025-07-11,Enterprise,2026-10-15 22:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10664,Nisha Kulkarni,nisha.kulkarni664@example.in,9013470250,Ahmedabad,Gujarat,2024-11-14,SMB,2026-08-18 10:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10665,Kabir Bhat,kabir.bhat665@example.in,9139225688,New Delhi,Delhi,2024-12-22,Retail,2026-08-18 11:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10666,Harsh Mehta,harsh.mehta666@example.in,9009161624,Vadodara,Gujarat,2026-01-06,SMB,2026-08-18 11:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10667,Yash Mehta,yash.mehta667@example.in,9595210633,Chennai,Tamil Nadu,2024-08-07,Retail,2026-08-18 12:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10668,Neha Verma,neha.verma668@example.in,9307890622,Warangal,Telangana,2024-07-17,SMB,2026-08-18 12:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10669,Rohan Gupta,rohan.gupta669@example.in,9920040458,Mumbai,Maharashtra,2025-03-04,Retail,2026-08-18 13:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10670,Sahil Gupta,sahil.gupta670@example.in,9416476939,Nagpur,Maharashtra,2025-10-01,Retail,2026-08-18 14:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10671,Isha Mehta,isha.mehta671@example.in,9873177240,Ahmedabad,Gujarat,2025-02-06,Retail,2026-08-18 14:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10672,Anjali Pawar,anjali.pawar672@example.in,9915870225,Ahmedabad,Gujarat,2025-07-06,SMB,2026-08-18 15:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10673,Aarav Desai,aarav.desai673@example.in,9794707548,Madurai,Tamil Nadu,2024-10-07,Retail,2026-08-18 16:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10674,Ananya Joshi,ananya.joshi674@example.in,9882275440,Warangal,Telangana,2026-04-21,Retail,2026-08-18 16:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10675,Ketan Chavan,ketan.chavan675@example.in,,Warangal,Telangana,2024-10-29,Retail,2026-08-18 17:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10676,Arjun Pawar,arjun.pawar676@example.in,9945341759,Chennai,Tamil Nadu,2025-06-09,SMB,2026-08-18 17:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10677,Sameer Nair,sameer.nair677@example.in,9041464294,Ahmedabad,Gujarat,2024-10-22,Retail,2026-08-18 18:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10678,Manish Kulkarni,manish.kulkarni678@example.in,9721059491,Hyderabad,Telangana,2024-01-21,Retail,2026-08-18 19:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10679,Riya Sharma,riya.sharma679@example.in,9755817621,Coimbatore,Tamil Nadu,2024-02-27,SMB,2026-08-18 19:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10680,Tanvi Reddy,tanvi.reddy680@example.in,9522192872,Mumbai,Maharashtra,2025-08-15,Retail,2026-08-18 20:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10681,Omkar Patil,omkar.patil681@example.in,9535868378,Madurai,Tamil Nadu,2024-05-04,Retail,2026-08-18 20:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10682,Riya Reddy,riya.reddy682@example.in,9755489772,New Delhi,Delhi,2024-12-08,SMB,2026-08-18 21:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10683,Arun Sharma,arun.sharma683@example.in,9613864438,Mumbai,Maharashtra,2024-09-22,Retail,2026-08-18 22:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10684,Sakshi Pawar,sakshi.pawar684@example.in,9848267232,Nagpur,Maharashtra,2025-09-21,Retail,2026-08-18 22:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10685,Harsh Mehta,harsh.mehta685@example.in,9822727519,Mysuru,Karnataka,2024-02-28,SMB,2026-08-18 23:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10686,Priya Verma,priya.verma686@example.in,9675042467,Vadodara,Gujarat,2025-07-21,SMB,2026-08-19 00:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10687,Ananya Mehta,ananya.mehta687@example.in,9673505618,Madurai,Tamil Nadu,2024-07-05,SMB,2026-08-19 00:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10688,Pranav Bhat,pranav.bhat688@example.in,9060429415,Coimbatore,Tamil Nadu,2025-11-26,SMB,2026-08-19 01:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10689,Sakshi Menon,sakshi.menon689@example.in,9357463992,Mangaluru,Karnataka,2024-09-24,Retail,2026-08-19 01:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10690,Neha Pawar,neha.pawar690@example.in,9299949882,Hyderabad,Telangana,2024-03-02,SMB,2026-08-19 02:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10691,Varun Joshi,varun.joshi691@example.in,9937582315,Bengaluru,Karnataka,2025-04-08,Retail,2026-08-19 03:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10692,Sneha Pawar,sneha.pawar692@example.in,9733355348,Mangaluru,Karnataka,2025-10-03,Retail,2026-10-15 11:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10693,Tanvi Pillai,tanvi.pillai693@example.in,9565737377,Bengaluru,Karnataka,2025-04-16,Enterprise,2026-08-19 04:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10694,Kunal Gupta,kunal.gupta694@example.in,9793873649,Nagpur,Maharashtra,2026-05-11,SMB,2026-08-19 04:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10695,Pranav Reddy,pranav.reddy695@example.in,9563149250,Mangaluru,Karnataka,2024-01-27,SMB,2026-08-19 05:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10696,Aditya Gupta,aditya.gupta696@example.in,9712613122,Warangal,Telangana,2024-09-03,Retail,2026-08-19 06:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10697,Lakshmi Pawar,lakshmi.pawar697@example.in,,Ahmedabad,Gujarat,2024-11-12,Retail,2026-08-19 06:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10698,Lakshmi Pawar,lakshmi.pawar698@example.in,9189705495,Madurai,Tamil Nadu,2024-02-17,Retail,2026-08-19 07:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10699,Kunal Pillai,kunal.pillai699@example.in,9483086427,Hyderabad,Telangana,2025-08-17,Retail,2026-08-19 08:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10700,Shruti Pawar,shruti.pawar700@example.in,9753095674,Ahmedabad,Gujarat,2025-04-13,Retail,2026-08-19 08:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10701,Swati Pawar,swati.pawar701@example.in,9091595686,Vadodara,Gujarat,2024-05-16,SMB,2026-08-19 09:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10702,Nisha Pillai,nisha.pillai702@example.in,9903310197,Kolhapur,Maharashtra,2024-05-12,Retail,2026-08-19 09:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10703,Ananya Verma,ananya.verma703@example.in,9343387165,Mysuru,Karnataka,2026-06-17,SMB,2026-08-19 10:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10704,Tejas Shah,tejas.shah704@example.in,9748481660,New Delhi,Delhi,2025-01-06,Retail,2026-08-19 11:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10705,Ketan Patil,ketan.patil705@example.in,9374716863,Pune,Maharashtra,2025-06-25,SMB,2026-08-19 11:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10706,Tejas Shah,tejas.shah706@example.in,9090502716,Mumbai,Maharashtra,2025-08-04,Retail,2026-10-18 11:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10707,Ganesh Nair,ganesh.nair707@example.in,9219744321,New Delhi,Delhi,2025-08-26,Enterprise,2026-08-19 12:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10708,Sakshi Gupta,sakshi.gupta708@example.in,9043110536,Nashik,Maharashtra,2024-08-07,SMB,2026-08-19 13:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10709,Arjun Pillai,arjun.pillai709@example.in,9781968621,Vadodara,Gujarat,2025-10-21,SMB,2026-08-19 14:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10710,Sneha Sharma,sneha.sharma710@example.in,9198318703,Pune,Maharashtra,2025-03-15,Retail,2026-08-19 14:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10711,Priya Menon,priya.menon711@example.in,9882148905,Madurai,Tamil Nadu,2024-03-21,Enterprise,2026-08-19 15:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10712,Manish Nair,manish.nair712@example.in,9949371691,Pune,Maharashtra,2024-01-28,Retail,2026-08-19 16:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10713,Vivaan Jadhav,vivaan.jadhav713@example.in,9918294888,Hyderabad,Telangana,2025-06-14,Retail,2026-08-19 16:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10714,Diya Pillai,diya.pillai714@example.in,9592850480,Chennai,Tamil Nadu,2025-03-31,SMB,2026-08-19 17:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10715,Pooja Bhat,pooja.bhat715@example.in,9342827573,Nagpur,Maharashtra,2026-04-06,Retail,2026-08-19 17:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10716,Kavya Verma,kavya.verma716@example.in,9088637196,Hyderabad,Telangana,2024-08-29,Retail,2026-08-19 18:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10717,Sahil Shah,sahil.shah717@example.in,9291205883,Kolhapur,Maharashtra,2024-07-17,Retail,2026-08-19 19:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10718,Pranav Pillai,pranav.pillai718@example.in,9554722759,Surat,Gujarat,2025-03-18,Retail,2026-08-19 19:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10719,Tanvi Pillai,tanvi.pillai719@example.in,9471428779,Pune,Maharashtra,2025-05-10,Retail,2026-08-19 20:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10720,Pranav Chavan,pranav.chavan720@example.in,9571950027,Surat,Gujarat,2024-04-24,Retail,2026-08-19 21:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10721,Rahul Menon,rahul.menon721@example.in,9723329204,New Delhi,Delhi,2026-02-11,Enterprise,2026-08-19 21:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10722,Neha Rao,neha.rao722@example.in,9506424697,Nashik,Maharashtra,2024-04-07,Retail,2026-08-19 22:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10723,Lakshmi Chavan,lakshmi.chavan723@example.in,9131802715,Madurai,Tamil Nadu,2024-06-25,Retail,2026-08-19 22:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10724,Yash Kulkarni,yash.kulkarni724@example.in,9271467057,Vadodara,Gujarat,2025-04-24,Retail,2026-08-19 23:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10725,Tejas Sharma,tejas.sharma725@example.in,9595336263,Vadodara,Gujarat,2024-06-26,Retail,2026-08-20 00:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10726,Riya Pillai,riya.pillai726@example.in,9473840892,Bengaluru,Karnataka,2024-03-06,SMB,2026-08-20 00:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10727,Ganesh Patil,ganesh.patil727@example.in,9821289982,Mysuru,Karnataka,2026-06-11,Enterprise,2026-08-20 01:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10728,Komal Desai,komal.desai728@example.in,9488768450,Chennai,Tamil Nadu,,SMB,2026-08-20 01:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10729,Priya Chavan,priya.chavan729@example.in,9021855609,Warangal,Telangana,2024-08-08,Retail,2026-08-20 02:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10730,Tejas Pillai,tejas.pillai730@example.in,9682162750,Nagpur,Maharashtra,2025-08-20,Retail,2026-08-20 03:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10731,Gauri Joshi,gauri.joshi731@example.in,9726887259,Nashik,Maharashtra,2024-07-18,Retail,2026-08-20 03:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10732,Komal Sharma,komal.sharma732@example.in,,Coimbatore,Tamil Nadu,2024-12-26,SMB,2026-08-20 04:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10733,Priya Bhat,priya.bhat733@example.in,9014154530,Nagpur,Maharashtra,2025-07-11,Enterprise,2026-08-20 05:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10734,Meera Desai,meera.desai734@example.in,9007498388,Ahmedabad,Gujarat,2026-05-28,Enterprise,2026-08-20 05:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10735,Pranav Gupta,pranav.gupta735@example.in,9573921467,Kolhapur,Maharashtra,2024-05-11,SMB,2026-08-20 06:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10736,Sameer Shah,sameer.shah736@example.in,9104784844,Coimbatore,Tamil Nadu,2024-05-07,Retail,2026-08-20 06:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10737,Shruti Gupta,shruti.gupta737@example.in,9975741945,Coimbatore,Tamil Nadu,2026-01-24,Retail,2026-10-18 13:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10738,Kiran Mehta,kiran.mehta738@example.in,9999491813,Pune,Maharashtra,2025-08-22,Retail,2026-08-20 08:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10739,Isha Pillai,isha.pillai739@example.in,9148716016,Mangaluru,Karnataka,2024-10-07,SMB,2026-08-20 08:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10740,Arjun Chavan,arjun.chavan740@example.in,9728471949,Vadodara,Gujarat,2025-04-22,Retail,2026-08-20 09:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10741,Suresh Pawar,,9533096957,Pune,Maharashtra,2024-04-08,SMB,2026-08-20 09:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10742,Tanvi Iyer,tanvi.iyer742@example.in,9523847411,Mumbai,Maharashtra,2025-05-01,Retail,2026-08-20 10:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10743,Ganesh Reddy,ganesh.reddy743@example.in,9713711531,Nashik,Maharashtra,2024-12-26,Retail,2026-08-20 11:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10744,Lakshmi Shah,lakshmi.shah744@example.in,9437357289,Nagpur,Maharashtra,2024-09-24,Retail,2026-08-20 11:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10745,Nikhil Mehta,nikhil.mehta745@example.in,9141011452,Hyderabad,Telangana,2024-12-18,SMB,2026-08-20 12:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10746,Aarav Pillai,aarav.pillai746@example.in,,New Delhi,Delhi,2026-01-23,SMB,2026-08-20 13:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10747,Sameer Joshi,sameer.joshi747@example.in,9181559982,Nagpur,Maharashtra,2025-02-08,Retail,2026-08-20 13:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10748,Priya Joshi,priya.joshi748@example.in,9115190779,Madurai,Tamil Nadu,2025-04-09,Retail,2026-08-20 14:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10749,Sneha Iyer,sneha.iyer749@example.in,9476404493,Bengaluru,Karnataka,2026-01-21,SMB,2026-08-20 14:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10750,Aarav Chavan,aarav.chavan750@example.in,9898684144,Pune,Maharashtra,2024-11-03,Enterprise,2026-10-15 16:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10751,Ananya Patil,ananya.patil751@example.in,9910769334,Warangal,Telangana,2025-12-23,Retail,2026-08-20 16:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10752,Kavya Gupta,kavya.gupta752@example.in,9670527128,Nagpur,Maharashtra,2024-03-05,SMB,2026-08-20 16:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10753,Rohan Pillai,rohan.pillai753@example.in,9046078721,Chennai,Tamil Nadu,2026-03-17,SMB,2026-08-20 17:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10754,Tejas Mehta,tejas.mehta754@example.in,9023593293,Madurai,Tamil Nadu,2025-05-22,Enterprise,2026-08-20 17:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10755,Sahil Joshi,,9667510953,Pune,Maharashtra,2025-10-27,SMB,2026-08-20 18:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10756,Pooja Gupta,pooja.gupta756@example.in,9465882929,Warangal,Telangana,2026-02-24,SMB,2026-08-20 19:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10757,Nikhil Menon,nikhil.menon757@example.in,9806461137,Pune,Maharashtra,2024-01-29,SMB,2026-08-20 19:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10758,Tanvi Mehta,tanvi.mehta758@example.in,9957431051,New Delhi,Delhi,2025-06-12,SMB,2026-08-20 20:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10759,Diya Sharma,diya.sharma759@example.in,9347436041,Ahmedabad,Gujarat,2024-05-26,Retail,2026-08-20 21:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10760,Manish Patil,,9632669785,Warangal,Telangana,2024-06-08,Enterprise,2026-08-20 21:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10761,Riya Reddy,riya.reddy761@example.in,9487489606,Madurai,Tamil Nadu,2025-10-24,Retail,2026-08-20 22:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10762,Rutuja Gupta,rutuja.gupta762@example.in,9194254256,Hyderabad,Telangana,2024-02-05,Enterprise,2026-08-20 22:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10763,Divya Gupta,divya.gupta763@example.in,9131156290,Bengaluru,Karnataka,2025-05-24,SMB,2026-08-20 23:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10764,Shruti Joshi,shruti.joshi764@example.in,9460588773,Chennai,Tamil Nadu,2024-06-28,Retail,2026-08-21 00:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10765,Rahul Singh,rahul.singh765@example.in,9017732910,Coimbatore,Tamil Nadu,2025-01-24,Retail,2026-08-21 00:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10766,Siddharth Iyer,siddharth.iyer766@example.in,9796486194,Mangaluru,Karnataka,2024-11-20,Retail,2026-08-21 01:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10767,Komal Jadhav,komal.jadhav767@example.in,9837219758,Warangal,Telangana,2026-02-18,SMB,2026-08-21 01:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10768,Arun Bhat,arun.bhat768@example.in,9152990423,Mangaluru,Karnataka,2024-10-29,Enterprise,2026-08-21 02:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10769,Varun Chavan,varun.chavan769@example.in,9398238167,New Delhi,Delhi,2025-08-10,Retail,2026-08-21 03:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10770,Swati Jadhav,swati.jadhav770@example.in,9760022043,Pune,Maharashtra,2024-12-18,SMB,2026-08-21 03:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10771,Amit Reddy,amit.reddy771@example.in,9341691609,Kolhapur,Maharashtra,2025-08-20,SMB,2026-08-21 04:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10772,Komal Bhat,komal.bhat772@example.in,9567641563,Nashik,Maharashtra,2024-12-04,Enterprise,2026-08-21 05:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10773,Harsh Sharma,,9386502865,Ahmedabad,Gujarat,2024-06-01,SMB,2026-08-21 05:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10774,Ketan Sharma,ketan.sharma774@example.in,9437724356,Chennai,Tamil Nadu,2024-06-05,Enterprise,2026-08-21 06:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10775,Amit Joshi,amit.joshi775@example.in,9325713227,Chennai,Tamil Nadu,2024-12-04,Retail,2026-08-21 06:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10776,Ganesh Verma,ganesh.verma776@example.in,9273862443,Nagpur,Maharashtra,2024-12-10,Enterprise,2026-10-18 17:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10777,Isha Gupta,isha.gupta777@example.in,9837228402,Mysuru,Karnataka,2026-01-11,Retail,2026-08-21 08:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10778,Amit Nair,amit.nair778@example.in,9468703974,Warangal,Telangana,2024-06-29,Enterprise,2026-08-21 08:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10779,Shruti Singh,shruti.singh779@example.in,9641387761,New Delhi,Delhi,2025-04-21,Enterprise,2026-08-21 09:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10780,Priya Chavan,priya.chavan780@example.in,9229130712,Nashik,Maharashtra,2024-05-19,Retail,2026-08-21 10:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10781,Ananya Reddy,ananya.reddy781@example.in,9957210380,Hyderabad,Telangana,2026-05-01,Retail,2026-08-21 10:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10782,Varun Joshi,varun.joshi782@example.in,9610145163,Coimbatore,Tamil Nadu,2024-09-14,Retail,2026-08-21 11:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10783,Mrunal Bhat,mrunal.bhat783@example.in,9341125859,Surat,Gujarat,,SMB,2026-08-21 11:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10784,Kiran Kulkarni,kiran.kulkarni784@example.in,9487061033,Hyderabad,Telangana,2025-03-23,Retail,2026-08-21 12:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10785,Lakshmi Desai,lakshmi.desai785@example.in,9032977483,Chennai,Tamil Nadu,2024-10-13,Retail,2026-08-21 13:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10786,Sameer Sharma,sameer.sharma786@example.in,9062119679,Mumbai,Maharashtra,2024-07-10,Retail,2026-08-21 13:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10787,Sneha Reddy,sneha.reddy787@example.in,9717915499,Coimbatore,Tamil Nadu,2024-11-09,Retail,2026-08-21 14:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10788,Swati Rao,swati.rao788@example.in,9328094597,Nashik,Maharashtra,2025-12-17,SMB,2026-08-21 14:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10789,Swati Iyer,,9252285017,Madurai,Tamil Nadu,2024-07-10,Retail,2026-08-21 15:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10790,Anjali Verma,anjali.verma790@example.in,9325300122,Coimbatore,Tamil Nadu,2024-09-30,SMB,2026-08-21 16:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10791,Sameer Rao,sameer.rao791@example.in,9430479550,Pune,Maharashtra,2024-09-17,SMB,2026-08-21 16:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10792,Arun Chavan,arun.chavan792@example.in,9943026814,Bengaluru,Karnataka,2025-06-14,Retail,2026-08-21 17:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10793,Kavya Bhat,kavya.bhat793@example.in,9048419278,Vadodara,Gujarat,2025-01-12,SMB,2026-08-21 18:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10794,Arjun Chavan,arjun.chavan794@example.in,9697720273,Nagpur,Maharashtra,2024-10-17,SMB,2026-08-21 18:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10795,Deepa Pawar,deepa.pawar795@example.in,9872529769,Coimbatore,Tamil Nadu,2026-03-07,Enterprise,2026-08-21 19:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10796,Lakshmi Verma,lakshmi.verma796@example.in,9865302914,Bengaluru,Karnataka,2026-04-06,Retail,2026-08-21 19:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10797,Pooja Pawar,pooja.pawar797@example.in,9591055441,Mumbai,Maharashtra,2026-04-02,Retail,2026-08-21 20:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10798,Lakshmi Sharma,lakshmi.sharma798@example.in,9585321058,Mumbai,Maharashtra,2024-12-13,Retail,2026-08-21 21:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10799,Rutuja Bhat,rutuja.bhat799@example.in,9716961763,Madurai,Tamil Nadu,2025-11-23,SMB,2026-08-21 21:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10800,Sakshi Shah,sakshi.shah800@example.in,9379090682,Bengaluru,Karnataka,2025-10-01,SMB,2026-08-21 22:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10801,Lakshmi Patil,lakshmi.patil801@example.in,9615034731,Bengaluru,Karnataka,2024-03-09,Enterprise,2026-08-21 22:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10802,Mrunal Joshi,mrunal.joshi802@example.in,,Vadodara,Gujarat,2026-01-09,Retail,2026-08-21 23:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10803,Neha Shah,neha.shah803@example.in,9872360385,Madurai,Tamil Nadu,2024-10-20,Retail,2026-08-22 00:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10804,Mrunal Sharma,mrunal.sharma804@example.in,9299218222,Bengaluru,Karnataka,2024-11-22,SMB,2026-08-22 00:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10805,Kunal Desai,kunal.desai805@example.in,9385289144,Ahmedabad,Gujarat,2024-10-27,Retail,2026-08-22 01:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10806,Aditya Reddy,aditya.reddy806@example.in,9784424694,Chennai,Tamil Nadu,2024-12-15,Retail,2026-08-22 02:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10807,Arjun Gupta,arjun.gupta807@example.in,9844210263,Pune,Maharashtra,2025-08-24,SMB,2026-08-22 02:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10808,Pallavi Bhat,pallavi.bhat808@example.in,9095976671,Vadodara,Gujarat,2024-06-07,Retail,2026-08-22 03:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10809,Ketan Reddy,ketan.reddy809@example.in,9606425456,Vadodara,Gujarat,2025-01-07,Enterprise,2026-08-22 03:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10810,Kunal Verma,kunal.verma810@example.in,9578073902,Warangal,Telangana,2024-07-20,SMB,2026-08-22 04:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10811,Swati Joshi,swati.joshi811@example.in,9041314915,Nashik,Maharashtra,2024-10-22,SMB,2026-08-22 05:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10812,Ketan Menon,ketan.menon812@example.in,9091064893,Coimbatore,Tamil Nadu,2024-02-26,SMB,2026-10-18 04:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10813,Ketan Pawar,ketan.pawar813@example.in,9000937982,Mangaluru,Karnataka,2024-10-09,Enterprise,2026-08-22 06:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10814,Neha Patil,neha.patil814@example.in,9804113571,Nagpur,Maharashtra,2025-08-09,Retail,2026-08-22 06:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10815,Shruti Jadhav,shruti.jadhav815@example.in,9345853722,Chennai,Tamil Nadu,2025-12-02,Retail,2026-08-22 07:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10816,Anjali Rao,anjali.rao816@example.in,9379458920,Mysuru,Karnataka,2024-12-31,SMB,2026-08-22 08:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10817,Ganesh Kulkarni,,9864596999,Madurai,Tamil Nadu,2025-10-18,Retail,2026-08-22 08:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10818,Omkar Jadhav,omkar.jadhav818@example.in,9848254177,Hyderabad,Telangana,2024-06-24,Retail,2026-08-22 09:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10819,Ganesh Kulkarni,ganesh.kulkarni819@example.in,9511183501,Nagpur,Maharashtra,2025-02-04,Retail,2026-08-22 10:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10820,Siddharth Desai,siddharth.desai820@example.in,9377936126,Mumbai,Maharashtra,2024-01-26,SMB,2026-08-22 10:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10821,Sneha Chavan,,9280084228,Hyderabad,Telangana,2025-06-16,Retail,2026-10-18 17:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10822,Arjun Joshi,arjun.joshi822@example.in,9403588635,Madurai,Tamil Nadu,2025-05-03,Retail,2026-10-18 01:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10823,Tejas Gupta,tejas.gupta823@example.in,9673775520,Pune,Maharashtra,2026-02-01,SMB,2026-08-22 12:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10824,Pranav Desai,pranav.desai824@example.in,9008219652,Vadodara,Gujarat,2025-02-03,Retail,2026-08-22 13:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10825,Rutuja Sharma,rutuja.sharma825@example.in,9724497034,Pune,Maharashtra,2024-10-27,SMB,2026-08-22 13:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10826,Sneha Menon,sneha.menon826@example.in,9233816161,Coimbatore,Tamil Nadu,2025-10-11,Enterprise,2026-08-22 14:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10827,Sakshi Joshi,sakshi.joshi827@example.in,9838142392,Pune,Maharashtra,2026-01-15,Retail,2026-08-22 14:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10828,Ananya Verma,ananya.verma828@example.in,9631157567,Mysuru,Karnataka,2025-06-10,SMB,2026-08-22 15:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10829,Suresh Desai,suresh.desai829@example.in,9341821527,Hyderabad,Telangana,2025-09-30,Retail,2026-08-22 16:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10830,Arun Desai,arun.desai830@example.in,9280607184,Bengaluru,Karnataka,2024-02-27,Enterprise,2026-08-22 16:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10831,Ketan Verma,ketan.verma831@example.in,9788387734,New Delhi,Delhi,2025-08-19,Retail,2026-08-22 17:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10832,Pranav Chavan,pranav.chavan832@example.in,9485321255,Nagpur,Maharashtra,2025-01-02,Enterprise,2026-10-15 19:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10833,Kavya Joshi,kavya.joshi833@example.in,9692819864,Hyderabad,Telangana,2026-05-05,SMB,2026-08-22 18:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10834,Vivaan Pawar,vivaan.pawar834@example.in,9725498493,Kolhapur,Maharashtra,2026-02-18,Retail,2026-08-22 19:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10835,Ketan Patil,ketan.patil835@example.in,9664968844,Vadodara,Gujarat,2024-03-30,Retail,2026-08-22 19:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10836,Pooja Reddy,pooja.reddy836@example.in,9284988523,Mysuru,Karnataka,2024-11-05,Enterprise,2026-08-22 20:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10837,Nikhil Pillai,nikhil.pillai837@example.in,9422734839,Chennai,Tamil Nadu,2024-01-25,Retail,2026-10-16 14:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10838,Kabir Mehta,kabir.mehta838@example.in,9932996166,Vadodara,Gujarat,2026-03-05,SMB,2026-08-22 21:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10839,Diya Sharma,diya.sharma839@example.in,9869703827,Coimbatore,Tamil Nadu,2025-10-02,Retail,2026-08-22 22:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10840,Pranav Verma,pranav.verma840@example.in,9983669253,Madurai,Tamil Nadu,2025-01-28,Retail,2026-08-22 23:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10841,Akash Iyer,akash.iyer841@example.in,,Warangal,Telangana,2025-06-29,Retail,2026-08-22 23:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10842,Ananya Desai,ananya.desai842@example.in,9211153654,Surat,Gujarat,2024-11-08,Retail,2026-08-23 00:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10843,Ketan Iyer,ketan.iyer843@example.in,9228836285,Mangaluru,Karnataka,2025-11-08,Retail,2026-08-23 00:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10844,Neha Rao,neha.rao844@example.in,9389533401,Coimbatore,Tamil Nadu,2025-01-22,SMB,2026-08-23 01:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10845,Sahil Reddy,sahil.reddy845@example.in,9414469228,Chennai,Tamil Nadu,2024-10-19,Enterprise,2026-08-23 02:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10846,Rahul Patil,rahul.patil846@example.in,9168465019,Surat,Gujarat,,Enterprise,2026-08-23 02:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10847,Tejas Patil,tejas.patil847@example.in,9478432335,Pune,Maharashtra,2024-05-06,SMB,2026-08-23 03:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10848,Shruti Iyer,shruti.iyer848@example.in,,Hyderabad,Telangana,2024-04-08,SMB,2026-08-23 03:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10849,Deepa Pawar,deepa.pawar849@example.in,9477266040,Warangal,Telangana,2024-02-24,Retail,2026-08-23 04:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10850,Yash Mehta,yash.mehta850@example.in,9723381740,Nashik,Maharashtra,2025-09-05,SMB,2026-08-23 05:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10851,Aarav Mehta,aarav.mehta851@example.in,9135649757,Mangaluru,Karnataka,2024-06-30,Retail,2026-08-23 05:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10852,Lakshmi Shah,lakshmi.shah852@example.in,9669536472,Ahmedabad,Gujarat,2025-03-11,Enterprise,2026-08-23 06:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10853,Siddharth Sharma,,9007220351,Nashik,Maharashtra,2024-03-07,Enterprise,2026-08-23 07:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10854,Pranav Nair,pranav.nair854@example.in,9120805843,Madurai,Tamil Nadu,2026-05-23,Retail,2026-08-23 07:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10855,Mrunal Desai,mrunal.desai855@example.in,9695547718,Madurai,Tamil Nadu,2026-04-19,Retail,2026-08-23 08:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10856,Kunal Chavan,kunal.chavan856@example.in,,Pune,Maharashtra,2024-07-21,SMB,2026-08-23 08:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10857,Manish Joshi,manish.joshi857@example.in,9550666317,Mangaluru,Karnataka,2025-09-19,Retail,2026-08-23 09:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10858,Riya Pillai,riya.pillai858@example.in,9690067680,Bengaluru,Karnataka,2024-01-05,SMB,2026-08-23 10:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10859,Ananya Pillai,ananya.pillai859@example.in,9942863843,Chennai,Tamil Nadu,2026-03-13,Retail,2026-08-23 10:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10860,Sameer Rao,sameer.rao860@example.in,9291869554,Surat,Gujarat,2026-05-09,SMB,2026-08-23 11:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10861,Aditya Menon,aditya.menon861@example.in,9557780901,Bengaluru,Karnataka,2025-06-15,Retail,2026-10-16 00:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10862,Meera Verma,meera.verma862@example.in,9116759193,Kolhapur,Maharashtra,2026-04-01,SMB,2026-08-23 12:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10863,Mrunal Desai,mrunal.desai863@example.in,9401062600,Mumbai,Maharashtra,2026-03-05,Retail,2026-08-23 13:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10864,Sneha Gupta,sneha.gupta864@example.in,9445686623,Surat,Gujarat,2026-01-25,Retail,2026-08-23 13:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10865,Sneha Mehta,sneha.mehta865@example.in,9833884414,Madurai,Tamil Nadu,2024-02-05,Retail,2026-08-23 14:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10866,Tanvi Patil,tanvi.patil866@example.in,9392355928,Chennai,Tamil Nadu,2026-01-30,SMB,2026-08-23 15:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10867,Kabir Menon,kabir.menon867@example.in,9796961117,Chennai,Tamil Nadu,2025-10-31,Retail,2026-08-23 15:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10868,Rutuja Patil,rutuja.patil868@example.in,9024142970,Bengaluru,Karnataka,2025-12-10,SMB,2026-08-23 16:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10869,Ananya Sharma,ananya.sharma869@example.in,9826302168,Nagpur,Maharashtra,2024-10-15,Retail,2026-08-23 16:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10870,Ananya Rao,ananya.rao870@example.in,9084301316,Mangaluru,Karnataka,2025-12-08,Retail,2026-08-23 17:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10871,Sakshi Chavan,sakshi.chavan871@example.in,9699302330,Madurai,Tamil Nadu,2025-07-16,Enterprise,2026-08-23 18:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10872,Lakshmi Bhat,lakshmi.bhat872@example.in,9508246170,Madurai,Tamil Nadu,2025-06-07,Retail,2026-08-23 18:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10873,Komal Chavan,komal.chavan873@example.in,9004294767,Nagpur,Maharashtra,2024-03-05,Retail,2026-08-23 19:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10874,Pallavi Patil,pallavi.patil874@example.in,9637129992,Mangaluru,Karnataka,2024-04-03,Retail,2026-08-23 19:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10875,Rohan Menon,,9249002485,Mysuru,Karnataka,2025-10-09,SMB,2026-10-16 02:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10876,Isha Iyer,isha.iyer876@example.in,9145136488,Mysuru,Karnataka,2025-12-06,Retail,2026-08-23 21:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10877,Deepa Singh,deepa.singh877@example.in,9509968218,Ahmedabad,Gujarat,2026-04-08,Retail,2026-08-23 21:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10878,Priya Mehta,priya.mehta878@example.in,9506609314,Surat,Gujarat,2024-04-25,SMB,2026-08-23 22:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10879,Harsh Chavan,harsh.chavan879@example.in,9586756020,Ahmedabad,Gujarat,2024-09-17,Retail,2026-08-23 23:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10880,Vivaan Iyer,vivaan.iyer880@example.in,9042685969,Nagpur,Maharashtra,2024-11-21,Retail,2026-08-23 23:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10881,Harsh Desai,harsh.desai881@example.in,9206703325,Warangal,Telangana,2024-11-14,Retail,2026-08-24 00:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10882,Kabir Joshi,kabir.joshi882@example.in,9132483553,Ahmedabad,Gujarat,2024-05-22,SMB,2026-08-24 00:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10883,Harsh Singh,harsh.singh883@example.in,9814889456,Nagpur,Maharashtra,2025-01-31,Retail,2026-08-24 01:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10884,Neha Iyer,neha.iyer884@example.in,9263447256,Surat,Gujarat,2024-05-30,Enterprise,2026-08-24 02:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10885,Pallavi Gupta,pallavi.gupta885@example.in,9898572832,Mangaluru,Karnataka,2024-05-22,Retail,2026-08-24 02:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10886,Priya Desai,priya.desai886@example.in,9859579447,Hyderabad,Telangana,2025-07-11,Retail,2026-08-24 03:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10887,Gauri Iyer,gauri.iyer887@example.in,9801237985,Mangaluru,Karnataka,2025-08-19,Enterprise,2026-08-24 03:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10888,Lakshmi Bhat,lakshmi.bhat888@example.in,9268552808,Nashik,Maharashtra,2024-08-06,Retail,2026-08-24 04:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10889,Pranav Nair,pranav.nair889@example.in,9724603981,Pune,Maharashtra,2026-01-12,SMB,2026-08-24 05:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10890,Isha Iyer,isha.iyer890@example.in,9252696233,Chennai,Tamil Nadu,2024-02-10,Retail,2026-08-24 05:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10891,Diya Bhat,diya.bhat891@example.in,9646437951,Mangaluru,Karnataka,2024-10-19,SMB,2026-08-24 06:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10892,Omkar Pawar,omkar.pawar892@example.in,9668062474,Surat,Gujarat,2025-01-07,SMB,2026-08-24 07:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10893,Tanvi Patil,tanvi.patil893@example.in,9332619671,Hyderabad,Telangana,,Retail,2026-08-24 07:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10894,Nisha Pillai,nisha.pillai894@example.in,9925517527,Mangaluru,Karnataka,2025-02-12,Retail,2026-08-24 08:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10895,Sneha Sharma,,9497528639,Surat,Gujarat,,Enterprise,2026-08-24 08:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10896,Isha Nair,isha.nair896@example.in,9967723180,Kolhapur,Maharashtra,2024-11-03,SMB,2026-08-24 09:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10897,Pranav Desai,pranav.desai897@example.in,9113796902,Nagpur,Maharashtra,2026-05-30,Retail,2026-08-24 10:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10898,Deepa Bhat,deepa.bhat898@example.in,9133788438,Nagpur,Maharashtra,2026-04-20,Retail,2026-08-24 10:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10899,Yash Pillai,yash.pillai899@example.in,,Mumbai,Maharashtra,2024-05-11,SMB,2026-08-24 11:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10900,Amit Patil,amit.patil900@example.in,9747014054,New Delhi,Delhi,2025-02-03,Retail,2026-08-24 12:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10901,Pallavi Rao,pallavi.rao901@example.in,9974124244,Mangaluru,Karnataka,2025-03-17,Retail,2026-08-24 12:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10902,Siddharth Rao,,9210494789,Mangaluru,Karnataka,2025-12-12,Enterprise,2026-08-24 13:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10903,Amit Patil,amit.patil903@example.in,9442482731,Nagpur,Maharashtra,2026-01-05,Retail,2026-08-24 13:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10904,Diya Verma,diya.verma904@example.in,9346843718,Chennai,Tamil Nadu,2025-06-19,Retail,2026-08-24 14:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10905,Manish Menon,manish.menon905@example.in,9542061925,Pune,Maharashtra,2026-03-23,SMB,2026-08-24 15:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10906,Sahil Jadhav,sahil.jadhav906@example.in,9052495314,Madurai,Tamil Nadu,2024-07-03,Retail,2026-08-24 15:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10907,Kunal Reddy,kunal.reddy907@example.in,9337746653,Mumbai,Maharashtra,2024-10-13,Retail,2026-08-24 16:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10908,Pranav Shah,pranav.shah908@example.in,9827081339,Kolhapur,Maharashtra,2025-09-15,Retail,2026-08-24 16:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10909,Arjun Bhat,arjun.bhat909@example.in,9155817578,Bengaluru,Karnataka,2024-03-11,Retail,2026-08-24 17:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10910,Nikhil Pawar,nikhil.pawar910@example.in,9423118471,Coimbatore,Tamil Nadu,2024-05-05,Retail,2026-08-24 18:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10911,Deepa Bhat,deepa.bhat911@example.in,9924949957,Kolhapur,Maharashtra,2026-04-06,Retail,2026-08-24 18:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10912,Pooja Jadhav,pooja.jadhav912@example.in,9732569209,Nashik,Maharashtra,2025-05-07,Enterprise,2026-08-24 19:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10913,Priya Pawar,priya.pawar913@example.in,9513116030,Mumbai,Maharashtra,2025-05-08,SMB,2026-08-24 20:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10914,Harsh Verma,harsh.verma914@example.in,9368816877,Mangaluru,Karnataka,2025-03-22,Retail,2026-08-24 20:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10915,Shruti Reddy,shruti.reddy915@example.in,9477977163,Mangaluru,Karnataka,2024-02-27,Retail,2026-08-24 21:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10916,Arjun Chavan,arjun.chavan916@example.in,9821889386,Mysuru,Karnataka,2024-07-29,Retail,2026-08-24 21:52:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10917,Siddharth Rao,siddharth.rao917@example.in,9316687000,Nagpur,Maharashtra,2025-04-16,SMB,2026-08-24 22:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10918,Shruti Pawar,shruti.pawar918@example.in,9192961469,Mumbai,Maharashtra,2024-11-10,Retail,2026-08-24 23:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10919,Tejas Kulkarni,tejas.kulkarni919@example.in,9581385878,Pune,Maharashtra,2025-06-22,SMB,2026-08-24 23:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10920,Kiran Shah,kiran.shah920@example.in,9243653899,Surat,Gujarat,2025-02-16,Enterprise,2026-08-25 00:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10921,Tanvi Shah,tanvi.shah921@example.in,9323676757,Pune,Maharashtra,2024-02-07,SMB,2026-08-25 00:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10922,Yash Reddy,yash.reddy922@example.in,9025337546,Warangal,Telangana,2025-01-11,Retail,2026-08-25 01:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10923,Amit Verma,amit.verma923@example.in,9146781205,Hyderabad,Telangana,2026-04-23,Retail,2026-08-25 02:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10924,Ketan Chavan,ketan.chavan924@example.in,9324627773,Bengaluru,Karnataka,2026-05-17,Retail,2026-08-25 02:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10925,Rohan Menon,rohan.menon925@example.in,9920953833,Warangal,Telangana,2024-12-31,Retail,2026-08-25 03:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10926,Sahil Rao,sahil.rao926@example.in,9662095757,Chennai,Tamil Nadu,2026-03-05,Retail,2026-08-25 04:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10927,Rahul Bhat,rahul.bhat927@example.in,9563525738,Ahmedabad,Gujarat,2024-12-16,SMB,2026-08-25 04:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10928,Sakshi Menon,sakshi.menon928@example.in,9834080615,Pune,Maharashtra,2024-05-01,Retail,2026-10-17 20:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10929,Pooja Rao,pooja.rao929@example.in,9157482672,Warangal,Telangana,2025-12-02,Retail,2026-08-25 05:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10930,Ganesh Reddy,ganesh.reddy930@example.in,9196425216,New Delhi,Delhi,2025-01-15,Retail,2026-08-25 06:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10931,Aditya Patil,aditya.patil931@example.in,9755632004,Coimbatore,Tamil Nadu,2024-08-05,Retail,2026-08-25 07:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10932,Aarav Mehta,aarav.mehta932@example.in,9910280995,Mysuru,Karnataka,2024-10-28,Retail,2026-08-25 07:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10933,Komal Chavan,komal.chavan933@example.in,9204358871,Mangaluru,Karnataka,2025-04-05,SMB,2026-08-25 08:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10934,Tejas Reddy,tejas.reddy934@example.in,9860922726,Madurai,Tamil Nadu,2026-05-06,Retail,2026-08-25 08:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10935,Siddharth Bhat,siddharth.bhat935@example.in,9247960604,Surat,Gujarat,2026-05-19,Enterprise,2026-08-25 09:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10936,Aarav Nair,aarav.nair936@example.in,9534804245,Nagpur,Maharashtra,2025-05-27,Retail,2026-08-25 10:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10937,Anjali Sharma,anjali.sharma937@example.in,9921864794,Mumbai,Maharashtra,2026-02-21,SMB,2026-08-25 10:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10938,Rahul Reddy,rahul.reddy938@example.in,9656975554,Pune,Maharashtra,2025-05-18,Enterprise,2026-10-15 13:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10939,Manish Jadhav,manish.jadhav939@example.in,9368821189,Vadodara,Gujarat,2025-11-09,SMB,2026-08-25 12:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10940,Arun Pawar,arun.pawar940@example.in,9372129593,Mumbai,Maharashtra,2024-08-10,SMB,2026-08-25 12:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10941,Nisha Nair,nisha.nair941@example.in,9780542570,Surat,Gujarat,2026-03-18,SMB,2026-08-25 13:17:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10942,Aarav Rao,aarav.rao942@example.in,9533859800,Chennai,Tamil Nadu,2025-12-31,Retail,2026-08-25 13:54:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10943,Harsh Desai,harsh.desai943@example.in,9923723983,Mangaluru,Karnataka,2026-02-28,Enterprise,2026-08-25 14:31:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10944,Ananya Pawar,ananya.pawar944@example.in,9468424160,Pune,Maharashtra,2025-05-18,Retail,2026-08-25 15:08:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10945,Tejas Desai,tejas.desai945@example.in,9480297662,Mangaluru,Karnataka,2025-01-04,Retail,2026-08-25 15:45:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10946,Pranav Desai,pranav.desai946@example.in,9960675603,Chennai,Tamil Nadu,2025-10-24,SMB,2026-08-25 16:22:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10947,Pranav Singh,pranav.singh947@example.in,9490215144,Madurai,Tamil Nadu,2025-07-07,SMB,2026-08-25 16:59:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10948,Pooja Gupta,pooja.gupta948@example.in,9925360059,Mumbai,Maharashtra,2025-08-27,SMB,2026-08-25 17:36:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10949,Lakshmi Joshi,lakshmi.joshi949@example.in,9351152530,Bengaluru,Karnataka,2024-06-08,Enterprise,2026-08-25 18:13:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10950,Rutuja Pawar,rutuja.pawar950@example.in,9913758639,Mangaluru,Karnataka,2026-05-22,Retail,2026-08-25 18:50:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10951,Rohan Chavan,,9031285615,Mumbai,Maharashtra,2025-12-21,Retail,2026-08-25 19:27:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10952,Gauri Nair,gauri.nair952@example.in,9265063840,Pune,Maharashtra,2024-11-26,SMB,2026-08-25 20:04:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10953,Pranav Gupta,pranav.gupta953@example.in,9947024673,Chennai,Tamil Nadu,2026-05-12,Retail,2026-08-25 20:41:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10954,Sahil Gupta,sahil.gupta954@example.in,9482862356,Warangal,Telangana,2026-03-15,SMB,2026-08-25 21:18:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10955,Neha Patil,neha.patil955@example.in,9788542772,Mangaluru,Karnataka,2026-05-07,Retail,2026-08-25 21:55:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10956,Amit Mehta,amit.mehta956@example.in,9769238936,Surat,Gujarat,2025-11-02,SMB,2026-08-25 22:32:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10957,Rahul Gupta,rahul.gupta957@example.in,9893824131,Warangal,Telangana,2024-10-14,Retail,2026-08-25 23:09:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10958,Isha Rao,isha.rao958@example.in,9351650787,Mangaluru,Karnataka,2024-05-05,Retail,2026-08-25 23:46:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10959,Aarav Pillai,aarav.pillai959@example.in,9663811164,Coimbatore,Tamil Nadu,2025-01-30,SMB,2026-08-26 00:23:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10960,Manish Patil,manish.patil960@example.in,9369624025,Ahmedabad,Gujarat,2025-11-25,Enterprise,2026-08-26 01:00:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10961,Neha Mehta,neha.mehta961@example.in,9055936963,Vadodara,Gujarat,2025-01-21,Retail,2026-08-26 01:37:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10962,Nikhil Kulkarni,nikhil.kulkarni962@example.in,9287568668,Mumbai,Maharashtra,,Retail,2026-08-26 02:14:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10963,Akash Reddy,akash.reddy963@example.in,9490754701,Mumbai,Maharashtra,2024-06-03,SMB,2026-08-26 02:51:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10964,Kunal Menon,kunal.menon964@example.in,9099323358,Mysuru,Karnataka,2026-01-09,Enterprise,2026-08-26 03:28:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10965,Sneha Reddy,sneha.reddy965@example.in,9682722235,Warangal,Telangana,2024-04-27,SMB,2026-08-26 04:05:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10966,Pooja Chavan,pooja.chavan966@example.in,9549380713,Vadodara,Gujarat,2024-08-28,Retail,2026-08-26 04:42:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10967,Rahul Kulkarni,rahul.kulkarni967@example.in,9513024380,Ahmedabad,Gujarat,2024-08-19,SMB,2026-08-26 05:19:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10968,Swati Menon,swati.menon968@example.in,9197486503,Kolhapur,Maharashtra,2025-06-18,Retail,2026-08-26 05:56:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10969,Meera Gupta,meera.gupta969@example.in,9655845854,Mangaluru,Karnataka,2026-06-02,Retail,2026-08-26 06:33:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10970,Aditya Nair,aditya.nair970@example.in,9031841185,Pune,Maharashtra,2025-07-26,Retail,2026-08-26 07:10:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10971,Anjali Kulkarni,anjali.kulkarni971@example.in,9254956835,Nagpur,Maharashtra,2025-03-12,SMB,2026-08-26 07:47:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10972,Divya Chavan,divya.chavan972@example.in,9907841781,Nagpur,Maharashtra,2024-12-12,SMB,2026-08-26 08:24:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10973,Kiran Kulkarni,kiran.kulkarni973@example.in,9932728607,Mangaluru,Karnataka,2024-05-10,Retail,2026-08-26 09:01:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10974,Nisha Nair,,9623622459,Mangaluru,Karnataka,2025-01-02,SMB,2026-08-26 09:38:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10975,Pooja Menon,,9207494873,Pune,Maharashtra,2025-08-17,Retail,2026-08-26 10:15:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10976,Anjali Singh,anjali.singh976@example.in,9443181813,Kolhapur,Maharashtra,2025-01-27,SMB,2026-10-15 21:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10977,Aarav Jadhav,aarav.jadhav977@example.in,9530342490,Surat,Gujarat,2025-03-10,Retail,2026-08-26 11:29:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10978,Rahul Patil,rahul.patil978@example.in,9590137193,Vadodara,Gujarat,2026-02-23,Enterprise,2026-08-26 12:06:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10979,Divya Iyer,divya.iyer979@example.in,9616090708,Warangal,Telangana,2026-03-10,Retail,2026-08-26 12:43:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10980,Neha Reddy,neha.reddy980@example.in,9558776718,Pune,Maharashtra,2025-09-07,Retail,2026-08-26 13:20:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10981,Tejas Bhat,tejas.bhat981@example.in,9100193544,Coimbatore,Tamil Nadu,2026-05-08,Retail,2026-08-26 13:57:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10982,Aarav Chavan,,9165080049,Mangaluru,Karnataka,2026-03-22,SMB,2026-08-26 14:34:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,false
+C10983,Divya Jadhav,divya.jadhav983@example.in,9922285970,Madurai,Tamil Nadu,2025-02-14,Retail,2026-08-26 15:11:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10984,Siddharth Mehta,siddharth.mehta984@example.in,9707117874,Ahmedabad,Gujarat,2024-09-24,Retail,2026-08-26 15:48:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10985,Pooja Rao,pooja.rao985@example.in,9635696887,Ahmedabad,Gujarat,2025-09-30,Retail,2026-08-26 16:25:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10986,Arun Bhat,arun.bhat986@example.in,9838852130,Warangal,Telangana,2024-12-23,Retail,2026-08-26 17:02:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10987,Tejas Desai,tejas.desai987@example.in,9817704717,New Delhi,Delhi,2026-05-15,Enterprise,2026-08-26 17:39:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10988,Deepa Chavan,deepa.chavan988@example.in,9519764752,Mysuru,Karnataka,2024-05-08,Enterprise,2026-08-26 18:16:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10989,Ketan Singh,ketan.singh989@example.in,9086617073,Madurai,Tamil Nadu,2025-11-29,SMB,2026-08-26 18:53:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10990,Kunal Shah,kunal.shah990@example.in,9811533119,Mumbai,Maharashtra,2024-06-13,Retail,2026-08-26 19:30:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10991,Harsh Desai,harsh.desai991@example.in,9958342031,New Delhi,Delhi,2026-03-27,Enterprise,2026-08-26 20:07:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10992,Deepa Nair,deepa.nair992@example.in,9822731226,Chennai,Tamil Nadu,2024-09-03,Retail,2026-08-26 20:44:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10993,Aditya Iyer,aditya.iyer993@example.in,9381263144,Nagpur,Maharashtra,2025-09-03,Retail,2026-08-26 21:21:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10994,Shruti Pawar,shruti.pawar994@example.in,,Pune,Maharashtra,2025-01-23,SMB,2026-08-26 21:58:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10995,Arjun Jadhav,arjun.jadhav995@example.in,9830491667,Nagpur,Maharashtra,2024-12-14,SMB,2026-08-26 22:35:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10996,Komal Pillai,komal.pillai996@example.in,9401095840,Vadodara,Gujarat,2026-03-29,Retail,2026-08-26 23:12:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10997,Rutuja Mehta,rutuja.mehta997@example.in,9584082564,Pune,Maharashtra,2024-11-13,Enterprise,2026-08-26 23:49:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10998,Sneha Gupta,sneha.gupta998@example.in,9279116847,Mysuru,Karnataka,2025-02-15,Retail,2026-08-27 00:26:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C10999,Deepa Rao,deepa.rao999@example.in,9248485447,New Delhi,Delhi,2025-03-21,Enterprise,2026-08-27 01:03:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true
+C11000,Meera Desai,meera.desai1000@example.in,9072283193,Mumbai,Maharashtra,2024-04-21,SMB,2026-08-27 01:40:00,customers.csv,2026-10-23T10:24:04.144Z,03ec9f82-caa5-4268-b941-3178d01e395a,true

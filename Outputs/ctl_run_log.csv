@@ -1,0 +1,17 @@
+run_id,layer,table_name,rows_written,status,log_ts
+manual,Gold,gold_sales_by_month_state,60,SUCCESS,2026-10-23T10:19:10.070Z
+manual,Gold,gold_sales_by_month_state,60,SUCCESS,2026-10-23T10:19:59.492Z
+manual,Gold,gold_customer_summary,872,SUCCESS,2026-10-23T10:19:10.070Z
+manual,Gold,gold_customer_summary,872,SUCCESS,2026-10-23T10:19:59.492Z
+manual,Silver,silver_customers,1000,SUCCESS,2026-10-23T10:15:22.723Z
+manual,Silver,silver_customers,1000,SUCCESS,2026-10-23T10:25:59.393Z
+manual,Silver,silver_products,976,SUCCESS,2026-10-23T10:25:59.393Z
+manual,Silver,silver_products,976,SUCCESS,2026-10-23T10:15:22.723Z
+manual,Gold,gold_top_products,10,SUCCESS,2026-10-23T10:19:59.492Z
+manual,Gold,gold_top_products,10,SUCCESS,2026-10-23T10:19:10.070Z
+manual,Silver,silver_rejects,242,SUCCESS,2026-10-23T10:15:22.723Z
+manual,Silver,silver_rejects,242,SUCCESS,2026-10-23T10:25:59.393Z
+manual,Gold,gold_fact_sales,2805,SUCCESS,2026-10-23T10:19:10.070Z
+manual,Gold,gold_fact_sales,2805,SUCCESS,2026-10-23T10:19:59.492Z
+manual,Silver,silver_orders,2805,SUCCESS,2026-10-23T10:25:59.393Z
+manual,Silver,silver_orders,2805,SUCCESS,2026-10-23T10:15:22.723Z
