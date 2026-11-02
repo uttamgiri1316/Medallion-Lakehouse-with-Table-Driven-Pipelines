@@ -1,0 +1,1101 @@
+customer_id,customer_name,email,phone,city,state,signup_date,segment,updated_at
+C10005,Swati Jadhav,swati.jadhav5@example.in,+91 93732 94770,Mysuru,KARNATAKA,14/09/2024,SMB,2026-08-01 12:05:00
+C10080,Anjali Gupta,anjali.gupta80@example.in,9892946454,Ahmedabad,gujarat,23-Feb-2025,SMB,2026-08-03 10:20:00
+C10165,Riya Mehta,riya.mehta165@example.in,9929472415,Surat,gujarat,21/12/2024,Retail,2026-08-05 14:45:00
+C10218,Kabir Menon,KABIR.MENON218@EXAMPLE.IN,9216337300,Vadodara,GJ,16-Jun-2026,Retail,2026-08-06 23:26:00
+C10767,Komal Jadhav,komal.jadhav767@example.in,9837219758,Warangal,TS,18/02/2026,SMB,2026-08-21 01:59:00
+C10640,Vivaan Singh,vivaan.singh640@example.in,9577567664,Warangal,telangana,N/A,SMB,2026-08-17 19:40:00
+C10619,Arjun Desai,arjun.desai619@example.in,9370184131,Mangaluru,Karnataka,2025-10-17,Retail,2026-08-17 06:43:00
+C10717,Sahil Shah,sahil.shah717@example.in,9291205883,KOLHAPUR ,MH,2024-07-17,Retail,2026-08-19 19:09:00
+C10844,Neha Rao,neha.rao844@example.in,9389533401,Coimbatore,Tamil Nadu,22-Jan-2025,SMB,2026-08-23 01:28:00
+C10230,  gauri rao ,not available,+91 94257 83278,VADODARA ,Gujarat,01/04/2024,Retail,2026-08-07 06:50:00
+C10763,  divya gupta ,divya.gupta763@example.in,9131156290,Bengaluru,KA,2025-05-24,SMB,2026-08-20 23:31:00
+C10985,Pooja Rao,pooja.rao985@example.in,+91 96356 96887,Ahmedabad,Gujarat,30/09/2025,Retail,2026-08-26 16:25:00
+C10662,Pallavi Desai,pallavi.desai662@example.in,9842994650,New Delhi,DL,2024-01-25,Enterprise,2026-08-18 09:14:00
+C10637,Riya Sharma,riya.sharma637@example.in,9183394869,Warangal,Telangana,2025-02-18,Enterprise,2026-08-17 17:49:00
+C10904,  diya verma ,diya.verma904@example.in,9346843718,CHENNAI ,Tamil Nadu,19/06/2025,Retail,2026-08-24 14:28:00
+C10979,Divya Iyer,divya.iyer979@example.in,9616090708,Warangal,TELANGANA,10-Mar-2026,Retail,2026-08-26 12:43:00
+C10679,Riya Sharma,riya.sharma679@example.in,9755817621,Coimbatore,tamil nadu,27-Feb-2024,SMB,2026-08-18 19:43:00
+C10367,Rohan Pillai,rohan.pillai367@example.in,9857533504,Hyderabad,TELANGANA,02/06/2025,Enterprise,2026-08-10 19:19:00
+C10142,Tejas Sharma,tejas.sharma142@example.in,9699937880,Coimbatore,TN,2024-06-21,Retail,2026-08-05 00:34:00
+C10782,Varun Joshi,varun.joshi782@example.in,9610145163,Coimbatore,Tamil Nadu,2024-09-14,Retail,2026-08-21 11:14:00
+C10946,Pranav Desai,pranav.desai946@example.in,9960675603,Chennai,TN,24-Oct-2025,SMB,2026-08-25 16:22:00
+C10976,Anjali Singh,anjali.singh976@example.in,9443181813,Kolhapur,Maharashtra,2025-01-27,SMB,2026-10-15 21:34:00
+C10342,Kabir Bhat,kabir.bhat342@example.in,9031104624,Vadodara,Gujarat,24-Sep-2024,Retail,2026-08-10 03:54:00
+C10337,Varun Verma,varun.verma337@example.in,+91 99171 46420,NEW DELHI ,Delhi,2024-11-22,SMB,2026-08-10 00:49:00
+C10330,Sakshi Singh,sakshi.singh330@example.in,+91 90755 70302,Vadodara,GJ,2024-01-16,Retail,2026-08-09 20:30:00
+C10580,  komal reddy ,komal.reddy580@example.in,9212951602,Vadodara,GUJARAT,2025-07-16,Retail,2026-08-16 06:40:00
+C10750,Aarav Chavan,aarav.chavan750@example.in,9898684144,Pune,Maharashtra,2024-11-03,Enterprise,2026-10-15 16:23:00
+C10271,  pooja shah ,POOJA.SHAH271@EXAMPLE.IN,9208941762,Ahmedabad,GUJARAT,16-Jan-2026,SMB,2026-08-08 08:07:00
+C10909,Arjun Bhat,ARJUN.BHAT909@EXAMPLE.IN,9155817578,Bengaluru,KA,11/03/2024,Retail,2026-08-24 17:33:00
+C10425,  pooja reddy ,pooja.reddy425@example.in,9023035096,Vadodara,Gujarat,07/05/2025,SMB,2026-08-12 07:05:00
+C10215,  arun joshi ,arun.joshi215@example.in,9163046143,Hyderabad,TS,08/11/2024,SMB,2026-08-06 21:35:00
+C10467,Komal Sharma,komal.sharma467@example.in,9390827903,Mumbai,maharashtra,23/02/2025,SMB,2026-08-13 08:59:00
+C10692,Sneha Pawar,sneha.pawar692@example.in,9733355348,Mumbai,Maharashtra,03/10/2025,Enterprise,2026-08-19 03:44:00
+C10239,Tanvi Pillai,tanvi.pillai239@example.in,9805980726,CHENNAI ,TAMIL NADU,14-Jun-2025,Enterprise,2026-08-07 12:23:00
+C10691,Varun Joshi,varun.joshi691@example.in,9937582315,Bengaluru,KARNATAKA,08-Apr-2025,Retail,2026-08-19 03:07:00
+C10400,Aarav Jadhav,aarav.jadhav400@example.in,9437068678,Surat,Gujarat,31/02/2025,SMB,2026-10-15 13:48:00
+C10720,Pranav Chavan,pranav.chavan720@example.in,9571950027,Surat,gujarat,2024-04-24,Retail,2026-08-19 21:00:00
+C10903,Amit Patil,amit.patil903@example.in,9442482731,Nagpur,MH,05/01/2026,Retail,2026-08-24 13:51:00
+C10335,Deepa Sharma,deepa.sharma335@example.in,9355596531,Coimbatore,Tamil Nadu,2025-09-10,Retail,2026-08-09 23:35:00
+C10970,Aditya Nair,aditya.nair970@example.in,+91 90318 41185,Pune,Maharashtra,26/07/2025,Retail,2026-08-26 07:10:00
+C10502,Shruti Sharma,shruti.sharma502@example.in,9126092375,Surat,GUJARAT,2026-02-26,Retail,2026-08-14 06:34:00
+C10143,Kavya Patil,kavya.patil143@example.in,9046820256,Coimbatore,Tamil Nadu,23/10/2025,Retail,2026-08-05 01:11:00
+C10808,Pallavi Bhat,pallavi.bhat808@example.in,9095976671,Vadodara,GJ,2024-06-07,Retail,2026-08-22 03:16:00
+C10837,  nikhil pillai ,nikhil.pillai837@example.in,9422734839,Madurai,tamil nadu,2024-01-25,SMB,2026-08-22 21:09:00
+C10594,Sneha Menon,sneha.menon594@example.in,9293268092,Nashik,Maharashtra,2025-08-22,Retail,2026-08-16 15:18:00
+C10959,Aarav Pillai,aarav.pillai959@example.in,9663811164,Coimbatore,TAMIL NADU,2025-01-30,SMB,2026-08-26 00:23:00
+C10564,Shruti Jadhav,shruti.jadhav564@example.in,+91 96057 97928,Coimbatore,TAMIL NADU,25/03/2024,SMB,2026-08-15 20:48:00
+C10122,Vivaan Reddy,vivaan.reddy122@example.in,+91 93854 67639,Nagpur,Maharashtra,15/08/2024,SMB,2026-08-04 12:14:00
+C10938,Rahul Reddy,RAHUL.REDDY938@EXAMPLE.IN,+91 96569 75554,Pune,Maharashtra,18/05/2025,Enterprise,2026-10-15 13:11:00
+C10550,Varun Joshi,varun.joshi550@example.in,9825155177,Surat,GUJARAT,15-Apr-2026,Retail,2026-08-15 12:10:00
+C10542,Priya Pawar,priya.pawar542@example.in,9385501951,Vadodara,gujarat,2025-06-07,SMB,2026-08-15 07:14:00
+C10050,Sakshi Menon,sakshi.menon50@example.in,9447360045,Nashik,maharashtra,25/02/2026,SMB,2026-08-02 15:50:00
+C10716,Kavya Verma,kavya.verma716@example.in,+91 90886 37196,HYDERABAD ,Telangana,2024-08-29,Retail,2026-08-19 18:32:00
+C10609,Tanvi Desai,tanvi.desai609@example.in,9757992845,Vadodara,Gujarat,27/03/2024,Retail,2026-08-17 00:33:00
+C10849,Deepa Pawar,deepa.pawar849@example.in,9477266040,Warangal,TELANGANA,2024-02-24,Retail,2026-08-23 04:33:00
+C10749,Sneha Iyer,sneha.iyer749@example.in,9476404493,BENGALURU ,karnataka,2026-01-21,SMB,2026-08-20 14:53:00
+C10435,Deepa Pillai,deepa.pillai435@example.in,9402980889,New Delhi,delhi,2025-09-17,Retail,2026-08-12 13:15:00
+C10711,Priya Menon,priya.menon711@example.in,9882148905,MADURAI ,tamil nadu,2024-03-21,Enterprise,2026-08-19 15:27:00
+C10895,  sneha sharma ,sneha.sharma895example.in,9497528639,Surat,gujarat,unknown,Enterprise,2026-08-24 08:55:00
+C10140,Rohan Kulkarni,rohan.kulkarni140@example.in,9716201598,Nashik,MAHARASHTRA,2025-07-16,Retail,2026-08-04 23:20:00
+C10162,  arjun singh ,arjun.singh162@example.in,9750604183,KOLHAPUR ,Maharashtra,06/08/2024,Enterprise,2026-08-05 12:54:00
+C10795,Deepa Pawar,deepa.pawar795@example.in,9872529769,COIMBATORE ,TN,07/03/2026,Enterprise,2026-08-21 19:15:00
+C10622,Shruti Menon,SHRUTI.MENON622@EXAMPLE.IN,9428975671,Pune,MAHARASHTRA,25-Mar-2026,Enterprise,2026-08-17 08:34:00
+C10665,Kabir Bhat,kabir.bhat665@example.in,+91 91392 25688,New Delhi,Delhi,22/12/2024,Retail,2026-08-18 11:05:00
+C10653,Vivaan Rao,vivaan.rao653@example.in,9940623922,Pune,Maharashtra,2025-09-19,Retail,2026-08-18 03:41:00
+C10512,  rahul joshi ,rahul.joshi512@example.in,9107600664,PUNE ,MAHARASHTRA,2024-12-09,Retail,2026-08-14 12:44:00
+C10874,Pallavi Patil,pallavi.patil874@example.in,9637129992,Mangaluru,KA,03-Apr-2024,Retail,2026-08-23 19:58:00
+C10765,Rahul Singh,rahul.singh765@example.in,9017732910,COIMBATORE ,TN,24-Jan-2025,Retail,2026-08-21 00:45:00
+C10986,Arun Bhat,arun.bhat986@example.in,9838852130,Warangal,telangana,23/12/2024,Retail,2026-08-26 17:02:00
+C10033,Aditya Nair,ADITYA.NAIR33@EXAMPLE.IN,9572316109,Surat,gujarat,11/03/2025,Retail,2026-08-02 05:21:00
+C10031,  pooja sharma ,pooja.sharma31@example,9810363366,Pune,MAHARASHTRA,07-Jun-2026,Retail,2026-08-02 04:07:00
+C10831,Ketan Verma,ketan.verma831@example.in,+91 97883 87734,New Delhi,Delhi,19-Aug-2025,Retail,2026-08-22 17:27:00
+C10620,Deepa Pillai,DEEPA.PILLAI620@EXAMPLE.IN,+91 91636 51162,Warangal,Telangana,02/11/2025,Enterprise,2026-08-17 07:20:00
+C10087,Isha Shah,isha.shah87@example.in,9600137340,Bengaluru,KA,30-Sep-2024,Retail,2026-08-03 14:39:00
+C10561,  sahil rao ,sahil.rao561@example.in,+91 95005 52283,Kolhapur,Maharashtra,15/02/2024,SMB,2026-08-15 18:57:00
+C10544,Diya Rao,diya.rao544@example.in,9513468920,Chennai,TN,2025-09-23,Retail,2026-08-15 08:28:00
+C10085,Sakshi Rao,sakshi.rao85@example.in,9823725387,Madurai,TN,26/11/2025,Enterprise,2026-08-03 13:25:00
+C10949,Lakshmi Joshi,lakshmi.joshi949@example.in,9351152530,Bengaluru,karnataka,08/06/2024,Enterprise,2026-08-25 18:13:00
+C10781,  ananya reddy ,ananya.reddy781@example.in,9957210380,Hyderabad,TS,01/05/2026,Retail,2026-08-21 10:37:00
+C10452,Sakshi Shah,sakshi.shah452@example.in,9758711955,Warangal,TS,08/02/2026,Retail,2026-08-12 23:44:00
+C10961,Neha Mehta,neha.mehta961@example.in,9055936963,Vadodara,gujarat,21-Jan-2025,Retail,2026-08-26 01:37:00
+C10175,Sneha Kulkarni,sneha.kulkarni175@example.in,9645843,Surat,GJ,13/04/2025,Enterprise,2026-08-05 20:55:00
+C10846,Rahul Patil,rahul.patil846@example.in,9168465019,Surat,Gujarat,31/02/2025,Enterprise,2026-08-23 02:42:00
+C10137,Kavya Verma,kavya.verma137@example.in,9491008216,MUMBAI ,Maharashtra,23/06/2024,Retail,2026-08-04 21:29:00
+C10827,  sakshi joshi ,sakshi.joshi827@example.in,9838142392,Pune,MAHARASHTRA,15/01/2026,Retail,2026-08-22 14:59:00
+C10679,Riya Sharma,riya.sharma679@example.in,9755817621,Coimbatore,tamil nadu,27-Feb-2024,SMB,2026-08-18 19:43:00
+C10624,Kunal Joshi,kunal.joshi624@example.in,9344161001,Nashik,MAHARASHTRA,24/12/2024,Retail,2026-08-17 09:48:00
+C10734,Meera Desai,meera.desai734@example.in,9007498388,Ahmedabad,GJ,28/05/2026,Enterprise,2026-08-20 05:38:00
+C10393,Lakshmi Patil,lakshmi.patil393@example.in,9136551,Vadodara,GJ,2025-09-23,SMB,2026-08-11 11:21:00
+C10469,Meera Kulkarni,meera.kulkarni469@example.in,9771321910,Nashik,MH,04-Oct-2024,SMB,2026-08-13 10:13:00
+C10052,Aditya Singh,aditya.singh52@example.in,9134949974,Nashik,MH,08-Feb-2024,Retail,2026-08-02 17:04:00
+C10654,Sakshi Mehta,SAKSHI.MEHTA654@EXAMPLE.IN,9357015563,Bengaluru,Karnataka,2026-05-19,Enterprise,2026-10-16 17:48:00
+C10822,  arjun joshi ,arjun.joshi822@example.in,9403588635,Ahmedabad,GUJARAT,2025-05-03,SMB,2026-08-22 11:54:00
+ ,Walk-in Customer 12,,9306637893,Coimbatore,tamil nadu,08/07/2025,Retail,2026-08-03 03:33:00
+C10918,Shruti Pawar,shruti.pawar918@example.in,9192961469,Mumbai,Maharashtra,10-Nov-2024,Retail,2026-08-24 23:06:00
+C10617,Priya Pillai,priya.pillai617@example.in,9008892957,Kolhapur,maharashtra,12/01/2024,Retail,2026-08-17 05:29:00
+C10440,Gauri Sharma,gauri.sharma440@example.in,9574377,Hyderabad,TELANGANA,07/09/2024,Retail,2026-08-12 16:20:00
+C10742,Tanvi Iyer,tanvi.iyer742@example.in,9523847411,Mumbai,maharashtra,01/05/2025,Retail,2026-08-20 10:34:00
+C10996,Komal Pillai,komal.pillai996@example.in,9401095840,Vadodara,Gujarat,2026-03-29,Retail,2026-08-26 23:12:00
+C10352,Tanvi Shah,tanvi.shah352@example.in,+91 97832 39637,Nashik,Maharashtra,02/03/2024,Retail,2026-08-10 10:04:00
+C10341,Deepa Desai,deepa.desai341@example.in,9292348278,Madurai,Tamil Nadu,30/06/2025,SMB,2026-08-10 03:17:00
+C10068,Sakshi Mehta,SAKSHI.MEHTA68EXAMPLE.IN,9791702093,CHENNAI ,tamil nadu,12-Feb-2024,Enterprise,2026-08-03 02:56:00
+C10926,Sahil Rao,sahil.rao926@example.in,9662095757,Chennai,tamil nadu,05-Mar-2026,Retail,2026-08-25 04:02:00
+C10918,Shruti Pawar,shruti.pawar918@example.in,9192961469,Mumbai,Maharashtra,10-Nov-2024,Retail,2026-08-24 23:06:00
+C10607,  kunal rao ,kunal.rao607@example.in,9593781896,Mumbai,MAHARASHTRA,09/05/2026,Retail,2026-08-16 23:19:00
+C10324,Omkar Patil,omkar.patil324@example.in,9402441939,Mumbai,MH,26-Oct-2024,Retail,2026-08-09 16:48:00
+C10397,Aditya Singh,aditya.singh397@example.in,9814347922,Mumbai,MAHARASHTRA,16-Feb-2024,Retail,2026-08-11 13:49:00
+C10096,  tejas joshi ,tejas.joshi96@example.in,9268545197,Hyderabad,telangana,unknown,Enterprise,2026-08-03 20:12:00
+C10852,  lakshmi shah ,lakshmi.shah852@example.in,9669536472,Ahmedabad,Gujarat,11/03/2025,Enterprise,2026-08-23 06:24:00
+C10700,Shruti Pawar,shruti.pawar700@example.in,+91 97530 95674,Ahmedabad,gujarat,2025-04-13,Retail,2026-08-19 08:40:00
+C10735,Pranav Gupta,pranav.gupta735@example.in,9573921467,Kolhapur,Maharashtra,2024-05-11,SMB,2026-08-20 06:15:00
+C10319,Kunal Joshi,KUNAL.JOSHI319@EXAMPLE.IN,+91 97138 25645,Hyderabad,TS,2025-01-15,Enterprise,2026-08-09 13:43:00
+C10465,Varun Rao,varun.rao465@example.in,+91 90109 87738,Nashik,Maharashtra,07-May-2026,Retail,2026-08-13 07:45:00
+C10762,Rutuja Gupta,rutuja.gupta762@example.in,9194254256,Hyderabad,TS,2024-02-05,Enterprise,2026-08-20 22:54:00
+C10375,Vivaan Mehta,vivaan.mehta375@example.in,9243061710,Hyderabad,TELANGANA,2024-04-27,Enterprise,2026-08-11 00:15:00
+C10684,Sakshi Pawar,sakshi.pawar684@example.in,9848267232,Nagpur,MAHARASHTRA,21/09/2025,Retail,2026-08-18 22:48:00
+C10798,Lakshmi Sharma,lakshmi.sharma798@example.in,9585321058,Mumbai,Maharashtra,2024-12-13,Retail,2026-08-21 21:06:00
+C10386,Deepa Verma,deepa.verma386@example.in,+91 93473 35786,Coimbatore,TAMIL NADU,21/01/2024,Retail,2026-08-11 07:02:00
+C10209,Amit Iyer,amit.iyer209@example.in,9208761051,Chennai,Tamil Nadu,12/08/2024,Retail,2026-08-06 17:53:00
+,Walk-in Customer 4,,9945405512,Hyderabad,TELANGANA,12-Jun-2024,Enterprise,2026-08-13 04:40:00
+C10496,Arjun Chavan,arjun.chavan496@example.in,9806701212,Nagpur,MAHARASHTRA,06/05/2024,Retail,2026-08-14 02:52:00
+C10237,  sneha sharma ,sneha.sharma237@example.in,+91 93496 54427,Warangal,Telangana,10-Sep-2024,Retail,2026-08-07 11:09:00
+C10056,Diya Joshi,diya.joshi56@example.in,9337954,Hyderabad,TELANGANA,2024-09-27,Enterprise,2026-08-02 19:32:00
+C10288,Pooja Nair,pooja.nair288@example.in,9743075728,Mysuru,Karnataka,11/11/2025,Retail,2026-08-08 18:36:00
+C10769,Varun Chavan,varun.chavan769@example.in,9398238167,New Delhi,DELHI,10-Aug-2025,Retail,2026-08-21 03:13:00
+C10104,Sameer Bhat,sameer.bhat104@example.in,9850061490,NAGPUR ,Maharashtra,04/08/2024,Enterprise,2026-08-04 01:08:00
+C10148,Sameer Jadhav,sameer.jadhav148@example.in,9703921774,Surat,gujarat,2025-10-23,SMB,2026-08-05 04:16:00
+C10180,Gauri Desai,gauri.desai180@example.in,9497970303,Mumbai,MH,03/12/2025,Retail,2026-08-06 00:00:00
+C10893,Tanvi Patil,tanvi.patil893@example.in,9332619671,Hyderabad,TELANGANA,31/02/2025,Retail,2026-08-24 07:41:00
+C10374,Rahul Desai,rahul.desai374@example.in,9811617441,Mangaluru,KA,18/06/2024,Retail,2026-08-10 23:38:00
+C10334,Kunal Sharma,kunal.sharma334@example.in,9688508702,Bengaluru,KA,17-Jul-2025,SMB,2026-08-09 22:58:00
+C10870,Ananya Rao,ANANYA.RAO870@EXAMPLE.IN,9084301316,Mangaluru,KA,2025-12-08,Retail,2026-08-23 17:30:00
+C10501,Rutuja Reddy,rutuja.reddy501@example.in,9354266887,Warangal,TELANGANA,08-Sep-2025,Retail,2026-08-14 05:57:00
+C10628,Nikhil Pawar,nikhil.pawar628@example.in,9452378850,Mumbai,Maharashtra,2025-10-21,Retail,2026-08-17 12:16:00
+C10445,Ganesh Nair,ganesh.nair445@example.in,9123267291,Coimbatore,Tamil Nadu,05-Jul-2024,SMB,2026-08-12 19:25:00
+C10358,  sameer joshi ,sameer.joshi358@example.in,9637697928,Surat,GJ,16/05/2025,SMB,2026-08-10 13:46:00
+C10360,Deepa Pawar,DEEPA.PAWAR360@EXAMPLE.IN,9568255981,AHMEDABAD ,gujarat,31/02/2025,Enterprise,2026-08-10 15:00:00
+C10029,Aditya Desai,not available,9669309519,Warangal,Telangana,20/03/2025,SMB,2026-08-02 02:53:00
+C10144,Kabir Mehta,kabir.mehta144@example.in,+91 95547 95069,Bengaluru,Karnataka,12-Oct-2025,SMB,2026-08-05 01:48:00
+C10840,Pranav Verma,pranav.verma840@example.in,+91 99836 69253,Madurai,TN,2025-01-28,Retail,2026-08-22 23:00:00
+C10070,Varun Kulkarni,varun.kulkarni70@example.in,9195154,Kolhapur,Maharashtra,25/10/2025,Retail,2026-08-03 04:10:00
+C10776,Ganesh Verma,ganesh.verma776@example.in,9273862443,Nagpur,Maharashtra,10-Dec-2024,Enterprise,2026-10-18 17:40:00
+C10328,Priya Iyer,priya.iyer328@example.in,9276853394,Ahmedabad,GUJARAT,13-Feb-2024,Retail,2026-08-09 19:16:00
+C10161,  manish singh ,manish.singh161@example.in,9923423298,Vadodara,GUJARAT,30/10/2024,Retail,2026-08-05 12:17:00
+C10373,Shruti Shah,SHRUTI.SHAH373@EXAMPLE.IN,9081226243,Hyderabad,telangana,09/05/2025,SMB,2026-08-10 23:01:00
+C10207,Omkar Nair,omkar.nair207@example.in,+91 92075 78787,Coimbatore,TN,15/04/2024,SMB,2026-08-06 16:39:00
+C10530,Suresh Kulkarni,suresh.kulkarni530@example.in,9365697572,Nashik,MH,2025-09-21,Enterprise,2026-08-14 23:50:00
+C10312,Gauri Shah,gauri.shah312@example.in,9674361973,Chennai,Tamil Nadu,2024-06-18,Retail,2026-08-09 09:24:00
+C10677,Sameer Nair,sameer.nair677@example.in,9041464294,Ahmedabad,gujarat,22/10/2024,Retail,2026-08-18 18:29:00
+C10861,Aditya Menon,aditya.menon861@example.in,9557780901,KOLHAPUR ,MH,15/06/2025,SMB,2026-08-23 11:57:00
+C10635,Gauri Rao,gauri.rao635@example.in,9374973244,Coimbatore,TN,2024-11-16,Enterprise,2026-08-17 16:35:00
+C10113,Pranav Verma,pranav.verma113@example.in,9030159062,Chennai,tamil nadu,2026-02-13,SMB,2026-08-04 06:41:00
+C10789,Swati Iyer,swati.iyer789@example,+91 92522 85017,Madurai,Tamil Nadu,10-Jul-2024,Retail,2026-08-21 15:33:00
+C10403,Anjali Sharma,anjali.sharma403@example.in,9537637947,Hyderabad,Telangana,2024-01-28,SMB,2026-08-11 17:31:00
+C10510,  diya pawar ,diya.pawar510@example.in,9230895483,Nashik,maharashtra,23-Jan-2026,Retail,2026-08-14 11:30:00
+C10258,Vivaan Verma,not available,9993291342,Nashik,maharashtra,2025-05-15,Enterprise,2026-08-08 00:06:00
+C10270,Isha Reddy,,9671313959,Mangaluru,Karnataka,2026-02-06,Retail,2026-08-08 07:30:00
+C10582,Swati Nair,swati.nair582@example.in,9020141212,Mysuru,KA,18/10/2024,Retail,2026-08-16 07:54:00
+C10629,  riya menon ,riya.menon629@example.in,9914182102,Vadodara,gujarat,2024-10-14,Retail,2026-08-17 12:53:00
+C10813,Ketan Pawar,ketan.pawar813@example.in,9000937982,Mangaluru,karnataka,09-Oct-2024,Enterprise,2026-08-22 06:21:00
+C11000,Meera Desai,meera.desai1000@example.in,9072283193,Mumbai,MH,21-Apr-2024,SMB,2026-08-27 01:40:00
+C10690,  neha pawar ,neha.pawar690@example.in,9299949882,Hyderabad,TELANGANA,02-Mar-2024,SMB,2026-08-19 02:30:00
+C10243,Rohan Jadhav,rohan.jadhav243@example.in,9525642486,Nagpur,MH,2024-01-22,Retail,2026-08-07 14:51:00
+C10250,Ketan Kulkarni,ketan.kulkarni250@example.in,+91 91789 51457,Kolhapur,MH,12/11/2024,Retail,2026-08-07 19:10:00
+C10232,Arun Jadhav,arun.jadhav232@example.in,9287748602,Mumbai,Maharashtra,2026-01-27,Retail,2026-08-07 08:04:00
+C10493,  ananya sharma ,ananya.sharma493@example.in,9021052924,Pune,MH,08-Apr-2024,SMB,2026-08-14 01:01:00
+C10584,Arun Menon,arun.menon584@example.in,9181748993,Vadodara,Gujarat,2024-03-23,Retail,2026-08-16 09:08:00
+C10028,Riya Chavan,riya.chavan28@example.in,9500989477,Madurai,TN,24-May-2025,SMB,2026-08-02 02:16:00
+C10995,Arjun Jadhav,arjun.jadhav995@example.in,9830491667,Nagpur,MH,14/12/2024,SMB,2026-08-26 22:35:00
+C10482,Pranav Mehta,pranav.mehta482@example.in,9354714627,Chennai,TN,30/09/2025,Retail,2026-08-13 18:14:00
+C10693,Tanvi Pillai,tanvi.pillai693@example.in,+91 95657 37377,Bengaluru,KARNATAKA,16/04/2025,Enterprise,2026-08-19 04:21:00
+C10743,Ganesh Reddy,ganesh.reddy743@example.in,9713711531,Nashik,maharashtra,2024-12-26,Retail,2026-08-20 11:11:00
+C10538,Nisha Verma,nisha.verma538@example.in,9782303747,Surat,GUJARAT,03-Nov-2024,Enterprise,2026-08-15 04:46:00
+C10511,Sakshi Verma,not available,9793363403,Surat,gujarat,2025-12-18,Retail,2026-08-14 12:07:00
+C10938,Rahul Reddy,RAHUL.REDDY938@EXAMPLE.IN,+91 96569 75554,Surat,GJ,18/05/2025,Retail,2026-08-25 11:26:00
+C10053,Sahil Menon,sahil.menon53@example.in,9135611246,Kolhapur,MAHARASHTRA,15/08/2025,SMB,2026-08-02 17:41:00
+C10336,Riya Nair,riya.nair336@example.in,9247248935,Mangaluru,KARNATAKA,2025-10-03,Enterprise,2026-08-10 00:12:00
+C10818,Omkar Jadhav,omkar.jadhav818@example.in,9848254177,Hyderabad,telangana,24-Jun-2024,Retail,2026-08-22 09:26:00
+C10575,Varun Joshi,VARUN.JOSHI575@EXAMPLE.IN,9393366590,Nagpur,MAHARASHTRA,07/02/2024,Retail,2026-08-16 03:35:00
+C10169,  rutuja menon ,rutuja.menon169@example.in,9675853364,Kolhapur,Maharashtra,08-Dec-2025,Retail,2026-10-17 22:38:00
+C10509,Rohan Pillai,rohan.pillai509@example.in,9635786145,New Delhi,DELHI,19/07/2024,Retail,2026-08-14 10:53:00
+C10368,  riya pawar ,riya.pawar368@example.in,9031503879,Hyderabad,Telangana,2024-03-30,SMB,2026-08-10 19:56:00
+C10737,Shruti Gupta,shruti.gupta737@example.in,9975741945,Coimbatore,Tamil Nadu,2026-01-24,Retail,2026-10-18 13:12:00
+C10251,Suresh Chavan,suresh.chavan251@example.in,+91 91058 50962,MUMBAI ,MAHARASHTRA,19/05/2025,Retail,2026-08-07 19:47:00
+C10464,Meera Nair,meera.nair464@example.in,9053646150,Hyderabad,Telangana,03-Oct-2025,Retail,2026-10-18 13:54:00
+C10612,Aditya Iyer,aditya.iyer612@example.in,9068739117,Mangaluru,Karnataka,2024-04-13,Retail,2026-08-17 02:24:00
+C10727,  ganesh patil ,ganesh.patil727@example.in,9821289982,Mysuru,Karnataka,11-Jun-2026,Enterprise,2026-08-20 01:19:00
+C10472,Rahul Kulkarni,rahul.kulkarni472@example.in,9116812472,Nagpur,Maharashtra,2024-12-02,Retail,2026-08-13 12:04:00
+C10597,Aditya Bhat,aditya.bhat597@example.in,9322381167,Mangaluru,KARNATAKA,02-May-2025,Retail,2026-08-16 17:09:00
+C10451,Manish Desai,manish.desai451@example.in,9206587700,Mumbai,MAHARASHTRA,11-Jul-2025,SMB,2026-08-12 23:07:00
+C10871,Sakshi Chavan,sakshi.chavan871@example.in,+91 96993 02330,Madurai,Tamil Nadu,16-Jul-2025,Enterprise,2026-08-23 18:07:00
+C10168,Isha Singh,isha.singh168@example,9640622570,Coimbatore,TN,29-Mar-2026,Retail,2026-08-05 16:36:00
+C10146,Anjali Iyer,anjali.iyer146@example.in,9443998622,MANGALURU ,KA,16/01/2024,SMB,2026-08-05 03:02:00
+C10770,Swati Jadhav,swati.jadhav770@example.in,9760022043,Pune,Maharashtra,2024-12-18,SMB,2026-08-21 03:50:00
+C10616,Pallavi Bhat,not available,9407925298,COIMBATORE ,tamil nadu,16/09/2024,Enterprise,2026-08-17 04:52:00
+C10859,Ananya Pillai,ananya.pillai859@example.in,9942863843,CHENNAI ,TN,13/03/2026,Retail,2026-08-23 10:43:00
+C10317,Arun Rao,arun.rao317@example.in,+91 96337 56948,Surat,Gujarat,2025-03-02,Retail,2026-08-09 12:29:00
+C10159,Pallavi Reddy,pallavi.reddy159@example.in,9348709327,Nashik,Maharashtra,01/05/2026,Retail,2026-08-05 11:03:00
+C10217,Kabir Pillai,kabir.pillai217@example.in,9140603834,Madurai,tamil nadu,01-Nov-2024,Retail,2026-08-06 22:49:00
+C10082,Tanvi Jadhav,,9903210259,Nashik,maharashtra,29/09/2024,Retail,2026-08-03 11:34:00
+C10878,Priya Mehta,priya.mehta878@example.in,9506609314,Surat,GUJARAT,25-Apr-2024,SMB,2026-08-23 22:26:00
+C10389,Manish Nair,manish.nair389@example.in,9287125192,BENGALURU ,Karnataka,17-May-2026,SMB,2026-08-11 08:53:00
+C10377,Kiran Rao,kiran.rao377@example.in,9171607381,Chennai,Tamil Nadu,16/06/2025,Retail,2026-08-11 01:29:00
+C10412,Nikhil Nair,nikhil.nair412@example.in,9039905160,Kolhapur,MAHARASHTRA,02-May-2025,Retail,2026-08-11 23:04:00
+C10033,Aditya Nair,ADITYA.NAIR33@EXAMPLE.IN,9572316109,Surat,gujarat,11/03/2025,Retail,2026-08-02 05:21:00
+C10879,Harsh Chavan,harsh.chavan879@example.in,9586756020,Ahmedabad,GJ,17/09/2024,Retail,2026-08-23 23:03:00
+C10216,  shruti reddy ,shruti.reddy216@example.in,9277486690,Mysuru,karnataka,06-May-2024,SMB,2026-08-06 22:12:00
+C10790,Anjali Verma,anjali.verma790@example.in,9325300122,Coimbatore,TAMIL NADU,30/09/2024,SMB,2026-08-21 16:10:00
+C10019,Manish Nair,manish.nair19@example.in,9696373372,Vadodara,GUJARAT,06/03/2024,SMB,2026-08-01 20:43:00
+C10432,Harsh Chavan,harsh.chavan432@example.in,9655933360,Vadodara,GUJARAT,13/03/2025,Retail,2026-08-12 11:24:00
+C10265,Pooja Patil,pooja.patil265@example.in,9774106120,Warangal,Telangana,22/12/2025,Retail,2026-08-08 04:25:00
+C10739,Isha Pillai,isha.pillai739@example.in,9148716016,Mangaluru,KARNATAKA,2024-10-07,SMB,2026-08-20 08:43:00
+C10535,Harsh Desai,harsh.desai535@example.in,9958421465,Pune,maharashtra,28/11/2024,SMB,2026-08-15 02:55:00
+C10464,Meera Nair,meera.nair464@example.in,9053646150,Mumbai,Maharashtra,03-Oct-2025,SMB,2026-08-13 07:08:00
+C10853,Siddharth Sharma,not available,9007220351,Nashik,MAHARASHTRA,07-Mar-2024,Enterprise,2026-08-23 07:01:00
+C10443,Tejas Jadhav,tejas.jadhav443@example.in,9641916769,Pune,maharashtra,20-Feb-2026,SMB,2026-08-12 18:11:00
+C10121,  aarav pillai ,aarav.pillai121@example.in,9902446525,Warangal,TELANGANA,06/10/2024,SMB,2026-08-04 11:37:00
+C10075,Arun Iyer,arun.iyer75@example.in,9323728089,Surat,gujarat,23-Sep-2025,Retail,2026-08-03 07:15:00
+C10821,Sneha Chavan,,9280084228,Hyderabad,Telangana,16-Jun-2025,Retail,2026-10-18 17:20:00
+C10760,Manish Patil,not available,9632669785,Warangal,telangana,08/06/2024,Enterprise,2026-08-20 21:40:00
+C10126,Nisha Chavan,nisha.chavan126@example.in,9693067144,Nashik,MAHARASHTRA,29-Mar-2026,SMB,2026-08-04 14:42:00
+C10816,Anjali Rao,anjali.rao816@example.in,9379458920,Mysuru,Karnataka,31-Dec-2024,SMB,2026-08-22 08:12:00
+C10621,Arun Gupta,arun.gupta621@example.in,9881661434,Mysuru,KARNATAKA,24/07/2025,Enterprise,2026-08-17 07:57:00
+C10396,Kunal Jadhav,KUNAL.JADHAV396@EXAMPLE.IN,9204248030,AHMEDABAD ,Gujarat,12-Oct-2025,SMB,2026-08-11 13:12:00
+C10623,Kabir Gupta,kabir.gupta623@example.in,9534941913,Coimbatore,Tamil Nadu,24/01/2024,Enterprise,2026-08-17 09:11:00
+C10525,Swati Iyer,swati.iyer525@example.in,9576402891,Mangaluru,KA,09/05/2025,Enterprise,2026-08-14 20:45:00
+C10227,Mrunal Kulkarni,mrunal.kulkarni227@example.in,9735478912,Chennai,Tamil Nadu,2025-13-40,Retail,2026-08-07 04:59:00
+C10134,Varun Sharma,varun.sharma134@example.in,+91 91506 33173,Warangal,TELANGANA,14/03/2026,Retail,2026-08-04 19:38:00
+C10157,Divya Bhat,divya.bhat157@example.in,9270639986,Coimbatore,Tamil Nadu,2025-02-21,SMB,2026-08-05 09:49:00
+C10957,Rahul Gupta,rahul.gupta957@example.in,9893824131,Warangal,TELANGANA,14-Oct-2024,Retail,2026-08-25 23:09:00
+C10032,Tejas Patil,tejas.patil32@example.in,9843326434,NAGPUR ,Maharashtra,11-Aug-2024,Retail,2026-08-02 04:44:00
+C10822,  arjun joshi ,arjun.joshi822@example.in,9403588635,Madurai,Tamil Nadu,2025-05-03,Retail,2026-10-18 01:31:00
+C10809,Ketan Reddy,ketan.reddy809@example.in,9606425456,Vadodara,GJ,07/01/2025,Enterprise,2026-08-22 03:53:00
+C10176,Nisha Reddy,nisha.reddy176@example.in,9333510237,Vadodara,Gujarat,2024-11-24,Retail,2026-08-05 21:32:00
+C10054,  varun shah ,varun.shah54@example.in,9235756434,Mangaluru,KARNATAKA,2025-11-09,Retail,2026-08-02 18:18:00
+C10541,Shruti Chavan,shruti.chavan541@example.in,+91 93339 10353,Pune,MH,2025-03-10,SMB,2026-08-15 06:37:00
+C10425,  pooja reddy ,pooja.reddy425@example.in,9023035096,Vadodara,Gujarat,07/05/2025,SMB,2026-08-12 07:05:00
+C10477,Sneha Singh,sneha.singh477@example.in,9642581255,Madurai,Tamil Nadu,24/02/2024,Retail,2026-08-13 15:09:00
+C10200,Sneha Iyer,sneha.iyer200@example.in,9938866682,Nashik,MH,26-Aug-2025,Enterprise,2026-08-06 12:20:00
+C10135,Nisha Jadhav,nisha.jadhav135@example.in,9789483351,Chennai,TAMIL NADU,03-Jun-2026,Retail,2026-08-04 20:15:00
+C10925,Rohan Menon,rohan.menon925@example.in,9920953833,Warangal,telangana,31/12/2024,Retail,2026-08-25 03:25:00
+C10331,Kunal Jadhav,kunal.jadhav331@example.in,9406782615,Coimbatore,tamil nadu,2024-11-12,Retail,2026-08-09 21:07:00
+C10670,Sahil Gupta,sahil.gupta670@example.in,9416476939,Nagpur,MAHARASHTRA,2025-10-01,Retail,2026-08-18 14:10:00
+C10494,Omkar Gupta,omkar.gupta494@example.in,9812210553,Pune,MAHARASHTRA,13-Jan-2024,Retail,2026-08-14 01:38:00
+C10855,Mrunal Desai,mrunal.desai855@example.in,9695547718,Madurai,TN,2026-04-19,Retail,2026-08-23 08:15:00
+C10090,Diya Kulkarni,diya.kulkarni90@example.in,9668753987,New Delhi,Delhi,10-Oct-2024,Retail,2026-08-03 16:30:00
+C10648,Kabir Singh,kabir.singh648@example.in,9729551,Kolhapur,MAHARASHTRA,17/08/2024,Enterprise,2026-08-18 00:36:00
+C10766,Siddharth Iyer,siddharth.iyer766@example.in,9796486194,Mangaluru,Karnataka,20-Nov-2024,Retail,2026-08-21 01:22:00
+C10419,Manish Jadhav,manish.jadhav419@example.in,9108613780,Chennai,TAMIL NADU,11/10/2024,Retail,2026-08-12 03:23:00
+C10643,Divya Gupta,divya.gupta643@example.in,9123247290,Madurai,tamil nadu,12/08/2025,SMB,2026-08-17 21:31:00
+C10828,Ananya Verma,ANANYA.VERMA828@EXAMPLE.IN,9631157567,Mysuru,karnataka,10-Jun-2025,SMB,2026-08-22 15:36:00
+C10099,Kavya Verma,kavya.verma99@example.in,9069314647,Pune,MAHARASHTRA,02-Jun-2026,Enterprise,2026-08-03 22:03:00
+C10730,Tejas Pillai,tejas.pillai730@example.in,9682162750,Nagpur,MH,2025-08-20,Retail,2026-08-20 03:10:00
+C10799,Rutuja Bhat,RUTUJA.BHAT799@EXAMPLE.IN,9716961763,Madurai,TN,2025-11-23,SMB,2026-08-21 21:43:00
+C10791,Sameer Rao,sameer.rao791@example.in,9430479550,Pune,Maharashtra,2024-09-17,SMB,2026-08-21 16:47:00
+C10287,Kabir Gupta,kabir.gupta287@example.in,9122229400,Ahmedabad,Gujarat,19-Jan-2026,Retail,2026-08-08 17:59:00
+C10626,Mrunal Pillai,mrunal.pillai626@example.in,9249900698,New Delhi,DELHI,25/02/2026,Retail,2026-08-17 11:02:00
+C10212,Swati Reddy,swati.reddy212@example.in,9694411253,Surat,gujarat,25/08/2025,Retail,2026-08-06 19:44:00
+C10210,Meera Menon,meera.menon210@example.in,9740560407,Nashik,Maharashtra,2024-03-15,SMB,2026-08-06 18:30:00
+C10598,Isha Iyer,isha.iyer598example.in,+91 91572 72173,Bengaluru,Karnataka,2025-05-29,Retail,2026-08-16 17:46:00
+C10747,Sameer Joshi,SAMEER.JOSHI747@EXAMPLE.IN,9181559982,Nagpur,MH,2025-02-08,Retail,2026-08-20 13:39:00
+C10514,Divya Sharma,divya.sharma514@example.in,9255177968,Mangaluru,KARNATAKA,01/06/2026,Retail,2026-08-14 13:58:00
+C10092,Sakshi Gupta,sakshi.gupta92@example.in,9722781712,NEW DELHI ,Delhi,2025-09-12,Enterprise,2026-08-03 17:44:00
+C10631,Siddharth Verma,siddharth.verma631@example.in,9824350443,Coimbatore,TN,04/05/2026,Retail,2026-08-17 14:07:00
+C10274,  pranav shah ,pranav.shah274@example.in,9021350183,PUNE ,MAHARASHTRA,2024-02-12,Retail,2026-08-08 09:58:00
+C10971,Anjali Kulkarni,anjali.kulkarni971@example.in,9254956835,Nagpur,Maharashtra,12-Mar-2025,SMB,2026-08-26 07:47:00
+C10380,Sakshi Pillai,sakshi.pillai380@example.in,9839093154,Coimbatore,tamil nadu,16/03/2024,SMB,2026-08-11 03:20:00
+C10012,Amit Reddy,amit.reddy12@example.in,9517665009,Vadodara,GUJARAT,2024-05-25,Retail,2026-08-01 16:24:00
+C10741,Suresh Pawar,,+91 95330 96957,Pune,MAHARASHTRA,08-Apr-2024,SMB,2026-08-20 09:57:00
+C10697,Lakshmi Pawar,lakshmi.pawar697@example.in,9192341,Ahmedabad,Gujarat,2024-11-12,Retail,2026-08-19 06:49:00
+C10885,Pallavi Gupta,pallavi.gupta885@example.in,9898572832,Mangaluru,Karnataka,22/05/2024,Retail,2026-08-24 02:45:00
+C10077,Swati Chavan,SWATI.CHAVAN77@EXAMPLE.IN,9836494403,Ahmedabad,GJ,2024-03-11,SMB,2026-08-03 08:29:00
+C10499,Mrunal Iyer,mrunal.iyer499@example.in,9616961243,Mysuru,KA,2024-07-19,Retail,2026-08-14 04:43:00
+C10814,Neha Patil,neha.patil814@example.in,9804113571,Nagpur,maharashtra,2025-08-09,Retail,2026-08-22 06:58:00
+C10521,  tejas rao ,tejas.rao521@example.in,9584404048,Warangal,telangana,17-Apr-2026,Retail,2026-08-14 18:17:00
+C10046,Pranav Jadhav,pranav.jadhav46@example.in,9702997131,New Delhi,Delhi,02-Oct-2025,SMB,2026-08-02 13:22:00
+C10130,  ananya menon ,ananya.menon130@example.in,9769834137,Hyderabad,Telangana,25/11/2024,Enterprise,2026-08-04 17:10:00
+C10151,Komal Mehta,komal.mehta151@example.in,9874461728,Nashik,Maharashtra,02/01/2024,Retail,2026-08-05 06:07:00
+C10596,Rahul Kulkarni,rahul.kulkarni596@example.in,+91 96787 55496,Warangal,Telangana,30-Jul-2024,Enterprise,2026-08-16 16:32:00
+C10152,Ganesh Pillai,ganesh.pillai152@example.in,9550089936,Vadodara,Gujarat,12/12/2024,Retail,2026-08-05 06:44:00
+C10751,Ananya Patil,ananya.patil751@example.in,+91 99107 69334,Warangal,TS,23-Dec-2025,Retail,2026-08-20 16:07:00
+C10269,Manish Patil,manish.patil269@example.in,9129363411,Coimbatore,TN,16/11/2024,SMB,2026-08-08 06:53:00
+C10549,Amit Bhat,amit.bhat549@example.in,9962863142,Surat,GJ,2025-05-12,SMB,2026-08-15 11:33:00
+C10321,Yash Nair,yash.nair321@example.in,9532433998,Madurai,TAMIL NADU,24-Nov-2024,SMB,2026-08-09 14:57:00
+C10658,Aditya Patil,aditya.patil658@example.in,9181166963,Bengaluru,Karnataka,18-Sep-2025,Retail,2026-08-18 06:46:00
+C10668,Neha Verma,neha.verma668@example.in,9307890622,Warangal,TS,2024-07-17,SMB,2026-08-18 12:56:00
+C10115,Nikhil Pillai,nikhil.pillai115@example.in,9575377032,Mysuru,karnataka,11/06/2024,Enterprise,2026-08-04 07:55:00
+C10764,Shruti Joshi,shruti.joshi764@example.in,9460588773,Chennai,TAMIL NADU,28/06/2024,Retail,2026-08-21 00:08:00
+C10943,Harsh Desai,harsh.desai943@example.in,9923723983,Mangaluru,karnataka,2026-02-28,Enterprise,2026-08-25 14:31:00
+C10999,Deepa Rao,deepa.rao999@example.in,9248485447,New Delhi,DELHI,21-Mar-2025,Enterprise,2026-08-27 01:03:00
+C10263,Lakshmi Nair,lakshmi.nair263@example.in,9874417042,Surat,gujarat,17-Aug-2024,SMB,2026-08-08 03:11:00
+C10192,Gauri Singh,GAURI.SINGH192@EXAMPLE.IN,9725451231,New Delhi,Delhi,2025-01-20,Retail,2026-08-06 07:24:00
+C10864,Sneha Gupta,sneha.gupta864@example.in,+91 94456 86623,Surat,GUJARAT,25/01/2026,Retail,2026-08-23 13:48:00
+C10018,Omkar Chavan,omkar.chavan18@example.in,9769355824,Nashik,MAHARASHTRA,06-Dec-2025,Retail,2026-08-01 20:06:00
+C10344,Harsh Verma,harsh.verma344@example.in,9696371786,COIMBATORE ,Tamil Nadu,2025-13-40,Enterprise,2026-08-10 05:08:00
+C10948,Pooja Gupta,pooja.gupta948@example.in,9925360059,Mumbai,MH,27-Aug-2025,SMB,2026-08-25 17:36:00
+C10450,Gauri Sharma,gauri.sharma450@example.in,9222997962,Chennai,Tamil Nadu,20-Oct-2024,Retail,2026-08-12 22:30:00
+C10696,Aditya Gupta,aditya.gupta696@example.in,9712613122,WARANGAL ,TELANGANA,03-Sep-2024,Retail,2026-08-19 06:12:00
+C10339,Arun Bhat,arun.bhat339@example.in,9286781228,Kolhapur,maharashtra,19-Aug-2025,SMB,2026-08-10 02:03:00
+ ,Walk-in Customer 8,,+91 90725 18616,Warangal,TELANGANA,2026-04-26,Enterprise,2026-08-10 08:13:00
+C10518,Sakshi Desai,sakshi.desai518@example.in,9801112671,Vadodara,gujarat,01/04/2024,Retail,2026-08-14 16:26:00
+C10834,Vivaan Pawar,vivaan.pawar834@example.in,9725498493,Kolhapur,MH,2026-02-18,Retail,2026-08-22 19:18:00
+C10040,Suresh Verma,suresh.verma40@example.in,9604335600,Mysuru,Karnataka,28/10/2024,Enterprise,2026-08-02 09:40:00
+C10136,Pranav Singh,pranav.singh136@example.in,9131175587,Warangal,Telangana,27-Jun-2025,Retail,2026-08-04 20:52:00
+C10320,Vivaan Singh,vivaan.singh320@example.in,9194377964,Ahmedabad,Gujarat,2025-09-22,SMB,2026-08-09 14:20:00
+C10614,Komal Reddy,komal.reddy614@example.in,9478397364,Mumbai,MAHARASHTRA,2024-10-26,Retail,2026-08-17 03:38:00
+C10043,Omkar Joshi,omkar.joshi43@example.in,9173292139,New Delhi,Delhi,18/11/2024,Enterprise,2026-10-16 02:57:00
+C10830,Arun Desai,arun.desai830@example.in,9280607184,Bengaluru,KA,27-Feb-2024,Enterprise,2026-08-22 16:50:00
+C10098,  rahul pawar ,rahul.pawar98@example.in,9786135614,Chennai,Tamil Nadu,12/05/2026,Retail,2026-08-03 21:26:00
+C10208,Kabir Pawar,kabir.pawar208@example.in,9010776531,Surat,GJ,28/05/2026,SMB,2026-08-06 17:16:00
+C10236,  gauri jadhav ,gauri.jadhav236@example.in,9750549926,Vadodara,GJ,02-May-2024,Retail,2026-08-07 10:32:00
+C10522,  yash desai ,yash.desai522@example.in,9898916380,Hyderabad,telangana,22/03/2026,SMB,2026-08-14 18:54:00
+C10257,Swati Reddy,swati.reddy257@example.in,9394929,Warangal,TELANGANA,05-May-2024,Retail,2026-08-07 23:29:00
+C10860,Sameer Rao,sameer.rao860@example.in,+91 92918 69554,Surat,Gujarat,09-May-2026,SMB,2026-08-23 11:20:00
+C10729,Priya Chavan,priya.chavan729@example.in,+91 90218 55609,Warangal,telangana,08/08/2024,Retail,2026-08-20 02:33:00
+C10433,  varun verma ,varun.verma433@example.in,+91 94609 20602,Hyderabad,Telangana,13/03/2024,SMB,2026-08-12 12:01:00
+C10953,Pranav Gupta,pranav.gupta953@example.in,9947024673,Chennai,TAMIL NADU,2026-05-12,Retail,2026-08-25 20:41:00
+C10045,Priya Patil,PRIYA.PATIL45@EXAMPLE.IN,9736400609,Coimbatore,TN,06-Apr-2024,SMB,2026-08-02 12:45:00
+C10278,Isha Sharma,isha.sharma278@example.in,9946271980,Vadodara,Gujarat,17-Jun-2026,SMB,2026-08-08 12:26:00
+C10039,Swati Verma,swati.verma39@example.in,9768812610,Mysuru,KA,27/09/2025,SMB,2026-08-02 09:03:00
+C10309,Meera Rao,meera.rao309@example.in,9280399280,Nagpur,Maharashtra,17/06/2025,Retail,2026-08-09 07:33:00
+C10442,Isha Bhat,isha.bhat442@example.in,9092682659,NEW DELHI ,DELHI,21-Apr-2026,Retail,2026-08-12 17:34:00
+C10579,Rohan Singh,rohan.singh579@example.in,9911427305,PUNE ,maharashtra,11/05/2025,Enterprise,2026-08-16 06:03:00
+C10003,Suresh Verma,suresh.verma3@example.in,9659496827,New Delhi,Delhi,2024-01-03,Retail,2026-08-01 10:51:00
+C10318,Anjali Iyer,anjali.iyer318@example.in,9826480830,New Delhi,Delhi,2024-07-12,SMB,2026-10-18 08:38:00
+C10475,Arun Pillai,arun.pillai475@example.in,9847861468,Nagpur,MH,15-Jan-2024,Retail,2026-08-13 13:55:00
+C10332,Arjun Pawar,arjun.pawar332@example.in,9718597843,Hyderabad,telangana,2026-01-30,SMB,2026-08-09 21:44:00
+C10060,Shruti Pawar,shruti.pawar60@example.in,9296097140,Mangaluru,Karnataka,28/04/2026,Retail,2026-08-02 22:00:00
+C10225,Sahil Sharma,sahil.sharma225@example.in,+91 97081 52572,Hyderabad,Telangana,07/06/2026,SMB,2026-08-07 03:45:00
+C10264,Shruti Desai,shruti.desai264@example.in,9026688409,Warangal,Telangana,31/02/2025,SMB,2026-08-08 03:48:00
+C10286,Diya Bhat,diya.bhat286@example.in,9432393373,Nagpur,Maharashtra,05-Jun-2025,Enterprise,2026-08-08 17:22:00
+C10792,Arun Chavan,arun.chavan792@example.in,9943026814,Bengaluru,KA,14-Jun-2025,Retail,2026-08-21 17:24:00
+C10383,Swati Shah,swati.shah383@example.in,9670152,Bengaluru,KARNATAKA,19/04/2026,SMB,2026-08-11 05:11:00
+C10370,Rahul Desai,rahul.desai370@example.in,9936512525,New Delhi,DL,08/05/2025,Retail,2026-08-10 21:10:00
+C10365,Aarav Iyer,aarav.iyer365@example.in,9894946,Mumbai,MAHARASHTRA,2024-06-23,SMB,2026-08-10 18:05:00
+C10424,Omkar Menon,omkar.menon424@example.in,9120247401,Kolhapur,maharashtra,12/08/2025,Retail,2026-08-12 06:28:00
+C10108,Tanvi Menon,tanvi.menon108@example.in,9580163320,BENGALURU ,Karnataka,30-Sep-2024,Retail,2026-08-04 03:36:00
+C10817,Ganesh Kulkarni,,9864596999,Madurai,TN,2025-10-18,Retail,2026-08-22 08:49:00
+  ,Walk-in Customer 9,,9490215144,Madurai,tamil nadu,07/07/2025,SMB,2026-08-25 16:59:00
+C10378,Sneha Menon,sneha.menon378@example.in,9618952972,Mysuru,Karnataka,2024-12-10,SMB,2026-08-11 02:06:00
+C10832,Pranav Chavan,pranav.chavan832@example.in,9485321255,Nagpur,Maharashtra,2025-01-02,Enterprise,2026-10-15 19:57:00
+C10565,Rahul Joshi,rahul.joshi565@example.in,9151941008,Warangal,TS,21/07/2024,SMB,2026-08-15 21:25:00
+C10568,Sneha Joshi,sneha.joshi568@example.in,9091518195,Warangal,TELANGANA,30-Jan-2026,Retail,2026-08-15 23:16:00
+C10807,Arjun Gupta,arjun.gupta807@example.in,9844210263,Pune,Maharashtra,24-Aug-2025,SMB,2026-08-22 02:39:00
+C10229,Rahul Singh,rahul.singh229@example.in,9806313531,Coimbatore,Tamil Nadu,11/11/2024,Retail,2026-08-07 06:13:00
+C10723,Lakshmi Chavan,lakshmi.chavan723@example.in,9131802715,Madurai,TAMIL NADU,25/06/2024,Retail,2026-08-19 22:51:00
+C10242,Aarav Mehta,aarav.mehta242@example.in,9949082856,Kolhapur,MH,2024-02-26,Enterprise,2026-08-07 14:14:00
+C10566,Omkar Kulkarni,omkar.kulkarni566@example.in,9435667,Nashik,Maharashtra,2025-09-21,Retail,2026-08-15 22:02:00
+C10147,Meera Chavan,meera.chavan147@example.in,9176726217,Bengaluru,Karnataka,30-Aug-2024,Retail,2026-08-05 03:39:00
+C10682,Riya Reddy,riya.reddy682@example.in,+91 97554 89772,New Delhi,DELHI,08-Dec-2024,SMB,2026-08-18 21:34:00
+C10710,Sneha Sharma,sneha.sharma710@example.in,9198318703,Pune,MAHARASHTRA,15-Mar-2025,Retail,2026-08-19 14:50:00
+C10008,Neha Chavan,neha.chavan8@example.in,9956670387,Vadodara,GJ,12-Feb-2025,SMB,2026-08-01 13:56:00
+C10011,Nisha Patil,NISHA.PATIL11@EXAMPLE.IN,9052492769,Mangaluru,Karnataka,17-Apr-2026,SMB,2026-08-01 15:47:00
+C10025,Vivaan Verma,vivaan.verma25@example.in,9419196655,Coimbatore,Tamil Nadu,2025-02-25,SMB,2026-08-02 00:25:00
+C10409,  shruti jadhav ,shruti.jadhav409@example.in,9795409377,Hyderabad,TELANGANA,02/04/2025,Enterprise,2026-08-11 21:13:00
+C10842,Ananya Desai,ANANYA.DESAI842@EXAMPLE.IN,9211153654,Surat,gujarat,08-Nov-2024,Retail,2026-08-23 00:14:00
+C10120,Diya Mehta,diya.mehta120@example.in,9793637733,Nagpur,maharashtra,21/10/2024,SMB,2026-08-04 11:00:00
+C10976,Anjali Singh,anjali.singh976@example.in,9443181813,Kolhapur,MAHARASHTRA,2025-01-27,Retail,2026-08-26 10:52:00
+C10705,Ketan Patil,ketan.patil705@example.in,9374716863,Pune,MH,2025-06-25,SMB,2026-08-19 11:45:00
+C10255,Lakshmi Singh,lakshmi.singh255@example.in,9910748983,Bengaluru,Karnataka,31-Aug-2025,Retail,2026-08-07 22:15:00
+C10106,Arun Mehta,arun.mehta106@example.in,9591963319,Mysuru,Karnataka,13-Sep-2025,Retail,2026-08-04 02:22:00
+C10686,  priya verma ,priya.verma686@example.in,9675042467,Vadodara,gujarat,21-Jul-2025,SMB,2026-08-19 00:02:00
+C10708,Sakshi Gupta,sakshi.gupta708@example.in,9043110536,Nashik,MH,07/08/2024,SMB,2026-08-19 13:36:00
+C10962,  nikhil kulkarni ,nikhil.kulkarni962@example.in,9287568668,Mumbai,MAHARASHTRA,N/A,Retail,2026-08-26 02:14:00
+C10753,Rohan Pillai,rohan.pillai753@example.in,9046078721,CHENNAI ,tamil nadu,2026-03-17,SMB,2026-08-20 17:21:00
+C10642,Priya Desai,priya.desai642@example.in,+91 99261 94514,Madurai,Tamil Nadu,14-Sep-2024,SMB,2026-08-17 20:54:00
+C10315,Amit Shah,amit.shah315@example.in,9376808053,New Delhi,Delhi,2025-10-18,Retail,2026-08-09 11:15:00
+C10687,Ananya Mehta,ananya.mehta687@example.in,9673505618,Madurai,TAMIL NADU,05-Jul-2024,SMB,2026-08-19 00:39:00
+C10384,Priya Pawar,priya.pawar384@example.in,9869140370,Pune,Maharashtra,2025-04-28,Retail,2026-08-11 05:48:00
+C10681,Omkar Patil,omkar.patil681@example.in,9535868378,Madurai,TN,04-May-2024,Retail,2026-08-18 20:57:00
+C10190,Siddharth Menon,siddharth.menon190@example.in,9002078495,Nashik,Maharashtra,2024-09-09,SMB,2026-08-06 06:10:00
+C10447,Sakshi Joshi,sakshi.joshi447@example.in,9799308735,Nagpur,Maharashtra,07-Nov-2025,Retail,2026-08-12 20:39:00
+C10865,Sneha Mehta,sneha.mehta865@example.in,9833884414,Madurai,Tamil Nadu,05-Feb-2024,Retail,2026-08-23 14:25:00
+C10303,Arun Menon,arun.menon303@example.in,9562638133,Pune,MAHARASHTRA,2025-07-29,Retail,2026-08-09 03:51:00
+C10189,Siddharth Kulkarni,siddharth.kulkarni189@example.in,9874851704,New Delhi,Delhi,01-Jan-2025,Retail,2026-08-06 05:33:00
+C10526,Komal Iyer,KOMAL.IYER526@EXAMPLE.IN,9276608685,Pune,maharashtra,21-Jun-2024,Retail,2026-08-14 21:22:00
+C10124,  meera chavan ,MEERA.CHAVAN124@EXAMPLE.IN,9886859932,NEW DELHI ,delhi,13-Jul-2025,SMB,2026-08-04 13:28:00
+C10084,Tanvi Menon,tanvi.menon84@example.in,9023322541,Surat,Gujarat,13-Feb-2025,SMB,2026-10-18 02:13:00
+C10721,Rahul Menon,rahul.menon721@example.in,9723329204,NEW DELHI ,DELHI,2026-02-11,Enterprise,2026-08-19 21:37:00
+C10990,Kunal Shah,kunal.shah990@example.in,9811533119,MUMBAI ,maharashtra,2024-06-13,Retail,2026-08-26 19:30:00
+C10968,Swati Menon,swati.menon968@example.in,9197486503,Kolhapur,MAHARASHTRA,2025-06-18,Retail,2026-08-26 05:56:00
+C10184,Ananya Singh,ananya.singh184@example.in,9860638659,Coimbatore,tamil nadu,05/03/2026,Retail,2026-08-06 02:28:00
+C10645,Kiran Gupta,kiran.gupta645@example.in,9597499262,Vadodara,Gujarat,12-Mar-2024,Retail,2026-08-17 22:45:00
+C10745,Nikhil Mehta,nikhil.mehta745@example.in,9141011452,Hyderabad,Telangana,2024-12-18,SMB,2026-08-20 12:25:00
+C10394,Neha Jadhav,neha.jadhav394@example.in,9600605092,Mangaluru,karnataka,2024-11-14,Retail,2026-08-11 11:58:00
+C10507,Sahil Sharma,sahil.sharma507@example.in,9190399,Pune,Maharashtra,unknown,Retail,2026-08-14 09:39:00
+C10997,Rutuja Mehta,RUTUJA.MEHTA997@EXAMPLE.IN,9584082564,Pune,maharashtra,2024-11-13,Enterprise,2026-08-26 23:49:00
+C10154,Riya Singh,riya.singh154@example.in,9570426272,Bengaluru,karnataka,2026-02-03,Retail,2026-08-05 07:58:00
+C10824,Pranav Desai,pranav.desai824@example.in,9008219652,Vadodara,Gujarat,03/02/2025,Retail,2026-08-22 13:08:00
+C10810,Kunal Verma,kunal.verma810@example.in,9578073902,Warangal,TS,20/07/2024,SMB,2026-08-22 04:30:00
+C10772,Komal Bhat,komal.bhat772@example.in,+91 95676 41563,NASHIK ,MH,04/12/2024,Enterprise,2026-08-21 05:04:00
+C10794,Arjun Chavan,arjun.chavan794@example.in,9697720273,Nagpur,MH,17-Oct-2024,SMB,2026-08-21 18:38:00
+C10709,Arjun Pillai,arjun.pillai709@example.in,9781968621,Vadodara,gujarat,21-Oct-2025,SMB,2026-08-19 14:13:00
+C10198,Lakshmi Pawar,lakshmi.pawar198@example.in,9657695755,New Delhi,DL,23-Nov-2025,SMB,2026-08-06 11:06:00
+C10036,Manish Reddy,manish.reddy36@example.in,9294025590,Warangal,Telangana,2026-03-26,Retail,2026-08-02 07:12:00
+C10362,Sameer Jadhav,sameer.jadhav362example.in,9958488331,Mysuru,KA,2025-02-05,Retail,2026-08-10 16:14:00
+C10406,Harsh Mehta,harsh.mehta406@example.in,9128244069,Kolhapur,maharashtra,2024-07-29,Retail,2026-08-11 19:22:00
+C10408,Swati Desai,swati.desai408@example.in,9344966614,Bengaluru,karnataka,2024-04-14,Retail,2026-08-11 20:36:00
+C10634,Ganesh Menon,ganesh.menon634@example.in,9813039211,Surat,GJ,03-Feb-2026,SMB,2026-08-17 15:58:00
+C10758,Tanvi Mehta,tanvi.mehta758@example.in,9957431051,New Delhi,Delhi,12/06/2025,SMB,2026-08-20 20:26:00
+C10694,  kunal gupta ,kunal.gupta694@example.in,9793873649,Nagpur,Maharashtra,11/05/2026,SMB,2026-08-19 04:58:00
+C10214,Vivaan Singh,vivaan.singh214@example.in,9596356436,Coimbatore,Tamil Nadu,20/02/2024,Retail,2026-08-06 20:58:00
+C10361,Amit Rao,amit.rao361@example.in,+91 95864 85259,Hyderabad,TS,07-Jul-2025,SMB,2026-08-10 15:37:00
+C10883,Harsh Singh,harsh.singh883@example.in,9814889456,Nagpur,Maharashtra,31-Jan-2025,Retail,2026-08-24 01:31:00
+C10836,  pooja reddy ,pooja.reddy836@example.in,9284988523,Mysuru,Karnataka,2024-11-05,Enterprise,2026-08-22 20:32:00
+C10488,Sakshi Sharma,sakshi.sharma488@example.in,9899333149,Mumbai,Maharashtra,16-Apr-2024,SMB,2026-08-13 21:56:00
+C10193,Gauri Chavan,gauri.chavan193@example.in,+91 93846 80703,Madurai,Tamil Nadu,2025-01-21,Retail,2026-08-06 08:01:00
+C10965,Sneha Reddy,sneha.reddy965@example.in,+91 96827 22235,Warangal,TELANGANA,27/04/2024,SMB,2026-08-26 04:05:00
+C10221,Akash Singh,akash.singh221@example.in,9904048648,Madurai,Tamil Nadu,01-Jan-2025,Retail,2026-10-15 12:07:00
+C10203,Isha Rao,isha.rao203@example.in,9686738147,Bengaluru,Karnataka,30-Sep-2024,Retail,2026-10-16 01:53:00
+C10921,Tanvi Shah,tanvi.shah921@example.in,9323676757,Pune,MAHARASHTRA,07-Feb-2024,SMB,2026-08-25 00:57:00
+C10282,  siddharth kulkarni ,siddharth.kulkarni282@example.in,9044870912,Nashik,MAHARASHTRA,2024-03-19,Enterprise,2026-08-08 14:54:00
+C10854,  pranav nair ,pranav.nair854@example.in,9120805843,Madurai,Tamil Nadu,23-May-2026,Retail,2026-08-23 07:38:00
+C10880,Vivaan Iyer,vivaan.iyer880@example.in,9042685969,Nagpur,MAHARASHTRA,21-Nov-2024,Retail,2026-08-23 23:40:00
+C10671,Isha Mehta,isha.mehta671@example.in,9873177240,Ahmedabad,GUJARAT,2025-02-06,Retail,2026-08-18 14:47:00
+C10392,Priya Bhat,PRIYA.BHAT392@EXAMPLE.IN,9851384849,Chennai,Tamil Nadu,01/01/2024,SMB,2026-08-11 10:44:00
+C10178,Arjun Kulkarni,arjun.kulkarni178@example.in,9194474539,Hyderabad,telangana,2025-08-31,Retail,2026-08-05 22:46:00
+C10517,Gauri Reddy,GAURI.REDDY517@EXAMPLE.IN,9877696884,Vadodara,GUJARAT,22/01/2025,Retail,2026-08-14 15:49:00
+C10201,Varun Sharma,varun.sharma201@example.in,+91 96032 82129,Nagpur,MAHARASHTRA,03-May-2026,Retail,2026-08-06 12:57:00
+C10127,Divya Pillai,divya.pillai127@example.in,+91 91442 25647,Kolhapur,Maharashtra,2024-11-22,Retail,2026-08-04 15:19:00
+C10982,  aarav chavan ,aarav.chavan982example.in,9165080049,Mangaluru,KARNATAKA,22/03/2026,SMB,2026-08-26 14:34:00
+C10922,Yash Reddy,yash.reddy922@example.in,9025337546,Warangal,Telangana,11-Jan-2025,Retail,2026-08-25 01:34:00
+C10061,Neha Pawar,neha.pawar61@example.in,9871274398,New Delhi,DELHI,15/07/2025,Enterprise,2026-08-02 22:37:00
+C10973,Kiran Kulkarni,kiran.kulkarni973@example.in,9932728607,Mangaluru,Karnataka,10/05/2024,Retail,2026-08-26 09:01:00
+C10573,Aditya Joshi,aditya.joshi573@example.in,9888392081,Mangaluru,Karnataka,20-Sep-2025,Enterprise,2026-08-16 02:21:00
+C10420,  komal pillai ,komal.pillai420@example.in,9201626518,Mysuru,Karnataka,10/10/2025,Retail,2026-08-12 04:00:00
+C10038,Amit Nair,amit.nair38example.in,9168318828,Kolhapur,maharashtra,16/05/2026,SMB,2026-08-02 08:26:00
+C10131,Priya Shah,PRIYA.SHAH131@example,9911000814,Mangaluru,Karnataka,31/05/2026,SMB,2026-08-04 17:47:00
+C10010,Shruti Bhat,shruti.bhat10@example.in,9994535237,Chennai,TAMIL NADU,31/07/2025,SMB,2026-08-01 15:10:00
+C10401,Arun Reddy,arun.reddy401@example.in,9122443046,Mysuru,KARNATAKA,2025-02-19,Retail,2026-08-11 16:17:00
+C10089,  aarav sharma ,AARAV.SHARMA89@EXAMPLE.IN,9914712400,Mangaluru,KA,07/11/2025,Retail,2026-08-03 15:53:00
+C10470,Amit Nair,amit.nair470@example.in,9847832270,Pune,Maharashtra,21/06/2024,Enterprise,2026-08-13 10:50:00
+C10651,Rahul Pawar,RAHUL.PAWAR651@EXAMPLE.IN,+91 96919 23510,CHENNAI ,tamil nadu,2025-13-40,Retail,2026-08-18 02:27:00
+C10297,  nikhil gupta ,nikhil.gupta297@example,9994823079,Mysuru,Karnataka,21-Apr-2025,SMB,2026-08-09 00:09:00
+C10100,  mrunal bhat ,mrunal.bhat100@example.in,9097408033,Coimbatore,TAMIL NADU,23-Sep-2025,SMB,2026-08-03 22:40:00
+C10489,Omkar Desai,omkar.desai489@example.in,9689537606,Pune,MH,10/09/2024,SMB,2026-08-13 22:33:00
+C10882,  kabir joshi ,kabir.joshi882@example.in,9132483553,Ahmedabad,Gujarat,2024-05-22,SMB,2026-08-24 00:54:00
+C10752,Kavya Gupta,kavya.gupta752@example.in,9670527128,Nagpur,Maharashtra,05/03/2024,SMB,2026-08-20 16:44:00
+C10262,  arun iyer ,arun.iyer262@example.in,9488755444,Nagpur,maharashtra,01-May-2024,Enterprise,2026-08-08 02:34:00
+C10559,Suresh Joshi,suresh.joshi559@example.in,9429367766,Pune,Maharashtra,04/04/2026,Retail,2026-08-15 17:43:00
+C10778,Amit Nair,amit.nair778@example.in,9468703974,Warangal,Telangana,29-Jun-2024,Enterprise,2026-08-21 08:46:00
+C10456,Ketan Chavan,ketan.chavan456@example.in,9544021962,Ahmedabad,GUJARAT,10-Nov-2024,SMB,2026-08-13 02:12:00
+C10275,Kavya Mehta,kavya.mehta275@example.in,9645763178,Surat,Gujarat,06/02/2025,Retail,2026-08-08 10:35:00
+C10858,Riya Pillai,riya.pillai858@example.in,9690067680,Bengaluru,Karnataka,2024-01-05,SMB,2026-08-23 10:06:00
+C10685,Harsh Mehta,harsh.mehta685@example.in,9822727519,Mysuru,KARNATAKA,28-Feb-2024,SMB,2026-08-18 23:25:00
+C10142,Tejas Sharma,tejas.sharma142@example.in,9699937880,Coimbatore,TN,2024-06-21,Retail,2026-08-05 00:34:00
+C10059,  priya pillai ,priya.pillai59@example,9546126839,Pune,Maharashtra,2025-11-26,Enterprise,2026-08-02 21:23:00
+C10515,Yash Rao,yash.rao515@example.in,9361732804,Nagpur,MAHARASHTRA,28-May-2025,Enterprise,2026-08-14 14:35:00
+C10712,Manish Nair,manish.nair712@example.in,9949371691,Pune,Maharashtra,2024-01-28,Retail,2026-08-19 16:04:00
+C10086,Ketan Mehta,ketan.mehta86@example.in,+91 93781 29394,WARANGAL ,Telangana,10-Mar-2025,Retail,2026-08-03 14:02:00
+C10875,Rohan Menon,not available,+91 92490 02485,Kolhapur,MAHARASHTRA,2025-10-09,SMB,2026-08-23 20:35:00
+C10023,Pallavi Verma,pallavi.verma23@example.in,9239366764,Hyderabad,Telangana,12/07/2025,SMB,2026-08-01 23:11:00
+C10252,Pooja Verma,pooja.verma252@example,9954998506,Mangaluru,KA,2024-03-24,SMB,2026-08-07 20:24:00
+C10492,Anjali Patil,not available,9411517448,Madurai,Tamil Nadu,24/08/2024,SMB,2026-08-14 00:24:00
+C10350,  mrunal joshi ,mrunal.joshi350@example.in,9681383364,Pune,MAHARASHTRA,21/09/2025,SMB,2026-08-10 08:50:00
+C10399,Aarav Gupta,aarav.gupta399@example.in,9924388,New Delhi,delhi,26/05/2024,SMB,2026-08-11 15:03:00
+C10434,Kunal Reddy,KUNAL.REDDY434@EXAMPLE.IN,9663869410,Warangal,telangana,01-Feb-2024,Retail,2026-08-12 12:38:00
+C10646,Suresh Pillai,suresh.pillai646@example.in,9177180752,Surat,Gujarat,15/09/2024,SMB,2026-08-17 23:22:00
+C10545,Diya Patil,diya.patil545@example,9291187473,Madurai,Tamil Nadu,13-Apr-2026,Retail,2026-08-15 09:05:00
+C10347,Tanvi Chavan,tanvi.chavan347@example.in,9208832106,NEW DELHI ,DELHI,30-Jan-2025,SMB,2026-08-10 06:59:00
+C10570,Swati Verma,swati.verma570@example.in,9891536203,Pune,Maharashtra,03/07/2024,Retail,2026-08-16 00:30:00
+C10692,Sneha Pawar,sneha.pawar692@example.in,9733355348,Mangaluru,Karnataka,03/10/2025,Retail,2026-10-15 11:33:00
+C10449,Ketan Joshi,ketan.joshi449@example.in,9980149160,Mangaluru,karnataka,27-Mar-2024,SMB,2026-08-12 21:53:00
+C10746,Aarav Pillai,aarav.pillai746@example.in,9505952,New Delhi,DELHI,2026-01-23,SMB,2026-08-20 13:02:00
+C10102,Kabir Mehta,KABIR.MEHTA102@EXAMPLE.IN,9566928117,BENGALURU ,karnataka,11-Jun-2026,SMB,2026-08-03 23:54:00
+C10109,Vivaan Chavan,vivaan.chavan109@example.in,9057598498,Bengaluru,Karnataka,2025-12-10,Enterprise,2026-08-04 04:13:00
+C10660,Nisha Pawar,NISHA.PAWAR660@EXAMPLE.IN,9097267878,Pune,maharashtra,2024-06-19,Retail,2026-08-18 08:00:00
+C10722,  neha rao ,neha.rao722@example.in,9506424697,Nashik,maharashtra,07/04/2024,Retail,2026-08-19 22:14:00
+C10639,Komal Menon,komal.menon639@example.in,9123079383,Surat,Gujarat,2024-05-26,Retail,2026-08-17 19:03:00
+C10244,Pallavi Reddy,pallavi.reddy244@example.in,9807599925,New Delhi,DL,22-Jul-2024,Retail,2026-08-07 15:28:00
+C10163,  suresh shah ,suresh.shah163@example.in,+91 98590 94667,Mangaluru,karnataka,2024-06-18,Retail,2026-08-05 13:31:00
+C10919,Tejas Kulkarni,tejas.kulkarni919@example.in,9581385878,Pune,maharashtra,2025-06-22,SMB,2026-08-24 23:43:00
+C10125,Arjun Joshi,ARJUN.JOSHI125@EXAMPLE.IN,9633731558,Coimbatore,TN,2024-03-23,Retail,2026-08-04 14:05:00
+C10119,Aditya Reddy,aditya.reddy119@example.in,9465560379,Bengaluru,Karnataka,2025-10-18,SMB,2026-08-04 10:23:00
+C10369,Pallavi Verma,pallavi.verma369@example.in,9794230674,Bengaluru,Karnataka,06-Aug-2024,SMB,2026-08-10 20:33:00
+C10233,Anjali Nair,ANJALI.NAIR233@EXAMPLE.IN,9668134828,Mangaluru,Karnataka,12/11/2024,SMB,2026-08-07 08:41:00
+C10849,Deepa Pawar,deepa.pawar849@example.in,9477266040,Warangal,TELANGANA,2024-02-24,Retail,2026-08-23 04:33:00
+C10349,Tanvi Iyer,tanvi.iyer349@example.in,+91 90725 18616,Warangal,TELANGANA,2026-04-26,Enterprise,2026-08-10 08:13:00
+C10891,Diya Bhat,diya.bhat891@example.in,9646437951,Mangaluru,Karnataka,19/10/2024,SMB,2026-08-24 06:27:00
+C10551,Arjun Bhat,arjun.bhat551@example.in,9789036921,Chennai,tamil nadu,10-Sep-2024,Enterprise,2026-08-15 12:47:00
+C10388,Manish Iyer,MANISH.IYER388@EXAMPLE.IN,9932320,Coimbatore,TAMIL NADU,30/11/2024,Retail,2026-08-11 08:16:00
+C10508,Neha Joshi,neha.joshi508@example.in,+91 96635 06512,Mangaluru,karnataka,03/06/2024,Retail,2026-08-14 10:16:00
+C10838,Kabir Mehta,kabir.mehta838@example.in,9932996166,Vadodara,GJ,05-Mar-2026,SMB,2026-08-22 21:46:00
+C10706,Tejas Shah,tejas.shah706@example.in,9090502716,Mumbai,MH,04-Aug-2025,Retail,2026-08-19 12:22:00
+C10706,Tejas Shah,tejas.shah706@example.in,9090502716,Mumbai,Maharashtra,04-Aug-2025,Retail,2026-10-18 11:08:00
+C10994,Shruti Pawar,shruti.pawar994@example.in,9718997,Pune,Maharashtra,23/01/2025,SMB,2026-08-26 21:58:00
+C10256,Deepa Kulkarni,deepa.kulkarni256@example.in,9901663994,MYSURU ,KARNATAKA,2024-03-03,SMB,2026-08-07 22:52:00
+C10966,Pooja Chavan,pooja.chavan966@example.in,9549380713,Vadodara,GUJARAT,28/08/2024,Retail,2026-08-26 04:42:00
+C10346,Anjali Singh,not available,9744454687,MUMBAI ,maharashtra,2024-08-15,SMB,2026-08-10 06:22:00
+C10536,Pallavi Jadhav,pallavi.jadhav536@example.in,9685316332,Warangal,TELANGANA,2024-09-30,Retail,2026-08-15 03:32:00
+C10757,Nikhil Menon,nikhil.menon757@example.in,9806461137,Pune,MAHARASHTRA,2024-01-29,SMB,2026-08-20 19:49:00
+  ,Walk-in Customer 13,,9435667,Nashik,Maharashtra,2025-09-21,Retail,2026-08-15 22:02:00
+C10226,Sneha Pawar,sneha.pawar226@example.in,9260868184,Nashik,maharashtra,30/04/2024,Retail,2026-08-07 04:22:00
+C10385,Lakshmi Pawar,lakshmi.pawar385@example.in,9832130861,Nagpur,Maharashtra,11/05/2026,Retail,2026-08-11 06:25:00
+,Walk-in Customer 3,,9886859932,NEW DELHI ,delhi,13-Jul-2025,SMB,2026-08-04 13:28:00
+C10076,Pranav Pillai,PRANAV.PILLAI76@EXAMPLE.IN,9557214404,Hyderabad,TS,2025-07-22,Retail,2026-08-03 07:52:00
+C10170,Yash Singh,yash.singh170@example.in,9376586318,Warangal,telangana,01/05/2026,SMB,2026-08-05 17:50:00
+C10724,Yash Kulkarni,yash.kulkarni724@example.in,9271467057,Vadodara,GUJARAT,24/04/2025,Retail,2026-08-19 23:28:00
+C10439,Siddharth Menon,siddharth.menon439@example.in,9179424734,Kolhapur,Maharashtra,2024-12-24,SMB,2026-08-12 15:43:00
+C10254,Tejas Patil,tejas.patil254@example.in,9775505496,Madurai,TAMIL NADU,2025-09-10,SMB,2026-08-07 21:38:00
+C10906,Sahil Jadhav,sahil.jadhav906@example.in,9052495314,Madurai,Tamil Nadu,03/07/2024,Retail,2026-08-24 15:42:00
+C10983,Divya Jadhav,divya.jadhav983@example.in,9922285970,MADURAI ,TN,2025-02-14,Retail,2026-08-26 15:11:00
+C10402,Priya Verma,PRIYA.VERMA402@EXAMPLE.IN,9350053295,Bengaluru,karnataka,29-Apr-2025,Retail,2026-08-11 16:54:00
+C10323,Omkar Desai,omkar.desai323@example.in,9458702,Vadodara,GJ,25-Dec-2025,Retail,2026-08-09 16:11:00
+C10868,  rutuja patil ,rutuja.patil868@example.in,9024142970,Bengaluru,KA,10-Dec-2025,SMB,2026-08-23 16:16:00
+C10750,Aarav Chavan,aarav.chavan750@example.in,9898684144,Mysuru,karnataka,2024-11-03,Retail,2026-08-20 15:30:00
+C10633,Mrunal Kulkarni,mrunal.kulkarni633@example,9002009034,Surat,Gujarat,2025-05-15,Retail,2026-08-17 15:21:00
+C10129,Deepa Iyer,deepa.iyer129@example.in,9919661970,Warangal,TS,20/01/2026,Enterprise,2026-08-04 16:33:00
+C10971,Anjali Kulkarni,anjali.kulkarni971@example.in,9254956835,Nagpur,Maharashtra,12-Mar-2025,SMB,2026-08-26 07:47:00
+C10610,Pranav Gupta,pranav.gupta610@example.in,9101945809,Nashik,MAHARASHTRA,07/02/2026,Retail,2026-08-17 01:10:00
+C10345,Divya Mehta,divya.mehta345@example.in,9224475983,Nashik,maharashtra,2025-11-03,Retail,2026-08-10 05:45:00
+C10228,Rohan Bhat,rohan.bhat228@example.in,9422795828,Hyderabad,telangana,25-Jun-2024,Retail,2026-08-07 05:36:00
+C10975,Pooja Menon,pooja.menon975example.in,9207494873,Pune,maharashtra,2025-08-17,Retail,2026-08-26 10:15:00
+C10603,Kavya Mehta,kavya.mehta603@example.in,9841319584,Mangaluru,Karnataka,2025-08-19,SMB,2026-08-16 20:51:00
+C10353,Varun Chavan,varun.chavan353@example.in,9740767674,Nashik,MAHARASHTRA,28/05/2024,Enterprise,2026-08-10 10:41:00
+C10725,Tejas Sharma,tejas.sharma725@example.in,9595336263,Vadodara,GUJARAT,2024-06-26,Retail,2026-08-20 00:05:00
+C10191,Sahil Jadhav,SAHIL.JADHAV191@EXAMPLE.IN,9361249298,MADURAI ,TN,07/11/2025,Enterprise,2026-08-06 06:47:00
+C10481,  pooja reddy ,pooja.reddy481@example.in,9285112932,Nashik,MAHARASHTRA,17/07/2025,Retail,2026-08-13 17:37:00
+C10088,Vivaan Jadhav,vivaan.jadhav88@example.in,+91 99547 54873,Vadodara,GUJARAT,21/05/2026,Retail,2026-08-03 15:16:00
+C10649,Komal Reddy,komal.reddy649@example.in,9668926176,Mumbai,MAHARASHTRA,17-May-2024,Enterprise,2026-08-18 01:13:00
+C10756,Pooja Gupta,pooja.gupta756@example.in,9465882929,Warangal,TELANGANA,24/02/2026,SMB,2026-08-20 19:12:00
+C10035,Kiran Rao,kiran.rao35@example.in,9349813560,Coimbatore,TAMIL NADU,30-Jun-2024,SMB,2026-08-02 06:35:00
+C10877,Deepa Singh,deepa.singh877@example.in,9509968218,Ahmedabad,Gujarat,08/04/2026,Retail,2026-08-23 21:49:00
+C10002,Sahil Singh,sahil.singh2@example.in,9904521971,Vadodara,Gujarat,14-Jul-2025,SMB,2026-08-01 10:14:00
+C10173,Priya Kulkarni,priya.kulkarni173@example.in,+91 94226 22106,Bengaluru,KARNATAKA,24/09/2025,Retail,2026-08-05 19:41:00
+C10116,Gauri Chavan,gauri.chavan116@example.in,9675755461,Ahmedabad,Gujarat,12-Nov-2024,SMB,2026-08-04 08:32:00
+C10007,Yash Chavan,YASH.CHAVAN7@EXAMPLE.IN,9026563621,Nagpur,Maharashtra,12-Nov-2024,Retail,2026-08-01 13:19:00
+C10133,Pallavi Pillai,pallavi.pillai133@example.in,9017554969,Surat,GUJARAT,26/06/2025,Retail,2026-08-04 19:01:00
+C10987,Tejas Desai,tejas.desai987@example.in,9817704717,New Delhi,Delhi,15/05/2026,Enterprise,2026-08-26 17:39:00
+C10376,Manish Joshi,manish.joshi376@example.in,9239234015,Chennai,TN,31/02/2025,SMB,2026-08-11 00:52:00
+C10577,Sakshi Patil,sakshi.patil577@example.in,9818915896,Hyderabad,Telangana,2025-09-26,SMB,2026-08-16 04:49:00
+C10407,Ganesh Reddy,ganesh.reddy407@example.in,9095676080,Hyderabad,Telangana,19/02/2025,Enterprise,2026-08-11 19:59:00
+C10022,Divya Sharma,divya.sharma22@example.in,9005509473,Chennai,tamil nadu,07/06/2024,Enterprise,2026-08-01 22:34:00
+C10487,Arun Verma,arun.verma487@example.in,9369627546,Mumbai,Maharashtra,24-Jan-2024,Retail,2026-08-13 21:19:00
+C10441,Kavya Pawar,kavya.pawar441@example.in,9049842759,NASHIK ,Maharashtra,16/06/2026,SMB,2026-08-12 16:57:00
+C10805,Kunal Desai,KUNAL.DESAI805@EXAMPLE.IN,9385289144,Ahmedabad,Gujarat,27/10/2024,Retail,2026-08-22 01:25:00
+C10960,Manish Patil,manish.patil960@example.in,9369624025,Ahmedabad,gujarat,25-Nov-2025,Enterprise,2026-08-26 01:00:00
+C10483,Nisha Kulkarni,nisha.kulkarni483@example.in,9575097408,Chennai,TN,2025-09-25,Enterprise,2026-08-13 18:51:00
+C10587,Aditya Nair,aditya.nair587@example.in,9525777285,Bengaluru,karnataka,07-Jan-2026,Retail,2026-08-16 10:59:00
+C10146,Anjali Iyer,anjali.iyer146@example.in,9443998622,MANGALURU ,KA,16/01/2024,SMB,2026-08-05 03:02:00
+C10654,Sakshi Mehta,SAKSHI.MEHTA654@EXAMPLE.IN,9357015563,Mysuru,Karnataka,2026-05-19,Retail,2026-08-18 04:18:00
+C10044,Kabir Patil,kabir.patil44@example.in,9016567828,Vadodara,gujarat,2025-02-28,Retail,2026-08-02 12:08:00
+C10940,Arun Pawar,arun.pawar940@example.in,9372129593,Mumbai,MH,2024-08-10,SMB,2026-08-25 12:40:00
+C10992,Deepa Nair,DEEPA.NAIR992@EXAMPLE.IN,+91 98227 31226,Chennai,tamil nadu,03-Sep-2024,Retail,2026-08-26 20:44:00
+C10091,Meera Mehta,meera.mehta91@example.in,9012233286,Mysuru,Karnataka,2026-02-26,Retail,2026-08-03 17:07:00
+C10187,Riya Gupta,riya.gupta187@example.in,9449962734,Warangal,Telangana,24/06/2025,Retail,2026-08-06 04:19:00
+C10531,Kabir Chavan,kabir.chavan531@example.in,+91 95215 73620,Kolhapur,Maharashtra,10/04/2025,Retail,2026-08-15 00:27:00
+C10669,Rohan Gupta,rohan.gupta669@example.in,+91 99200 40458,Mumbai,Maharashtra,2025-03-04,Retail,2026-08-18 13:33:00
+C10414,Sneha Shah,SNEHA.SHAH414@EXAMPLE.IN,9326833071,Surat,GUJARAT,29/01/2025,SMB,2026-08-12 00:18:00
+C10843,Ketan Iyer,ketan.iyer843@example.in,9228836285,Mangaluru,Karnataka,08/11/2025,Retail,2026-08-23 00:51:00
+C10203,Isha Rao,isha.rao203@example.in,9686738147,Coimbatore,Tamil Nadu,30-Sep-2024,Retail,2026-08-06 14:11:00
+C10776,Ganesh Verma,ganesh.verma776@example.in,9273862443,Ahmedabad,GJ,10-Dec-2024,Retail,2026-08-21 07:32:00
+C10500,Ganesh Desai,ganesh.desai500@example.in,9287889680,Vadodara,gujarat,2026-01-21,Enterprise,2026-08-14 05:20:00
+C10552,Ganesh Reddy,ganesh.reddy552@example.in,9007904240,Chennai,tamil nadu,2024-08-20,Retail,2026-08-15 13:24:00
+C10069,  rahul nair ,rahul.nair69@example.in,9306637893,Coimbatore,tamil nadu,08/07/2025,Retail,2026-08-03 03:33:00
+C10825,Rutuja Sharma,rutuja.sharma825@example.in,9724497034,Pune,Maharashtra,2024-10-27,SMB,2026-08-22 13:45:00
+C10034,Varun Menon,varun.menon34@example.in,9282870507,Bengaluru,karnataka,27/06/2024,SMB,2026-08-02 05:58:00
+C10719,Tanvi Pillai,tanvi.pillai719@example.in,+91 94714 28779,Pune,MAHARASHTRA,10-May-2025,Retail,2026-08-19 20:23:00
+C10980,Neha Reddy,neha.reddy980@example.in,9558776718,Pune,Maharashtra,07/09/2025,Retail,2026-08-26 13:20:00
+C10354,Varun Shah,varun.shah354@example,9930539812,Coimbatore,TN,2024-06-23,Retail,2026-08-10 11:18:00
+C10695,Pranav Reddy,pranav.reddy695@example.in,9563149250,Mangaluru,karnataka,27/01/2024,SMB,2026-08-19 05:35:00
+C10065,Deepa Reddy,deepa.reddy65@example.in,9912478246,Kolhapur,Maharashtra,10-Aug-2024,SMB,2026-08-03 01:05:00
+C10049,Yash Pawar,not available,9025408290,Pune,MAHARASHTRA,18/06/2026,Enterprise,2026-08-02 15:13:00
+C10277,Omkar Sharma,omkar.sharma277@example.in,9801189344,Mumbai,Maharashtra,08/06/2026,Retail,2026-08-08 11:49:00
+C10964,  kunal menon ,KUNAL.MENON964@EXAMPLE.IN,9099323358,Mysuru,Karnataka,09/01/2026,Enterprise,2026-08-26 03:28:00
+C10563,Rohan Patil,rohan.patil563@example.in,+91 93500 84301,Ahmedabad,gujarat,25-Feb-2025,SMB,2026-08-15 20:11:00
+C10978,Rahul Patil,rahul.patil978@example.in,9590137193,Vadodara,Gujarat,2026-02-23,Enterprise,2026-08-26 12:06:00
+C10839,Diya Sharma,DIYA.SHARMA839@EXAMPLE.IN,9869703827,Coimbatore,Tamil Nadu,02/10/2025,Retail,2026-08-22 22:23:00
+C10862,Meera Verma,meera.verma862@example.in,9116759193,Kolhapur,MH,01/04/2026,SMB,2026-08-23 12:34:00
+C10736,Sameer Shah,sameer.shah736@example.in,9104784844,Coimbatore,Tamil Nadu,07/05/2024,Retail,2026-08-20 06:52:00
+C10206,Gauri Kulkarni,gauri.kulkarni206@example.in,9667249801,Chennai,TAMIL NADU,2025-06-20,Retail,2026-08-06 16:02:00
+C10900,Amit Patil,amit.patil900@example.in,9747014054,New Delhi,delhi,2025-02-03,Retail,2026-08-24 12:00:00
+C10935,Siddharth Bhat,SIDDHARTH.BHAT935@EXAMPLE.IN,9247960604,Surat,Gujarat,19-May-2026,Enterprise,2026-08-25 09:35:00
+C10967,Rahul Kulkarni,RAHUL.KULKARNI967@EXAMPLE.IN,9513024380,Ahmedabad,gujarat,19/08/2024,SMB,2026-08-26 05:19:00
+C10876,Isha Iyer,isha.iyer876@example.in,9145136488,Mysuru,Karnataka,06/12/2025,Retail,2026-08-23 21:12:00
+C10404,Isha Mehta,isha.mehta404@example.in,9501542646,Surat,Gujarat,2025-04-02,Retail,2026-08-11 18:08:00
+C10539,  omkar patil ,omkar.patil539@example.in,9387504413,New Delhi,DL,2024-07-28,Enterprise,2026-08-15 05:23:00
+C10595,  ganesh iyer ,ganesh.iyer595@example.in,9841350691,Coimbatore,tamil nadu,21/11/2024,Retail,2026-08-16 15:55:00
+C10644,Amit Pawar,amit.pawar644@example.in,9216350315,Nagpur,maharashtra,2025-05-31,Retail,2026-08-17 22:08:00
+C10993,Aditya Iyer,aditya.iyer993@example.in,9381263144,Nagpur,MAHARASHTRA,2025-09-03,Retail,2026-08-26 21:21:00
+C10490,Nisha Joshi,nisha.joshi490@example.in,9334061584,NAGPUR ,MH,2024-07-25,SMB,2026-08-13 23:10:00
+C10426,Lakshmi Menon,lakshmi.menon426@example.in,9693215563,CHENNAI ,Tamil Nadu,15-Apr-2026,Retail,2026-08-12 07:42:00
+C10797,Pooja Pawar,pooja.pawar797@example.in,9591055441,Mumbai,Maharashtra,02-Apr-2026,Retail,2026-08-21 20:29:00
+C10234,Anjali Sharma,anjali.sharma234@example.in,+91 90985 46524,Chennai,tamil nadu,11-Dec-2025,Retail,2026-08-07 09:18:00
+C10586,Meera Pillai,meera.pillai586@example.in,9456067425,Hyderabad,telangana,15/09/2024,Retail,2026-08-16 10:22:00
+C10285,Sahil Joshi,sahil.joshi285@example,9310193545,Nashik,Maharashtra,2024-08-04,SMB,2026-08-08 16:45:00
+C10801,Lakshmi Patil,lakshmi.patil801@example.in,9615034731,Bengaluru,KA,09/03/2024,Enterprise,2026-08-21 22:57:00
+C10094,Arjun Patil,arjun.patil94@example.in,9198919457,Chennai,TAMIL NADU,15-Feb-2024,Enterprise,2026-08-03 18:58:00
+C10543,  lakshmi bhat ,lakshmi.bhat543@example.in,9783368561,Nashik,Maharashtra,2025-07-18,Retail,2026-08-15 07:51:00
+C10289,  komal mehta ,komal.mehta289@example.in,9049493306,New Delhi,DELHI,09/02/2025,Enterprise,2026-08-08 19:13:00
+C10528,Aditya Desai,aditya.desai528@example.in,9649420685,Warangal,telangana,11/07/2024,SMB,2026-08-14 22:36:00
+ ,Walk-in Customer 1,,9930539812,Coimbatore,TN,2024-06-23,Retail,2026-08-10 11:18:00
+C10775,  amit joshi ,amit.joshi775@example.in,9325713227,Chennai,Tamil Nadu,2024-12-04,Retail,2026-08-21 06:55:00
+C10148,Sameer Jadhav,sameer.jadhav148@example.in,9703921774,Nagpur,Maharashtra,2025-10-23,Retail,2026-10-17 12:35:00
+C10857,Manish Joshi,manish.joshi857@example.in,9550666317,Mangaluru,Karnataka,19-Sep-2025,Retail,2026-08-23 09:29:00
+C10427,Anjali Gupta,anjali.gupta427@example.in,9190964,Vadodara,GUJARAT,2024-12-25,SMB,2026-08-12 08:19:00
+C10245,Komal Kulkarni,komal.kulkarni245@example.in,9486380460,Mangaluru,KA,2025-01-17,Retail,2026-08-07 16:05:00
+  ,Walk-in Customer 5,,9904521971,Vadodara,Gujarat,14-Jul-2025,SMB,2026-08-01 10:14:00
+C10920,Kiran Shah,kiran.shah920@example.in,9243653899,Surat,GUJARAT,16/02/2025,Enterprise,2026-08-25 00:20:00
+C10941,Nisha Nair,nisha.nair941@example.in,9780542570,Surat,GJ,18-Mar-2026,SMB,2026-08-25 13:17:00
+C10601,Sakshi Verma,sakshi.verma601@example.in,9351640910,Kolhapur,Maharashtra,15-Dec-2024,Retail,2026-08-16 19:37:00
+C10811,  swati joshi ,swati.joshi811@example.in,9041314915,Nashik,Maharashtra,2024-10-22,SMB,2026-08-22 05:07:00
+,Walk-in Customer 10,,9286037737,Nagpur,maharashtra,03/04/2026,Retail,2026-08-07 13:00:00
+C10105,Komal Desai,KOMAL.DESAI105@EXAMPLE.IN,9420909020,Madurai,tamil nadu,28-Oct-2025,SMB,2026-08-04 01:45:00
+C10471,Sameer Mehta,sameer.mehta471@example.in,9105069107,Mangaluru,Karnataka,01/05/2025,Enterprise,2026-08-13 11:27:00
+C10048,Swati Reddy,swati.reddy48@example.in,+91 99918 49711,Ahmedabad,Gujarat,28/11/2025,SMB,2026-08-02 14:36:00
+C10546,  rohan chavan ,rohan.chavan546@example.in,9782654822,Madurai,TN,2024-09-24,SMB,2026-08-15 09:42:00
+C10325,Harsh Sharma,harsh.sharma325@example.in,9680684567,Vadodara,gujarat,08-May-2026,Retail,2026-08-09 17:25:00
+C10318,Anjali Iyer,anjali.iyer318@example.in,9826480830,Mangaluru,Karnataka,2024-07-12,Retail,2026-08-09 13:06:00
+C10939,Manish Jadhav,manish.jadhav939@example.in,9368821189,Vadodara,Gujarat,2025-11-09,SMB,2026-08-25 12:03:00
+C10562,Divya Singh,divya.singh562@example.in,9629032159,Mumbai,Maharashtra,15/05/2025,Retail,2026-08-15 19:34:00
+C10107,Arun Desai,arun.desai107@example.in,9860983122,Nagpur,Maharashtra,03-Mar-2024,Retail,2026-08-04 02:59:00
+C10523,Rohan Kulkarni,rohan.kulkarni523@example.in,9931072934,Chennai,Tamil Nadu,01-Mar-2025,Retail,2026-08-14 19:31:00
+C10174,Gauri Bhat,gauri.bhat174@example.in,9585562624,Mysuru,karnataka,2024-02-01,Retail,2026-08-05 20:18:00
+C10819,  ganesh kulkarni ,ganesh.kulkarni819@example.in,9511183501,Nagpur,maharashtra,2025-02-04,Retail,2026-08-22 10:03:00
+C10436,Riya Pawar,riya.pawar436@example.in,9479158415,Kolhapur,MH,2024-09-16,SMB,2026-08-12 13:52:00
+C10932,Aarav Mehta,aarav.mehta932@example.in,9910280995,Mysuru,KA,2024-10-28,Retail,2026-08-25 07:44:00
+C10886,Priya Desai,priya.desai886@example.in,9859579447,Hyderabad,TS,11/07/2025,Retail,2026-08-24 03:22:00
+C10641,Kunal Pawar,kunal.pawar641@example.in,9576132168,Mumbai,MH,2025-06-14,SMB,2026-08-17 20:17:00
+C10177,  kabir jadhav ,kabir.jadhav177@example.in,9444392858,NAGPUR ,MAHARASHTRA,2025-10-04,Enterprise,2026-08-05 22:09:00
+C10962,  nikhil kulkarni ,nikhil.kulkarni962@example.in,9287568668,Mumbai,MAHARASHTRA,N/A,Retail,2026-08-26 02:14:00
+C10588,Nisha Iyer,nisha.iyer588@example.in,9415582794,New Delhi,Delhi,2026-05-07,Retail,2026-08-16 11:36:00
+C10800,Sakshi Shah,sakshi.shah800@example.in,9379090682,Bengaluru,Karnataka,01-Oct-2025,SMB,2026-08-21 22:20:00
+C10788,Swati Rao,swati.rao788@example.in,9328094597,Nashik,MAHARASHTRA,17/12/2025,SMB,2026-08-21 14:56:00
+C10429,  gauri jadhav ,GAURI.JADHAV429@EXAMPLE.IN,9808065280,Nashik,MAHARASHTRA,13/11/2024,Retail,2026-08-12 09:33:00
+C10307,Nisha Singh,nisha.singh307@example.in,9024048525,Hyderabad,TELANGANA,2025-11-16,Retail,2026-08-09 06:19:00
+C10299,Shruti Menon,shruti.menon299@example.in,9889866351,CHENNAI ,tamil nadu,13-Feb-2025,Retail,2026-08-09 01:23:00
+C10796,Lakshmi Verma,lakshmi.verma796@example.in,+91 98653 02914,Bengaluru,KA,06-Apr-2026,Retail,2026-08-21 19:52:00
+C10761,  riya reddy ,riya.reddy761@example.in,9487489606,Madurai,Tamil Nadu,24/10/2025,Retail,2026-08-20 22:17:00
+C10643,Divya Gupta,divya.gupta643@example.in,9123247290,Madurai,tamil nadu,12/08/2025,SMB,2026-08-17 21:31:00
+  ,Walk-in Customer 6,,9488755444,Nagpur,maharashtra,01-May-2024,Enterprise,2026-08-08 02:34:00
+C10079,Rutuja Jadhav,rutuja.jadhav79@example.in,9336813925,Madurai,TAMIL NADU,2025-02-16,Retail,2026-08-03 09:43:00
+C10082,Tanvi Jadhav,,9903210259,Surat,Gujarat,29/09/2024,Retail,2026-10-17 09:31:00
+C10268,Varun Sharma,varun.sharma268@example.in,9631311671,Nashik,Maharashtra,17-Jun-2025,SMB,2026-08-08 06:16:00
+C10248,Shruti Gupta,shruti.gupta248@example.in,9005387473,AHMEDABAD ,GJ,2024-03-23,Retail,2026-08-07 17:56:00
+C10141,Ganesh Chavan,ganesh.chavan141@example.in,9204014561,Warangal,TS,29-May-2026,Enterprise,2026-08-04 23:57:00
+C10495,Lakshmi Reddy,lakshmi.reddy495@example.in,9649470307,AHMEDABAD ,Gujarat,2025-05-24,Retail,2026-08-14 02:15:00
+C10284,Aditya Patil,ADITYA.PATIL284@EXAMPLE.IN,9292518307,Ahmedabad,GJ,27-Mar-2024,Retail,2026-08-08 16:08:00
+C10652,Aarav Chavan,AARAV.CHAVAN652@EXAMPLE.IN,9274428075,MYSURU ,Karnataka,28/03/2025,SMB,2026-08-18 03:04:00
+C10853,Siddharth Sharma,not available,9007220351,Nashik,MAHARASHTRA,07-Mar-2024,Enterprise,2026-08-23 07:01:00
+C10923,  amit verma ,amit.verma923@example.in,9146781205,Hyderabad,TS,23/04/2026,Retail,2026-08-25 02:11:00
+C10327,Omkar Reddy,omkar.reddy327@example.in,9000809329,Vadodara,Gujarat,2024-04-29,SMB,2026-10-17 14:19:00
+C10744,Lakshmi Shah,lakshmi.shah744@example.in,9437357289,Nagpur,Maharashtra,24/09/2024,Retail,2026-08-20 11:48:00
+C10936,Aarav Nair,aarav.nair936@example.in,9534804245,Nagpur,MH,27-May-2025,Retail,2026-08-25 10:12:00
+C10520,Pranav Kulkarni,pranav.kulkarni520@example.in,9592009574,Warangal,TELANGANA,2024-11-14,Retail,2026-08-14 17:40:00
+C10124,  meera chavan ,MEERA.CHAVAN124@EXAMPLE.IN,9886859932,New Delhi,Delhi,13-Jul-2025,Retail,2026-10-15 20:44:00
+C10195,Rohan Singh,rohan.singh195@example.in,9584859734,Kolhapur,maharashtra,2025-07-07,Retail,2026-08-06 09:15:00
+C10888,Lakshmi Bhat,lakshmi.bhat888@example.in,9268552808,Nashik,MAHARASHTRA,06/08/2024,Retail,2026-08-24 04:36:00
+C10527,Akash Bhat,akash.bhat527@example.in,9399242364,CHENNAI ,TAMIL NADU,25/06/2025,Enterprise,2026-08-14 21:59:00
+C10072,Ananya Nair,ananya.nair72@example.in,9716940355,Kolhapur,MH,11-Jun-2025,Enterprise,2026-08-03 05:24:00
+C10463,Rahul Kulkarni,rahul.kulkarni463@example.in,+91 99183 88797,New Delhi,DELHI,2026-04-07,Retail,2026-08-13 06:31:00
+C10410,Ananya Rao,ANANYA.RAO410@EXAMPLE.IN,+91 97268 06149,Kolhapur,maharashtra,29-Jul-2025,Retail,2026-08-11 21:50:00
+C10768,Arun Bhat,arun.bhat768@example.in,9152990423,Mangaluru,Karnataka,29/10/2024,Enterprise,2026-08-21 02:36:00
+C10659,Rohan Desai,rohan.desai659@example.in,9344444687,Hyderabad,Telangana,23/03/2024,SMB,2026-08-18 07:23:00
+C10590,Sameer Rao,sameer.rao590@example.in,9696324850,Kolhapur,Maharashtra,31-Jan-2024,Retail,2026-08-16 12:50:00
+,Walk-in Customer 2,,9941462530,Mysuru,Karnataka,23/05/2024,SMB,2026-08-14 23:13:00
+C10618,Aarav Reddy,,9894679271,Mysuru,Karnataka,2026-02-02,Retail,2026-08-17 06:06:00
+C10357,Manish Mehta,manish.mehta357@example.in,9554984203,Mumbai,MAHARASHTRA,22-Jan-2025,SMB,2026-08-10 13:09:00
+C10726,  riya pillai ,riya.pillai726@example.in,9473840892,Bengaluru,Karnataka,06/03/2024,SMB,2026-08-20 00:42:00
+C10296,  anjali patil ,anjali.patil296@example.in,9458638746,Vadodara,GJ,11/12/2024,Enterprise,2026-08-08 23:32:00
+C10503,Tanvi Singh,tanvi.singh503example.in,9876694311,Surat,gujarat,13/12/2025,Enterprise,2026-08-14 07:11:00
+C10300,Rohan Gupta,rohan.gupta300example.in,9336486930,New Delhi,Delhi,28/01/2024,SMB,2026-08-09 02:00:00
+C10519,Nikhil Gupta,nikhil.gupta519@example.in,9644497905,Vadodara,Gujarat,10-Nov-2025,SMB,2026-08-14 17:03:00
+C10466,Sakshi Verma,sakshi.verma466@example.in,9141534543,Mangaluru,Karnataka,14/07/2025,Retail,2026-08-13 08:22:00
+C10359,Mrunal Pawar,MRUNAL.PAWAR359@EXAMPLE.IN,9441667209,Madurai,TAMIL NADU,13/12/2024,Retail,2026-08-10 14:23:00
+C10804,Mrunal Sharma,mrunal.sharma804@example.in,9299218222,Bengaluru,karnataka,22-Nov-2024,SMB,2026-08-22 00:48:00
+C10413,Nikhil Iyer,nikhil.iyer413@example.in,9030735983,New Delhi,delhi,25/05/2025,Retail,2026-08-11 23:41:00
+C10064,Meera Menon,meera.menon64@example.in,9284557547,AHMEDABAD ,Gujarat,2026-01-18,Enterprise,2026-08-03 00:28:00
+C10703,Ananya Verma,ananya.verma703@example.in,9343387165,Mysuru,Karnataka,2026-06-17,SMB,2026-08-19 10:31:00
+C10532,Meera Rao,meera.rao532@example.in,9950729777,Bengaluru,KA,03/10/2024,Enterprise,2026-08-15 01:04:00
+C10479,Komal Desai,komal.desai479@example.in,9114813587,Madurai,tamil nadu,05-Feb-2024,Retail,2026-08-13 16:23:00
+C10756,Pooja Gupta,pooja.gupta756@example.in,9465882929,Warangal,TELANGANA,24/02/2026,SMB,2026-08-20 19:12:00
+C10656,Riya Nair,riya.nair656@example.in,9967810,Coimbatore,Tamil Nadu,16-Aug-2025,Enterprise,2026-08-18 05:32:00
+C10911,  deepa bhat ,DEEPA.BHAT911@EXAMPLE.IN,9924949957,Kolhapur,Maharashtra,06-Apr-2026,Retail,2026-08-24 18:47:00
+C10279,Kabir Pillai,kabir.pillai279@example.in,9818670712,Mumbai,MH,22/06/2024,Retail,2026-08-08 13:03:00
+C10171,Nikhil Patil,nikhil.patil171@example.in,9415978949,Vadodara,Gujarat,15-Mar-2025,Retail,2026-08-05 18:27:00
+C10095,Sameer Gupta,sameer.gupta95@example.in,9373031,Hyderabad,telangana,17/12/2024,SMB,2026-08-03 19:35:00
+C10423,  sameer gupta ,sameer.gupta423@example.in,9575094170,New Delhi,Delhi,2025-05-02,Retail,2026-10-17 08:32:00
+C10110,Ananya Rao,ananya.rao110@example.in,9322818521,Hyderabad,Telangana,2024-01-30,SMB,2026-08-04 04:50:00
+C10884,Neha Iyer,neha.iyer884@example.in,9263447256,Surat,GJ,30-May-2024,Enterprise,2026-08-24 02:08:00
+C10803,Neha Shah,neha.shah803@example.in,9872360385,Madurai,Tamil Nadu,20/10/2024,Retail,2026-08-22 00:11:00
+C10188,Rutuja Singh,not available,+91 93115 32423,Chennai,Tamil Nadu,16/04/2025,Enterprise,2026-08-06 04:56:00
+C10504,Swati Pillai,,9607181933,Ahmedabad,GJ,15/04/2025,SMB,2026-08-14 07:48:00
+C10455,Rohan Pawar,rohan.pawar455@example.in,+91 97533 59760,Pune,Maharashtra,07-Jun-2026,SMB,2026-08-13 01:35:00
+C10899,Yash Pillai,YASH.PILLAI899@EXAMPLE.IN,9595399,Mumbai,Maharashtra,2024-05-11,SMB,2026-08-24 11:23:00
+C10066,Riya Verma,riya.verma66@example.in,9578726398,Coimbatore,Tamil Nadu,24-Jan-2025,Retail,2026-10-16 04:43:00
+C10571,Harsh Singh,harsh.singh571@example.in,9861439064,Warangal,Telangana,2024-09-29,SMB,2026-08-16 01:07:00
+C10613,Pranav Joshi,pranav.joshi613@example.in,9619615119,Coimbatore,tamil nadu,13-Jan-2026,Enterprise,2026-08-17 03:01:00
+C10446,Mrunal Patil,mrunal.patil446@example.in,+91 97821 57293,NEW DELHI ,Delhi,01/06/2025,Retail,2026-08-12 20:02:00
+C10211,Rutuja Pawar,rutuja.pawar211@example.in,9208504003,Nagpur,Maharashtra,02-Jun-2024,Retail,2026-08-06 19:07:00
+C10067,Amit Nair,amit.nair67@example.in,9152355731,Warangal,TS,28-Mar-2024,SMB,2026-08-03 02:19:00
+C10732,Komal Sharma,komal.sharma732@example.in,9380547,COIMBATORE ,Tamil Nadu,26/12/2024,SMB,2026-08-20 04:24:00
+C10181,Manish Pillai,manish.pillai181@example.in,9377470999,Pune,MAHARASHTRA,01-May-2025,Retail,2026-08-06 00:37:00
+C10916,Arjun Chavan,arjun.chavan916@example.in,9821889386,Mysuru,Karnataka,2024-07-29,Retail,2026-08-24 21:52:00
+C10167,  aditya rao ,aditya.rao167@example.in,9683292575,Nagpur,MAHARASHTRA,19/01/2025,Enterprise,2026-08-05 15:59:00
+C10478,Ananya Reddy,ananya.reddy478@example.in,9121043464,Nashik,MH,08/03/2026,SMB,2026-08-13 15:46:00
+C10311,Tanvi Joshi,tanvi.joshi311@example.in,9501441571,MYSURU ,KA,17/05/2026,Retail,2026-08-09 08:47:00
+C10313,Gauri Pillai,gauri.pillai313@example.in,9169956470,New Delhi,DELHI,2025-09-02,Retail,2026-08-09 10:01:00
+C10179,  pranav gupta ,pranav.gupta179@example.in,9917853468,Nagpur,MAHARASHTRA,2025-04-22,SMB,2026-08-05 23:23:00
+C10567,  anjali shah ,anjali.shah567@example.in,9064526486,Surat,GJ,04-Oct-2024,Enterprise,2026-08-15 22:39:00
+C10576,Omkar Joshi,OMKAR.JOSHI576@EXAMPLE.IN,9983359830,Kolhapur,Maharashtra,30-Mar-2024,Enterprise,2026-08-16 04:12:00
+C10820,Siddharth Desai,siddharth.desai820@example.in,+91 93779 36126,Mumbai,Maharashtra,2024-01-26,SMB,2026-08-22 10:40:00
+C10866,Tanvi Patil,tanvi.patil866@example.in,9392355928,Chennai,Tamil Nadu,2026-01-30,SMB,2026-08-23 15:02:00
+C10428,Swati Nair,swati.nair428@example.in,9346460094,Ahmedabad,gujarat,06-Oct-2025,Enterprise,2026-08-12 08:56:00
+C10395,Yash Pillai,yash.pillai395@example.in,9375763948,Chennai,tamil nadu,2025-11-08,SMB,2026-08-11 12:35:00
+C10529,Sameer Singh,not available,9941462530,Mysuru,Karnataka,23/05/2024,SMB,2026-08-14 23:13:00
+C10554,Ketan Menon,ketan.menon554@example.in,9293965435,Kolhapur,maharashtra,2025-13-40,SMB,2026-08-15 14:38:00
+C10901,Pallavi Rao,pallavi.rao901@example.in,9974124244,Mangaluru,Karnataka,17/03/2025,Retail,2026-08-24 12:37:00
+C10290,Aarav Pawar,aarav.pawar290@example.in,9905266466,Coimbatore,Tamil Nadu,20/10/2024,SMB,2026-08-08 19:50:00
+C10733,Priya Bhat,priya.bhat733@example.in,9014154530,Nagpur,MH,2025-07-11,Enterprise,2026-08-20 05:01:00
+C10055,Akash Patil,,9158573823,Surat,gujarat,2026-03-16,Retail,2026-08-02 18:55:00
+C10280,  priya pawar ,priya.pawar280@example.in,9594736,Mumbai,MAHARASHTRA,12/12/2024,Retail,2026-08-08 13:40:00
+C10153,Deepa Verma,deepa.verma153@example.in,9124104665,Kolhapur,maharashtra,31/08/2024,Retail,2026-08-05 07:21:00
+C10153,Deepa Verma,deepa.verma153@example.in,9124104665,Kolhapur,maharashtra,31/08/2024,Retail,2026-08-05 07:21:00
+C10103,Ketan Reddy,ketan.reddy103@example.in,9258659374,Mysuru,KA,2025-04-19,SMB,2026-08-04 00:31:00
+C10204,Sahil Shah,sahil.shah204@example.in,9616472975,Pune,MH,09/04/2025,SMB,2026-08-06 14:48:00
+C10238,Nikhil Joshi,nikhil.joshi238@example.in,9304196186,Chennai,TN,2025-11-26,SMB,2026-08-07 11:46:00
+C10683,Arun Sharma,arun.sharma683@example.in,9613864438,Mumbai,maharashtra,22/09/2024,Retail,2026-08-18 22:11:00
+C10572,Rohan Gupta,rohan.gupta572@example.in,9627697258,Bengaluru,KARNATAKA,2024-03-26,SMB,2026-08-16 01:44:00
+C10405,Harsh Joshi,harsh.joshi405@example.in,9529980491,Chennai,tamil nadu,11/06/2024,Retail,2026-08-11 18:45:00
+C10504,Swati Pillai,,9607181933,Ahmedabad,GJ,15/04/2025,SMB,2026-08-14 07:48:00
+C10006,Deepa Bhat,DEEPA.BHAT6@EXAMPLE.IN,9598557955,Mumbai,maharashtra,01-Apr-2024,Retail,2026-08-01 12:42:00
+C10431,Pooja Shah,pooja.shah431@example.in,9640944367,Surat,Gujarat,29/03/2025,Retail,2026-08-12 10:47:00
+C10869,Ananya Sharma,ananya.sharma869@example.in,9826302168,NAGPUR ,Maharashtra,2024-10-15,Retail,2026-08-23 16:53:00
+C10856,Kunal Chavan,kunal.chavan856@example.in,9228007,Pune,maharashtra,21-Jul-2024,SMB,2026-08-23 08:52:00
+C10896,Isha Nair,isha.nair896@example.in,9967723180,Kolhapur,Maharashtra,2024-11-03,SMB,2026-08-24 09:32:00
+C10247,Ganesh Reddy,ganesh.reddy247@example.in,9083338713,Vadodara,GUJARAT,2026-05-24,Retail,2026-08-07 17:19:00
+C10379,  suresh kulkarni ,suresh.kulkarni379@example.in,9311346252,Warangal,TS,14-Oct-2025,SMB,2026-08-11 02:43:00
+C10298,Aditya Shah,aditya.shah298@example.in,9010905116,HYDERABAD ,TELANGANA,21-Apr-2024,SMB,2026-08-09 00:46:00
+C10411,Nisha Bhat,nisha.bhat411@example.in,9618703152,AHMEDABAD ,Gujarat,2026-03-09,SMB,2026-08-11 22:27:00
+C10179,  pranav gupta ,pranav.gupta179@example.in,9917853468,Nagpur,MAHARASHTRA,2025-04-22,SMB,2026-08-05 23:23:00
+C10021,Aarav Chavan,aarav.chavan21@example.in,9213450963,Mumbai,Maharashtra,2026-03-23,Retail,2026-08-01 21:57:00
+C10444,Komal Verma,komal.verma444@example.in,+91 97091 24429,Nashik,MAHARASHTRA,2024-06-21,SMB,2026-08-12 18:48:00
+C10785,Lakshmi Desai,lakshmi.desai785@example.in,+91 90329 77483,CHENNAI ,TAMIL NADU,13/10/2024,Retail,2026-08-21 13:05:00
+C10912,Pooja Jadhav,POOJA.JADHAV912@EXAMPLE.IN,9732569209,Nashik,MH,2025-05-07,Enterprise,2026-08-24 19:24:00
+C10955,Neha Patil,NEHA.PATIL955@EXAMPLE.IN,9788542772,Mangaluru,karnataka,2026-05-07,Retail,2026-08-25 21:55:00
+C10024,Vivaan Singh,vivaan.singh24@example.in,9448586715,Warangal,telangana,27-Mar-2024,Retail,2026-08-01 23:48:00
+C10145,  priya pillai ,priya.pillai145@example.in,9245130416,Pune,Maharashtra,26-Dec-2024,SMB,2026-08-05 02:25:00
+C10806,Aditya Reddy,aditya.reddy806@example.in,9784424694,Chennai,TAMIL NADU,15/12/2024,Retail,2026-08-22 02:02:00
+,Walk-in Customer 15,,+91 95676 41563,NASHIK ,MH,04/12/2024,Enterprise,2026-08-21 05:04:00
+C10458,Vivaan Kulkarni,vivaan.kulkarni458@example.in,9777342781,NAGPUR ,MH,2025-09-18,Retail,2026-08-13 03:26:00
+C10998,Sneha Gupta,sneha.gupta998@example.in,9279116847,Mysuru,karnataka,2025-02-15,Retail,2026-08-27 00:26:00
+C10844,Neha Rao,neha.rao844@example.in,9389533401,Coimbatore,Tamil Nadu,22-Jan-2025,SMB,2026-08-23 01:28:00
+C10937,Anjali Sharma,anjali.sharma937@example.in,9921864794,Mumbai,Maharashtra,21/02/2026,SMB,2026-08-25 10:49:00
+C10907,Kunal Reddy,kunal.reddy907@example.in,9337746653,Mumbai,MH,13/10/2024,Retail,2026-08-24 16:19:00
+C10376,Manish Joshi,manish.joshi376@example.in,9239234015,Surat,Gujarat,31/02/2025,Retail,2026-10-16 04:50:00
+C10281,Sahil Mehta,sahil.mehta281@example.in,9829248006,Vadodara,Gujarat,2024-01-17,Retail,2026-08-08 14:17:00
+C10267,Nikhil Chavan,nikhil.chavan267@example.in,9750781063,Kolhapur,Maharashtra,10/10/2025,Retail,2026-08-08 05:39:00
+C10073,Kiran Patil,kiran.patil73@example.in,9324966,AHMEDABAD ,GJ,2025-01-11,SMB,2026-08-03 06:01:00
+C10834,Vivaan Pawar,vivaan.pawar834@example.in,9725498493,Kolhapur,MH,2026-02-18,Retail,2026-08-22 19:18:00
+C10689,Sakshi Menon,sakshi.menon689@example.in,9357463992,Mangaluru,Karnataka,24-Sep-2024,Retail,2026-08-19 01:53:00
+C10897,Pranav Desai,pranav.desai897@example.in,9113796902,NAGPUR ,maharashtra,30-May-2026,Retail,2026-08-24 10:09:00
+C10784,Kiran Kulkarni,kiran.kulkarni784@example.in,9487061033,HYDERABAD ,telangana,23-Mar-2025,Retail,2026-08-21 12:28:00
+C10771,Amit Reddy,amit.reddy771@example.in,9341691609,Kolhapur,Maharashtra,20-Aug-2025,SMB,2026-08-21 04:27:00
+C10984,Siddharth Mehta,siddharth.mehta984@example.in,9707117874,Ahmedabad,GJ,24/09/2024,Retail,2026-08-26 15:48:00
+C10740,Arjun Chavan,arjun.chavan740@example.in,9728471949,Vadodara,GUJARAT,22/04/2025,Retail,2026-08-20 09:20:00
+C10802,  mrunal joshi ,mrunal.joshi802@example.in,9199054,Vadodara,Gujarat,09/01/2026,Retail,2026-08-21 23:34:00
+C10051,Diya Mehta,diya.mehta51@example.in,9060285397,Madurai,Tamil Nadu,28-Jul-2025,Retail,2026-08-02 16:27:00
+C10083,Ananya Mehta,ananya.mehta83@example.in,9154044219,Chennai,Tamil Nadu,05-Dec-2024,Retail,2026-08-03 12:11:00
+C10915,Shruti Reddy,shruti.reddy915@example.in,9477977163,Mangaluru,Karnataka,27/02/2024,Retail,2026-08-24 21:15:00
+C10066,Riya Verma,riya.verma66@example.in,9578726398,Pune,MAHARASHTRA,24-Jan-2025,Enterprise,2026-08-03 01:42:00
+C10773,  harsh sharma ,,9386502865,Ahmedabad,Gujarat,2024-06-01,SMB,2026-08-21 05:41:00
+C10660,Nisha Pawar,NISHA.PAWAR660@EXAMPLE.IN,9097267878,Pune,maharashtra,2024-06-19,Retail,2026-08-18 08:00:00
+C10418,Harsh Shah,harsh.shah418@example.in,9722079098,Pune,Maharashtra,22-Mar-2025,Retail,2026-08-12 02:46:00
+C10480,  harsh chavan ,harsh.chavan480@example.in,9454438335,Bengaluru,KA,2026-06-13,Retail,2026-08-13 17:00:00
+C10273,Vivaan Reddy,VIVAAN.REDDY273@EXAMPLE.IN,9100730658,SURAT ,GJ,2024-06-28,SMB,2026-08-08 09:21:00
+C10416,Amit Reddy,amit.reddy416@example.in,9463845973,New Delhi,DELHI,25-Dec-2025,Retail,2026-08-12 01:32:00
+C10974,Nisha Nair,nisha.nair974@example,9623622459,Mangaluru,KA,2025-01-02,SMB,2026-08-26 09:38:00
+C10396,Kunal Jadhav,KUNAL.JADHAV396@EXAMPLE.IN,9204248030,AHMEDABAD ,Gujarat,12-Oct-2025,SMB,2026-08-11 13:12:00
+C10506,Vivaan Jadhav,vivaan.jadhav506@example.in,9392321743,Hyderabad,telangana,26-Mar-2026,Retail,2026-08-14 09:02:00
+C10675,Ketan Chavan,KETAN.CHAVAN675@EXAMPLE.IN,9198704,Warangal,Telangana,2024-10-29,Retail,2026-08-18 17:15:00
+C10593,Siddharth Menon,siddharth.menon593@example.in,+91 91013 88814,Nagpur,maharashtra,2024-09-12,Retail,2026-08-16 14:41:00
+C10913,Priya Pawar,priya.pawar913@example.in,9513116030,Mumbai,MAHARASHTRA,08-May-2025,SMB,2026-08-24 20:01:00
+C10182,Isha Rao,,9073752656,Bengaluru,KARNATAKA,17/10/2025,Enterprise,2026-08-06 01:14:00
+C10457,Akash Iyer,akash.iyer457@example.in,9541942088,Pune,MH,2024-01-14,Retail,2026-08-13 02:49:00
+C10355,  pooja bhat ,pooja.bhat355@example.in,9137780213,CHENNAI ,Tamil Nadu,11-Dec-2024,Retail,2026-08-10 11:55:00
+C10718,Pranav Pillai,pranav.pillai718@example.in,9554722759,Surat,gujarat,18-Mar-2025,Retail,2026-08-19 19:46:00
+C10680,Tanvi Reddy,tanvi.reddy680@example.in,9522192872,MUMBAI ,Maharashtra,15/08/2025,Retail,2026-08-18 20:20:00
+C10731,Gauri Joshi,gauri.joshi731@example.in,9726887259,Nashik,MH,18/07/2024,Retail,2026-08-20 03:47:00
+C10321,Yash Nair,yash.nair321@example.in,9532433998,Madurai,TAMIL NADU,24-Nov-2024,SMB,2026-08-09 14:57:00
+C10302,Sakshi Shah,sakshi.shah302@example.in,+91 93800 21627,Warangal,Telangana,2025-01-25,SMB,2026-08-09 03:14:00
+C10150,Nisha Gupta,nisha.gupta150@example.in,9857810590,Hyderabad,Telangana,04/12/2025,Retail,2026-08-05 05:30:00
+C10657,Kiran Pillai,kiran.pillai657@example.in,9202258012,Mangaluru,Karnataka,25/07/2025,SMB,2026-08-18 06:09:00
+C10954,  sahil gupta ,sahil.gupta954@example.in,9482862356,Warangal,Telangana,2026-03-15,SMB,2026-08-25 21:18:00
+C10001,Sneha Jadhav,SNEHA.JADHAV1@EXAMPLE.IN,+91 99234 18596,Warangal,Telangana,2025-10-24,Retail,2026-08-01 09:37:00
+C10714,Diya Pillai,diya.pillai714@example.in,9592850480,Chennai,TN,31-Mar-2025,SMB,2026-08-19 17:18:00
+C10295,Amit Pawar,amit.pawar295@example.in,9616881860,Madurai,TN,18/10/2024,Retail,2026-08-08 22:55:00
+C10128,Shruti Iyer,shruti.iyer128@example.in,9273748579,Bengaluru,Karnataka,2026-05-31,Retail,2026-08-04 15:56:00
+C10748,Priya Joshi,priya.joshi748@example.in,9115190779,Madurai,tamil nadu,09-Apr-2025,Retail,2026-08-20 14:16:00
+C10777,Isha Gupta,ISHA.GUPTA777@EXAMPLE.IN,9837228402,Mysuru,KA,11-Jan-2026,Retail,2026-08-21 08:09:00
+C10066,Riya Verma,riya.verma66@example.in,9578726398,Pune,MAHARASHTRA,24-Jan-2025,Enterprise,2026-08-03 01:42:00
+C10664,Nisha Kulkarni,nisha.kulkarni664@example.in,9013470250,Ahmedabad,GJ,14-Nov-2024,SMB,2026-08-18 10:28:00
+C10138,Arjun Rao,arjun.rao138@example.in,9211144170,Surat,GJ,2024-09-07,Retail,2026-08-04 22:06:00
+C10017,Anjali Bhat,anjali.bhat17@example.in,9712854559,Hyderabad,TELANGANA,2025-07-25,Retail,2026-08-01 19:29:00
+C10815,  shruti jadhav ,shruti.jadhav815@example.in,9345853722,Chennai,TN,02/12/2025,Retail,2026-08-22 07:35:00
+C10205,Manish Desai,manish.desai205@example.in,9838508174,Kolhapur,maharashtra,2026-03-07,Retail,2026-08-06 15:25:00
+C10513,Rutuja Patil,rutuja.patil513@example.in,9463042289,WARANGAL ,telangana,30-May-2026,Enterprise,2026-08-14 13:21:00
+C10266,Ketan Desai,ketan.desai266@example.in,9433231875,Kolhapur,maharashtra,unknown,SMB,2026-08-08 05:02:00
+C10890,Isha Iyer,isha.iyer890@example.in,+91 92526 96233,Chennai,Tamil Nadu,10-Feb-2024,Retail,2026-08-24 05:50:00
+C10650,Riya Desai,riya.desai650@example.in,9271903080,AHMEDABAD ,GUJARAT,15-Apr-2026,Retail,2026-08-18 01:50:00
+C10027,Pranav Pawar,pranav.pawar27@example.in,9511127328,Kolhapur,MH,06/06/2025,Enterprise,2026-08-02 01:39:00
+C10222,Lakshmi Pillai,lakshmi.pillai222@example.in,9671470976,Hyderabad,TELANGANA,04-Mar-2024,Retail,2026-08-07 01:54:00
+C10329,Rutuja Kulkarni,rutuja.kulkarni329@example.in,9970129339,New Delhi,Delhi,2026-01-16,SMB,2026-08-09 19:53:00
+C10837,  nikhil pillai ,nikhil.pillai837@example.in,9422734839,Chennai,Tamil Nadu,2024-01-25,Retail,2026-10-16 14:08:00
+C10959,Aarav Pillai,aarav.pillai959@example.in,9663811164,Coimbatore,TAMIL NADU,2025-01-30,SMB,2026-08-26 00:23:00
+C10454,  pooja menon ,pooja.menon454@example.in,9393337,Hyderabad,Telangana,2025-13-40,Retail,2026-08-13 00:58:00
+C10468,Kabir Desai,kabir.desai468@example.in,9144318882,Vadodara,gujarat,17/12/2025,SMB,2026-08-13 09:36:00
+C10944,  ananya pawar ,ANANYA.PAWAR944@EXAMPLE.IN,9468424160,Pune,MH,18-May-2025,Retail,2026-08-25 15:08:00
+C10292,Tanvi Iyer,tanvi.iyer292@example.in,9964247136,Bengaluru,Karnataka,08-Apr-2026,SMB,2026-08-08 21:04:00
+C10316,Akash Verma,akash.verma316@example.in,9180718871,Pune,Maharashtra,2024-08-09,Retail,2026-08-09 11:52:00
+C10602,  manish verma ,manish.verma602@example.in,9382907069,Pune,Maharashtra,09/11/2024,Retail,2026-08-16 20:14:00
+C10391,Siddharth Singh,siddharth.singh391@example.in,9560646002,Pune,Maharashtra,2025-08-25,Retail,2026-08-11 10:07:00
+C10117,Rutuja Singh,RUTUJA.SINGH117@EXAMPLE.IN,+91 99630 75418,Hyderabad,TS,2026-06-18,Enterprise,2026-08-04 09:09:00
+C10701,Swati Pawar,swati.pawar701@example.in,9091595686,VADODARA ,GUJARAT,16-May-2024,SMB,2026-08-19 09:17:00
+C10118,  rahul reddy ,RAHUL.REDDY118@EXAMPLE.IN,9729094465,Mumbai,maharashtra,01-Jan-2026,Enterprise,2026-08-04 09:46:00
+C10081,Kavya Desai,kavya.desai81@example.in,9790392551,New Delhi,Delhi,2025-11-03,SMB,2026-08-03 10:57:00
+C10929,Pooja Rao,pooja.rao929@example.in,9157482672,Warangal,Telangana,2025-12-02,Retail,2026-08-25 05:53:00
+C10259,Shruti Pillai,shruti.pillai259@example.in,9585073364,Madurai,tamil nadu,23/09/2024,Retail,2026-08-08 00:43:00
+C10928,Sakshi Menon,sakshi.menon928@example.in,9834080615,Pune,Maharashtra,01/05/2024,Retail,2026-10-17 20:53:00
+C10812,Ketan Menon,ketan.menon812@example.in,9091064893,Kolhapur,maharashtra,2024-02-26,SMB,2026-08-22 05:44:00
+C10220,  arjun joshi ,arjun.joshi220@example.in,+91 94422 99282,Hyderabad,Telangana,08-May-2026,Retail,2026-08-07 00:40:00
+C10606,Priya Shah,priya.shah606@example.in,9317679042,Chennai,TAMIL NADU,20-Feb-2024,SMB,2026-08-16 22:42:00
+C10057,Pallavi Iyer,pallavi.iyer57@example.in,9698161,Bengaluru,Karnataka,08-Feb-2024,Retail,2026-08-02 20:09:00
+C11000,Meera Desai,meera.desai1000@example.in,9072283193,Mumbai,MH,21-Apr-2024,SMB,2026-08-27 01:40:00
+C10058,Sakshi Bhat,sakshi.bhat58@example.in,+91 99026 43474,Madurai,TN,2025-11-04,Enterprise,2026-08-02 20:46:00
+C10861,Aditya Menon,aditya.menon861@example.in,9557780901,Bengaluru,Karnataka,15/06/2025,Retail,2026-10-16 00:08:00
+C10754,Tejas Mehta,tejas.mehta754@example.in,9023593293,Madurai,Tamil Nadu,2025-05-22,Enterprise,2026-08-20 17:58:00
+C10547,Priya Patil,,9012406569,Bengaluru,karnataka,31-Mar-2024,Retail,2026-08-15 10:19:00
+C10927,Rahul Bhat,RAHUL.BHAT927@EXAMPLE.IN,+91 95635 25738,Ahmedabad,Gujarat,16/12/2024,SMB,2026-08-25 04:39:00
+C10583,Kabir Bhat,kabir.bhat583@example.in,9670146374,New Delhi,Delhi,2025-01-02,SMB,2026-08-16 08:31:00
+C10776,Ganesh Verma,ganesh.verma776@example.in,9273862443,Ahmedabad,GJ,10-Dec-2024,Retail,2026-08-21 07:32:00
+C10026,  rahul shah ,rahul.shah26@example.in,9953236592,Kolhapur,MH,2025-02-02,Retail,2026-08-02 01:02:00
+C10592,Omkar Rao,omkar.rao592@example.in,+91 92785 40519,Madurai,TN,2025-13-40,Enterprise,2026-08-16 14:04:00
+C10774,Ketan Sharma,ketan.sharma774@example.in,9437724356,Chennai,TN,05-Jun-2024,Enterprise,2026-08-21 06:18:00
+C10196,  kiran jadhav ,kiran.jadhav196@example.in,9322157251,Vadodara,gujarat,28-Jan-2025,Retail,2026-08-06 09:52:00
+C10608,Tanvi Iyer,tanvi.iyer608@example.in,9990055169,Coimbatore,TAMIL NADU,23/02/2024,Retail,2026-08-16 23:56:00
+C10678,Manish Kulkarni,manish.kulkarni678@example.in,9721059491,Hyderabad,telangana,2024-01-21,Retail,2026-08-18 19:06:00
+C10448,  ganesh jadhav ,ganesh.jadhav448@example.in,9693569808,Nagpur,Maharashtra,17/06/2024,Retail,2026-08-12 21:16:00
+C10945,Tejas Desai,tejas.desai945@example.in,9480297662,Mangaluru,KA,2025-01-04,Retail,2026-08-25 15:45:00
+C10325,Harsh Sharma,harsh.sharma325@example.in,9680684567,Vadodara,gujarat,08-May-2026,Retail,2026-08-09 17:25:00
+C10350,  mrunal joshi ,mrunal.joshi350@example.in,9681383364,Nashik,Maharashtra,21/09/2025,SMB,2026-10-17 14:44:00
+C10599,Sameer Menon,sameer.menon599@example.in,9706535933,Pune,MAHARASHTRA,2026-03-24,Retail,2026-08-16 18:23:00
+C10688,Pranav Bhat,pranav.bhat688@example.in,9060429415,Coimbatore,TAMIL NADU,2025-11-26,SMB,2026-08-19 01:16:00
+C10356,Rutuja Patil,rutuja.patil356@example.in,9500210088,Bengaluru,karnataka,02-Oct-2025,Enterprise,2026-08-10 12:32:00
+C10289,  komal mehta ,komal.mehta289@example.in,9049493306,New Delhi,DELHI,09/02/2025,Enterprise,2026-08-08 19:13:00
+C10305,Ketan Mehta,ketan.mehta305@example.in,9356732344,New Delhi,DELHI,2025-08-10,Enterprise,2026-08-09 05:05:00
+C10698,Lakshmi Pawar,lakshmi.pawar698@example.in,9189705495,Madurai,Tamil Nadu,2024-02-17,Retail,2026-08-19 07:26:00
+C10112,  omkar desai ,omkar.desai112@example.in,9008122527,WARANGAL ,TS,2025-04-27,Retail,2026-08-04 06:04:00
+C10135,Nisha Jadhav,nisha.jadhav135@example.in,9789483351,Ahmedabad,Gujarat,03-Jun-2026,SMB,2026-10-18 16:19:00
+C10016,Anjali Bhat,anjali.bhat16@example.in,9279291540,Hyderabad,telangana,23-Jul-2024,SMB,2026-08-01 18:52:00
+C10272,Nisha Desai,nisha.desai272@example.in,9035269291,New Delhi,DELHI,12-Dec-2025,SMB,2026-08-08 08:44:00
+C10097,Komal Desai,komal.desai97@example.in,9393190766,KOLHAPUR ,MAHARASHTRA,08/04/2026,SMB,2026-08-03 20:49:00
+C10037,Nikhil Patil,,9354809561,Mumbai,MAHARASHTRA,23/10/2025,SMB,2026-08-02 07:49:00
+C10063,Aarav Pawar,aarav.pawar63@example.in,9040272065,Warangal,TELANGANA,25-Mar-2026,Retail,2026-08-02 23:51:00
+C10585,Manish Pillai,manish.pillai585@example.in,9518159559,Bengaluru,KARNATAKA,2024-06-28,Retail,2026-08-16 09:45:00
+C10020,Neha Reddy,neha.reddy20@example.in,+91 94825 34007,Mysuru,KARNATAKA,2024-05-29,Retail,2026-08-01 21:20:00
+C10253,Manish Sharma,manish.sharma253@example.in,9160799255,Warangal,TS,12-Mar-2026,SMB,2026-08-07 21:01:00
+C10956,Amit Mehta,amit.mehta956@example.in,9769238936,Surat,gujarat,02/11/2025,SMB,2026-08-25 22:32:00
+C10009,Komal Reddy,komal.reddy9@example.in,9805463982,Vadodara,Gujarat,01-Apr-2026,SMB,2026-08-01 14:33:00
+C10557,Sneha Desai,sneha.desai557@example.in,9894088414,Madurai,TN,04/12/2025,SMB,2026-08-15 16:29:00
+C10591,Deepa Nair,deepa.nair591@example.in,9992832140,Bengaluru,Karnataka,10-Jul-2024,Retail,2026-08-16 13:27:00
+C10461,Komal Nair,komal.nair461@example.in,9919450448,Pune,maharashtra,2024-12-25,Retail,2026-08-13 05:17:00
+C10663,Sneha Chavan,sneha.chavan663@example.in,+91 93133 86892,Nashik,maharashtra,11-Jul-2025,SMB,2026-08-18 09:51:00
+C10910,Nikhil Pawar,nikhil.pawar910@example.in,9423118471,Coimbatore,tamil nadu,05/05/2024,Retail,2026-08-24 18:10:00
+C10371,Kiran Reddy,kiran.reddy371@example.in,9923111379,Chennai,Tamil Nadu,2024-11-23,Retail,2026-08-10 21:47:00
+C10863,Mrunal Desai,mrunal.desai863@example.in,9401062600,Mumbai,Maharashtra,2026-03-05,Retail,2026-08-23 13:11:00
+C10661,Anjali Chavan,anjali.chavan661@example.in,9920911537,Warangal,telangana,23/08/2025,Retail,2026-08-18 08:37:00
+C10605,Lakshmi Kulkarni,lakshmi.kulkarni605@example.in,9460308447,Bengaluru,KA,31/03/2025,Enterprise,2026-08-16 22:05:00
+C10390,Nisha Gupta,nisha.gupta390@example.in,+91 94294 67680,Pune,Maharashtra,01-Jun-2024,Retail,2026-08-11 09:30:00
+C10348,Nisha Shah,nisha.shah348@example.in,9331053914,Mumbai,Maharashtra,12-Jan-2024,Enterprise,2026-08-10 07:36:00
+C10164,Varun Desai,varun.desai164@example.in,+91 92229 79182,Madurai,Tamil Nadu,08-Feb-2025,SMB,2026-08-05 14:08:00
+C10423,  sameer gupta ,sameer.gupta423@example.in,9575094170,Mysuru,KA,2025-05-02,Retail,2026-08-12 05:51:00
+C10556,Harsh Mehta,harsh.mehta556@example.in,+91 90156 99167,Hyderabad,Telangana,2025-10-06,Enterprise,2026-08-15 15:52:00
+C10704,Tejas Shah,tejas.shah704@example.in,9748481660,New Delhi,delhi,06/01/2025,Retail,2026-08-19 11:08:00
+C10437,Riya Mehta,riya.mehta437@example.in,9590826072,Kolhapur,MAHARASHTRA,2026-04-08,SMB,2026-08-12 14:29:00
+C10917,Siddharth Rao,siddharth.rao917@example.in,9316687000,Nagpur,Maharashtra,16/04/2025,SMB,2026-08-24 22:29:00
+C10160,Varun Joshi,varun.joshi160@example.in,9892114569,New Delhi,DELHI,15/01/2026,Retail,2026-08-05 11:40:00
+C10779,Shruti Singh,shruti.singh779@example.in,9641387761,New Delhi,delhi,21/04/2025,Enterprise,2026-08-21 09:23:00
+C10533,Harsh Reddy,harsh.reddy533@example.in,9971971810,Mangaluru,karnataka,2026-04-30,Enterprise,2026-08-15 01:41:00
+C10848,Shruti Iyer,shruti.iyer848@example.in,9476504,HYDERABAD ,Telangana,08/04/2024,SMB,2026-08-23 03:56:00
+C10486,Akash Joshi,akash.joshi486@example.in,9314124196,Nagpur,MH,2026-06-07,Retail,2026-08-13 20:42:00
+C10589,Sameer Joshi,sameer.joshi589@example.in,9983617045,Nashik,maharashtra,10/04/2026,Retail,2026-08-16 12:13:00
+C10851,  aarav mehta ,aarav.mehta851@example.in,9135649757,Mangaluru,karnataka,30/06/2024,Retail,2026-08-23 05:47:00
+C10306,Lakshmi Singh,lakshmi.singh306@example.in,9007197,Hyderabad,TS,2024-04-25,SMB,2026-08-09 05:42:00
+C10647,Kabir Jadhav,kabir.jadhav647@example.in,9086834296,Warangal,Telangana,07-Dec-2025,SMB,2026-08-17 23:59:00
+C10169,  rutuja menon ,rutuja.menon169@example.in,9675853364,Vadodara,Gujarat,08-Dec-2025,SMB,2026-08-05 17:13:00
+C10042,Swati Sharma,swati.sharma42@example.in,9676550271,Ahmedabad,Gujarat,2025-10-23,SMB,2026-08-02 10:54:00
+C10892,Omkar Pawar,omkar.pawar892@example.in,9668062474,Surat,GUJARAT,07-Jan-2025,SMB,2026-08-24 07:04:00
+C10363,Kiran Menon,kiran.menon363@example.in,+91 95251 87105,Warangal,TELANGANA,10/03/2024,Retail,2026-08-10 16:51:00
+C10326,Sakshi Sharma,sakshi.sharma326@example.in,9288213493,Kolhapur,MAHARASHTRA,N/A,SMB,2026-08-09 18:02:00
+C10338,Nisha Jadhav,nisha.jadhav338@example.in,9495530797,Coimbatore,Tamil Nadu,02/10/2024,Retail,2026-08-10 01:26:00
+C10043,Omkar Joshi,omkar.joshi43@example.in,9173292139,Mumbai,maharashtra,18/11/2024,Retail,2026-08-02 11:31:00
+C10327,Omkar Reddy,omkar.reddy327@example.in,9000809329,Coimbatore,Tamil Nadu,2024-04-29,Retail,2026-08-09 18:39:00
+C10702,Nisha Pillai,nisha.pillai702@example.in,9903310197,Kolhapur,MH,12/05/2024,Retail,2026-08-19 09:54:00
+C10398,Lakshmi Rao,lakshmi.rao398@example.in,9596713331,Mumbai,Maharashtra,08/12/2025,Retail,2026-08-11 14:26:00
+C10291,  ganesh jadhav ,ganesh.jadhav291@example.in,9150685836,Coimbatore,Tamil Nadu,19/09/2024,SMB,2026-08-08 20:27:00
+C10381,Varun Shah,varun.shah381@example.in,+91 91462 85197,Bengaluru,KARNATAKA,17/03/2024,Enterprise,2026-08-11 03:57:00
+C10110,Ananya Rao,ananya.rao110@example.in,9322818521,Hyderabad,Telangana,2024-01-30,SMB,2026-08-04 04:50:00
+C10015,Rahul Menon,rahul.menon15@example.in,9160893498,Chennai,TN,03-Feb-2024,SMB,2026-08-01 18:15:00
+C10780,Priya Chavan,priya.chavan780@example.in,9229130712,NASHIK ,MH,19-May-2024,Retail,2026-08-21 10:00:00
+C10969,Meera Gupta,meera.gupta969@example.in,9655845854,Mangaluru,Karnataka,02-Jun-2026,Retail,2026-08-26 06:33:00
+C10737,Shruti Gupta,shruti.gupta737@example.in,9975741945,Madurai,Tamil Nadu,2026-01-24,Retail,2026-08-20 07:29:00
+C10832,Pranav Chavan,pranav.chavan832@example.in,9485321255,Mangaluru,KARNATAKA,2025-01-02,Retail,2026-08-22 18:04:00
+C10823,Tejas Gupta,tejas.gupta823@example.in,9673775520,Pune,Maharashtra,2026-02-01,SMB,2026-08-22 12:31:00
+C10950,Rutuja Pawar,rutuja.pawar950@example.in,9913758639,Mangaluru,KARNATAKA,22-May-2026,Retail,2026-08-25 18:50:00
+C10942,Aarav Rao,aarav.rao942@example.in,9533859800,Chennai,Tamil Nadu,2025-12-31,Retail,2026-08-25 13:54:00
+C10074,Ananya Singh,ananya.singh74@example.in,9350352551,Mangaluru,Karnataka,18/04/2024,Retail,2026-08-03 06:38:00
+C10314,Meera Pawar,meera.pawar314@example.in,9474671851,Mysuru,karnataka,02-Nov-2024,SMB,2026-08-09 10:38:00
+C10123,Sahil Verma,,9810573992,Pune,Maharashtra,30/11/2024,Enterprise,2026-08-04 12:51:00
+C10155,Sakshi Nair,sakshi.nair155@example.in,+91 92605 47318,New Delhi,Delhi,09-Apr-2024,SMB,2026-08-05 08:35:00
+C10186,Kunal Singh,kunal.singh186@example.in,9921102393,Chennai,tamil nadu,13-Mar-2025,SMB,2026-08-06 03:42:00
+C10246,Rohan Menon,ROHAN.MENON246@EXAMPLE.IN,9481982324,Warangal,Telangana,03-May-2025,SMB,2026-08-07 16:42:00
+C10047,Rohan Shah,rohan.shah47@example.in,9637864324,Madurai,Tamil Nadu,08/08/2024,SMB,2026-08-02 13:59:00
+C10235,Tanvi Chavan,tanvi.chavan235@example.in,9416167912,Madurai,TN,18-Feb-2026,SMB,2026-08-07 09:55:00
+C10308,Suresh Bhat,suresh.bhat308@example,9013379626,Nagpur,Maharashtra,26/05/2026,Retail,2026-08-09 06:56:00
+C10667,Yash Mehta,yash.mehta667@example.in,9595210633,Chennai,tamil nadu,2024-08-07,Retail,2026-08-18 12:19:00
+C10951,Rohan Chavan,rohan.chavan951example.in,9031285615,Mumbai,Maharashtra,21-Dec-2025,Retail,2026-08-25 19:27:00
+C10759,Diya Sharma,diya.sharma759@example.in,9347436041,Ahmedabad,Gujarat,26/05/2024,Retail,2026-08-20 21:03:00
+C10062,Pallavi Menon,pallavi.menon62@example.in,9440812061,MYSURU ,Karnataka,2025-10-05,SMB,2026-08-02 23:14:00
+C10968,Swati Menon,swati.menon968@example.in,9197486503,Kolhapur,MAHARASHTRA,2025-06-18,Retail,2026-08-26 05:56:00
+C10988,Deepa Chavan,deepa.chavan988@example.in,9519764752,Mysuru,karnataka,08/05/2024,Enterprise,2026-08-26 18:16:00
+C10388,Manish Iyer,MANISH.IYER388@EXAMPLE.IN,9932320,Coimbatore,TAMIL NADU,30/11/2024,Retail,2026-08-11 08:16:00
+C10166,  pooja bhat ,pooja.bhat166@example.in,9667000588,Coimbatore,TN,2026-01-22,Retail,2026-08-05 15:22:00
+C10359,Mrunal Pawar,MRUNAL.PAWAR359@EXAMPLE.IN,9441667209,Madurai,TAMIL NADU,13/12/2024,Retail,2026-08-10 14:23:00
+C10221,Akash Singh,akash.singh221@example.in,9904048648,Mangaluru,KA,01-Jan-2025,SMB,2026-08-07 01:17:00
+C10630,Pooja Verma,pooja.verma630@example.in,9029544,Coimbatore,Tamil Nadu,2026-01-14,Retail,2026-08-17 13:30:00
+C10293,Riya Joshi,riya.joshi293@example.in,9042416521,New Delhi,DELHI,14/02/2025,Enterprise,2026-08-08 21:41:00
+C10224,  akash iyer ,akash.iyer224@example.in,9732491405,Kolhapur,MAHARASHTRA,2025-04-21,Enterprise,2026-08-07 03:08:00
+C10352,Tanvi Shah,tanvi.shah352@example.in,+91 97832 39637,Nashik,Maharashtra,02/03/2024,Retail,2026-08-10 10:04:00
+C10933,  komal chavan ,komal.chavan933@example.in,9204358871,Mangaluru,KA,05/04/2025,SMB,2026-08-25 08:21:00
+C10101,  sahil jadhav ,sahil.jadhav101@example.in,9364652665,Hyderabad,telangana,07/11/2025,Retail,2026-08-03 23:17:00
+C10459,  gauri pawar ,gauri.pawar459@example.in,9977762724,Chennai,TAMIL NADU,14/06/2026,Retail,2026-08-13 04:03:00
+C10793,Kavya Bhat,kavya.bhat793@example.in,9048419278,Vadodara,GJ,12-Jan-2025,SMB,2026-08-21 18:01:00
+C10516,Lakshmi Chavan,lakshmi.chavan516@example.in,9056296541,Nagpur,MH,01/08/2024,Retail,2026-08-14 15:12:00
+C10581,Pallavi Mehta,pallavi.mehta581@example.in,+91 99870 84226,Ahmedabad,GJ,2025-09-17,Retail,2026-08-16 07:17:00
+C10829,Suresh Desai,suresh.desai829@example.in,9341821527,Hyderabad,Telangana,2025-09-30,Retail,2026-08-22 16:13:00
+C10894,  nisha pillai ,nisha.pillai894@example.in,9925517527,Mangaluru,Karnataka,12/02/2025,Retail,2026-08-24 08:18:00
+C10422,Riya Joshi,riya.joshi422example.in,9996988300,Surat,GJ,2025-07-26,Retail,2026-08-12 05:14:00
+C10369,Pallavi Verma,pallavi.verma369@example.in,9794230674,Bengaluru,Karnataka,06-Aug-2024,SMB,2026-08-10 20:33:00
+C10934,Tejas Reddy,tejas.reddy934@example.in,9860922726,Madurai,TAMIL NADU,06/05/2026,Retail,2026-08-25 08:58:00
+C10908,Pranav Shah,pranav.shah908@example.in,9827081339,Kolhapur,MAHARASHTRA,15/09/2025,Retail,2026-08-24 16:56:00
+C10476,Lakshmi Jadhav,lakshmi.jadhav476@example.in,9617890406,New Delhi,Delhi,14-Feb-2026,SMB,2026-08-13 14:32:00
+C10231,Kavya Singh,kavya.singh231@example.in,9340728389,Hyderabad,telangana,01-Mar-2026,Retail,2026-08-07 07:27:00
+C10627,Sameer Mehta,sameer.mehta627@example.in,9801119160,Nashik,MH,2024-06-22,SMB,2026-08-17 11:39:00
+C10093,Riya Iyer,riya.iyer93@example.in,9632499199,Vadodara,Gujarat,28-Nov-2025,Retail,2026-08-03 18:21:00
+C10460,Vivaan Gupta,vivaan.gupta460@example.in,9945405512,Hyderabad,TELANGANA,12-Jun-2024,Enterprise,2026-08-13 04:40:00
+C10322,Rahul Pillai,rahul.pillai322@example.in,9434004158,Nashik,MAHARASHTRA,2025-12-15,Retail,2026-08-09 15:34:00
+C10199,Ketan Singh,ketan.singh199@example.in,9116064621,PUNE ,maharashtra,09/05/2024,Retail,2026-08-06 11:43:00
+C10223,Neha Kulkarni,neha.kulkarni223@example.in,+91 95634 88799,Chennai,Tamil Nadu,11/10/2025,SMB,2026-08-07 02:31:00
+C10905,Manish Menon,MANISH.MENON905@EXAMPLE.IN,9542061925,Pune,MAHARASHTRA,2026-03-23,SMB,2026-08-24 15:05:00
+C10373,Shruti Shah,SHRUTI.SHAH373@EXAMPLE.IN,9081226243,Nashik,Maharashtra,09/05/2025,Retail,2026-10-17 09:10:00
+C10558,Akash Singh,akash.singh558@example.in,9277089123,New Delhi,Delhi,24-Nov-2025,SMB,2026-08-15 17:06:00
+C10417,Rahul Menon,rahul.menon417@example.in,9337075219,Nagpur,Maharashtra,02-Feb-2025,SMB,2026-08-12 02:09:00
+C10835,Ketan Patil,ketan.patil835@example.in,9664968844,Vadodara,Gujarat,30/03/2024,Retail,2026-08-22 19:55:00
+C10438,Sahil Pawar,not available,9231776917,Ahmedabad,GJ,06-Nov-2024,SMB,2026-08-12 15:06:00
+C10847,Tejas Patil,tejas.patil847@example.in,9478432335,Pune,Maharashtra,2024-05-06,SMB,2026-08-23 03:19:00
+C10415,Sahil Chavan,sahil.chavan415@example.in,9462850273,Warangal,Telangana,26-May-2025,SMB,2026-08-12 00:55:00
+C10963,  akash reddy ,akash.reddy963@example.in,9490754701,Mumbai,Maharashtra,2024-06-03,SMB,2026-08-26 02:51:00
+C10760,Manish Patil,not available,9632669785,Warangal,telangana,08/06/2024,Enterprise,2026-08-20 21:40:00
+C10479,Komal Desai,komal.desai479@example.in,9114813587,Warangal,Telangana,05-Feb-2024,Retail,2026-10-18 08:24:00
+C10111,Neha Mehta,neha.mehta111@example.in,9802243279,Mumbai,MAHARASHTRA,27/11/2025,Retail,2026-08-04 05:27:00
+C10382,Ananya Patil,ananya.patil382@example.in,9396059442,Coimbatore,Tamil Nadu,2025-02-08,Retail,2026-08-11 04:34:00
+C10202,Suresh Menon,suresh.menon202@example.in,9726295990,Vadodara,gujarat,24/07/2025,Retail,2026-08-06 13:34:00
+C10249,Priya Bhat,priya.bhat249@example.in,9912277079,Mangaluru,KA,20/02/2024,Retail,2026-08-07 18:33:00
+C10041,Rutuja Desai,rutuja.desai41@example.in,9468208209,Nashik,maharashtra,2024-04-08,Retail,2026-08-02 10:17:00
+C10674,Ananya Joshi,ananya.joshi674@example.in,9882275440,Warangal,Telangana,21/04/2026,Retail,2026-08-18 16:38:00
+C10826,Sneha Menon,sneha.menon826@example.in,9233816161,Coimbatore,TN,11/10/2025,Enterprise,2026-08-22 14:22:00
+C10578,Ananya Gupta,ananya.gupta578@example.in,9964925312,Nashik,MH,2024-07-27,SMB,2026-08-16 05:26:00
+C10928,Sakshi Menon,sakshi.menon928@example.in,9834080615,Bengaluru,Karnataka,01/05/2024,Retail,2026-08-25 05:16:00
+C10462,Kabir Shah,,9102622232,Nashik,Maharashtra,20/07/2025,Retail,2026-08-13 05:54:00
+C10833,Kavya Joshi,kavya.joshi833@example.in,9692819864,Hyderabad,TS,2026-05-05,SMB,2026-08-22 18:41:00
+C10301,Priya Desai,priya.desai301@example.in,+91 99858 61730,Vadodara,GUJARAT,2025-11-25,SMB,2026-08-09 02:37:00
+C10400,Aarav Jadhav,aarav.jadhav400@example.in,9437068678,Hyderabad,Telangana,31/02/2025,Retail,2026-08-11 15:40:00
+C10889,  pranav nair ,pranav.nair889@example.in,9724603981,Pune,MH,2026-01-12,SMB,2026-08-24 05:13:00
+C10514,Divya Sharma,divya.sharma514@example.in,9255177968,Mangaluru,KARNATAKA,01/06/2026,Retail,2026-08-14 13:58:00
+C10930,Ganesh Reddy,ganesh.reddy930@example.in,9196425216,New Delhi,delhi,15-Jan-2025,Retail,2026-08-25 06:30:00
+C10219,Akash Patil,akash.patil219@example.in,9029772575,Kolhapur,maharashtra,25-Jul-2024,Retail,2026-08-07 00:03:00
+C10786,Sameer Sharma,sameer.sharma786@example.in,9062119679,Mumbai,MH,10-Jul-2024,Retail,2026-08-21 13:42:00
+C10600,  siddharth rao ,siddharth.rao600@example.in,9623785781,MADURAI ,Tamil Nadu,2024-08-20,Retail,2026-08-16 19:00:00
+C10924,Ketan Chavan,ketan.chavan924@example.in,9324627773,Bengaluru,KARNATAKA,17-May-2026,Retail,2026-08-25 02:48:00
+C10625,Sameer Pawar,SAMEER.PAWAR625@EXAMPLE.IN,9957596694,Chennai,TAMIL NADU,06-Feb-2025,SMB,2026-08-17 10:25:00
+C10114,Rahul Iyer,rahul.iyer114@example.in,9894539783,Vadodara,GUJARAT,2024-07-23,Retail,2026-08-04 07:18:00
+C10666,Harsh Mehta,harsh.mehta666@example.in,9009161624,Vadodara,Gujarat,2026-01-06,SMB,2026-08-18 11:42:00
+C10241,Pooja Shah,pooja.shah241@example.in,9433655123,Mumbai,Maharashtra,14-Jan-2025,Enterprise,2026-08-07 13:37:00
+C10991,  harsh desai ,harsh.desai991@example.in,9958342031,NEW DELHI ,DL,27-Mar-2026,Enterprise,2026-08-26 20:07:00
+C10615,Aarav Mehta,aarav.mehta615@example.in,9272043314,SURAT ,Gujarat,2026-06-18,Retail,2026-08-17 04:15:00
+C10304,Amit Gupta,amit.gupta304@example.in,+91 91940 18404,Vadodara,Gujarat,31/02/2025,SMB,2026-08-09 04:28:00
+C10897,Pranav Desai,pranav.desai897@example.in,9113796902,NAGPUR ,maharashtra,30-May-2026,Retail,2026-08-24 10:09:00
+C10812,Ketan Menon,ketan.menon812@example.in,9091064893,Coimbatore,Tamil Nadu,2024-02-26,SMB,2026-10-18 04:49:00
+C10908,Pranav Shah,pranav.shah908@example.in,9827081339,Kolhapur,MAHARASHTRA,15/09/2025,Retail,2026-08-24 16:56:00
+C10004,Yash Reddy,yash.reddy4@example.in,9956664961,New Delhi,DL,14-Apr-2026,SMB,2026-08-01 11:28:00
+C10261,Nisha Desai,nisha.desai261@example.in,9210398781,Madurai,Tamil Nadu,19/04/2025,SMB,2026-08-08 01:57:00
+C10555,Pallavi Desai,pallavi.desai555@example.in,9732765917,KOLHAPUR ,maharashtra,2024-06-19,Retail,2026-08-15 15:15:00
+C10197,  aarav kulkarni ,aarav.kulkarni197@example.in,9245756488,Mysuru,KA,2024-03-20,Retail,2026-08-06 10:29:00
+C10867,Kabir Menon,kabir.menon867@example.in,9796961117,Chennai,tamil nadu,31-Oct-2025,Retail,2026-08-23 15:39:00
+C10663,Sneha Chavan,sneha.chavan663@example.in,+91 93133 86892,Mangaluru,Karnataka,11-Jul-2025,Enterprise,2026-10-15 22:41:00
+C10584,Arun Menon,arun.menon584@example.in,9181748993,Vadodara,Gujarat,2024-03-23,Retail,2026-08-16 09:08:00
+C10078,Kiran Menon,kiran.menon78@example.in,9348968265,Chennai,Tamil Nadu,21/06/2024,SMB,2026-08-03 09:06:00
+C10610,Pranav Gupta,pranav.gupta610@example.in,9101945809,Vadodara,Gujarat,07/02/2026,Retail,2026-10-16 06:29:00
+C10343,  shruti iyer ,not available,9850372454,Mysuru,karnataka,21/05/2025,Retail,2026-08-10 04:31:00
+C10497,Vivaan Menon,vivaan.menon497@example.in,9617949989,Madurai,Tamil Nadu,09/04/2026,SMB,2026-08-14 03:29:00
+C10474,Sneha Joshi,sneha.joshi474@example.in,9246250518,Mangaluru,KA,21/03/2026,SMB,2026-08-13 13:18:00
+C10152,Ganesh Pillai,ganesh.pillai152@example.in,9550089936,Bengaluru,Karnataka,12/12/2024,Retail,2026-10-16 02:13:00
+C10850,Yash Mehta,yash.mehta850@example.in,9723381740,Nashik,maharashtra,05-Sep-2025,SMB,2026-08-23 05:10:00
+C10172,Priya Mehta,priya.mehta172@example.in,9797889,Surat,gujarat,2026-06-03,Retail,2026-08-05 19:04:00
+C10491,Varun Menon,VARUN.MENON491@EXAMPLE.IN,9321223604,Nashik,maharashtra,N/A,SMB,2026-08-13 23:47:00
+C10676,Arjun Pawar,arjun.pawar676@example.in,9945341759,Chennai,TAMIL NADU,2025-06-09,SMB,2026-08-18 17:52:00
+C10242,Aarav Mehta,aarav.mehta242@example.in,9949082856,Kolhapur,MH,2024-02-26,Enterprise,2026-08-07 14:14:00
+C10156,Suresh Nair,suresh.nair156@example.in,+91 90724 96794,Warangal,TELANGANA,2024-04-25,Retail,2026-08-05 09:12:00
+C10632,Pranav Pillai,pranav.pillai632@example.in,+91 91325 19667,Bengaluru,KA,2025-04-28,Retail,2026-08-17 14:44:00
+C10149,Meera Patil,meera.patil149@example.in,9808399002,Ahmedabad,GJ,2026-02-04,SMB,2026-08-05 04:53:00
+C10014,Riya Mehta,riya.mehta14@example.in,9949671058,Warangal,TELANGANA,04/04/2026,SMB,2026-08-01 17:38:00
+C10902,  siddharth rao ,SIDDHARTH.RAO902EXAMPLE.IN,9210494789,Mangaluru,karnataka,12/12/2025,Enterprise,2026-08-24 13:14:00
+C10183,Akash Bhat,akash.bhat183@example.in,9375891571,Mangaluru,KARNATAKA,2024-04-21,Retail,2026-08-06 01:51:00
+C10947,Pranav Singh,pranav.singh947@example.in,9490215144,Madurai,tamil nadu,07/07/2025,SMB,2026-08-25 16:59:00
+C10755,  sahil joshi ,sahil.joshi755example.in,9667510953,Pune,MH,27/10/2025,SMB,2026-08-20 18:35:00
+C10952,Gauri Nair,gauri.nair952@example.in,9265063840,Pune,maharashtra,26/11/2024,SMB,2026-08-25 20:04:00
+C10453,Kabir Patil,kabir.patil453@example.in,9060087877,Chennai,Tamil Nadu,2024-04-25,Retail,2026-08-13 00:21:00
+C10473,  aditya verma ,ADITYA.VERMA473@EXAMPLE.IN,9305197509,Coimbatore,Tamil Nadu,08/07/2024,Retail,2026-08-13 12:41:00
+C10875,Rohan Menon,not available,+91 92490 02485,Mysuru,Karnataka,2025-10-09,SMB,2026-10-16 02:21:00
+C10655,Kavya Joshi,KAVYA.JOSHI655@EXAMPLE.IN,9286601970,NAGPUR ,Maharashtra,11-Mar-2025,SMB,2026-08-18 04:55:00
+C10366,Isha Kulkarni,isha.kulkarni366@example,9033624615,Madurai,TAMIL NADU,14/12/2024,SMB,2026-08-10 18:42:00
+C10294,Anjali Iyer,anjali.iyer294@example.in,9420119125,Mangaluru,Karnataka,21-Aug-2024,Retail,2026-08-08 22:18:00
+C10713,Vivaan Jadhav,vivaan.jadhav713@example.in,9918294888,Hyderabad,TS,14/06/2025,Retail,2026-08-19 16:41:00
+C10707,Ganesh Nair,ganesh.nair707@example.in,9219744321,New Delhi,Delhi,2025-08-26,Enterprise,2026-08-19 12:59:00
+C10636,Mrunal Rao,mrunal.rao636@example.in,9632866850,Mysuru,karnataka,2024-11-12,SMB,2026-08-17 17:12:00
+C10372,Omkar Verma,,9552309503,Mysuru,KARNATAKA,12/10/2025,Retail,2026-08-10 22:24:00
+C10484,Pallavi Menon,pallavi.menon484@example.in,9669302938,Mangaluru,Karnataka,2024-11-11,Enterprise,2026-08-13 19:28:00
+C10071,  kiran mehta ,kiran.mehta71@example.in,9192868844,Bengaluru,Karnataka,31/01/2024,SMB,2026-08-03 04:47:00
+ ,Walk-in Customer 11,,9286601970,NAGPUR ,Maharashtra,11-Mar-2025,SMB,2026-08-18 04:55:00
+C10611,Kunal Reddy,kunal.reddy611@example.in,9687946449,Nashik,maharashtra,23/02/2024,Retail,2026-08-17 01:47:00
+C10534,Ganesh Singh,ganesh.singh534@example.in,9363851757,MADURAI ,Tamil Nadu,26/01/2025,Enterprise,2026-08-15 02:18:00
+C10845,Sahil Reddy,sahil.reddy845@example.in,9414469228,Chennai,Tamil Nadu,2024-10-19,Enterprise,2026-08-23 02:05:00
+C10084,Tanvi Menon,tanvi.menon84@example.in,9023322541,New Delhi,DELHI,13-Feb-2025,Enterprise,2026-08-03 12:48:00
+C10485,Arjun Verma,arjun.verma485@example.in,9072363894,Kolhapur,MAHARASHTRA,26/01/2024,SMB,2026-08-13 20:05:00
+C10881,Harsh Desai,harsh.desai881@example.in,9206703325,Warangal,telangana,14/11/2024,Retail,2026-08-24 00:17:00
+C10537,Nikhil Mehta,nikhil.mehta537@example.in,9722937719,Surat,GJ,2025-02-26,Retail,2026-08-15 04:09:00
+C10013,Ketan Chavan,ketan.chavan13@example.in,9601076435,Hyderabad,Telangana,14/09/2024,Enterprise,2026-08-01 17:01:00
+C10283,Diya Desai,diya.desai283@example.in,9168030884,Bengaluru,karnataka,2024-01-02,Retail,2026-08-08 15:31:00
+C10139,Suresh Nair,suresh.nair139@example.in,9090787196,Warangal,telangana,18/01/2025,Retail,2026-08-04 22:43:00
+,Walk-in Customer 7,,9276853394,Ahmedabad,GUJARAT,13-Feb-2024,Retail,2026-08-09 19:16:00
+C10158,Sahil Menon,sahil.menon158@example.in,9671465941,Nagpur,MAHARASHTRA,2025-10-10,SMB,2026-08-05 10:26:00
+C10728,Komal Desai,komal.desai728@example.in,9488768450,Chennai,TAMIL NADU,31/02/2025,SMB,2026-08-20 01:56:00
+C10902,  siddharth rao ,SIDDHARTH.RAO902EXAMPLE.IN,9210494789,Mangaluru,karnataka,12/12/2025,Enterprise,2026-08-24 13:14:00
+C10548,Riya Sharma,riya.sharma548@example.in,9303799,MADURAI ,TAMIL NADU,12/02/2026,Retail,2026-08-15 10:56:00
+C10524,Aditya Kulkarni,aditya.kulkarni524@example.in,9750858795,Hyderabad,Telangana,17-Jan-2026,SMB,2026-08-14 20:08:00
+C10582,Swati Nair,swati.nair582@example.in,9020141212,Mysuru,KA,18/10/2024,Retail,2026-08-16 07:54:00
+C10972,Divya Chavan,divya.chavan972@example.in,+91 99078 41781,Nagpur,Maharashtra,2024-12-12,SMB,2026-08-26 08:24:00
+C10310,Komal Bhat,komal.bhat310@example.in,9407318035,Nagpur,MH,19-Dec-2025,Retail,2026-08-09 08:10:00
+C10783,Mrunal Bhat,mrunal.bhat783@example.in,9341125859,Surat,Gujarat,unknown,SMB,2026-08-21 11:51:00
+C10276,Siddharth Gupta,siddharth.gupta276@example.in,9833762245,Nagpur,MAHARASHTRA,29/10/2024,Retail,2026-08-08 11:12:00
+C10430,Arun Rao,arun.rao430@example.in,9149768048,Pune,MH,2024-03-28,Enterprise,2026-08-12 10:10:00
+C10340,Rohan Shah,rohan.shah340@example.in,9912785822,Ahmedabad,gujarat,18/06/2025,SMB,2026-08-10 02:40:00
+C10989,Ketan Singh,ketan.singh989@example.in,9086617073,Madurai,TN,29-Nov-2025,SMB,2026-08-26 18:53:00
+C10560,Rutuja Rao,rutuja.rao560@example.in,9457033957,Chennai,TN,16-Oct-2025,Retail,2026-08-15 18:20:00
+C10333,Ketan Desai,ketan.desai333@example.in,9184434633,Mumbai,MH,15/11/2025,Retail,2026-08-09 22:21:00
+C10030,Sahil Gupta,sahil.gupta30@example.in,9036671169,Mumbai,Maharashtra,2025-02-12,Enterprise,2026-08-02 03:30:00
+C10958,Isha Rao,isha.rao958@example.in,+91 93516 50787,Mangaluru,Karnataka,05/05/2024,Retail,2026-08-25 23:46:00
+C10213,Rahul Kulkarni,rahul.kulkarni213example.in,9069347420,Bengaluru,karnataka,2025-13-40,SMB,2026-08-06 20:21:00
+C10194,Varun Pawar,varun.pawar194@example,+91 93867 28154,Chennai,TAMIL NADU,11/01/2024,SMB,2026-08-06 08:38:00
+C10569,Tanvi Iyer,tanvi.iyer569@example.in,9261380342,Ahmedabad,GUJARAT,03-Oct-2024,Enterprise,2026-08-15 23:53:00
+C10405,Harsh Joshi,harsh.joshi405@example.in,9529980491,Surat,Gujarat,11/06/2024,Enterprise,2026-10-16 05:32:00
+C10981,Tejas Bhat,tejas.bhat981@example.in,+91 91001 93544,Coimbatore,TN,08-May-2026,Retail,2026-08-26 13:57:00
+C10716,Kavya Verma,kavya.verma716@example.in,+91 90886 37196,HYDERABAD ,Telangana,2024-08-29,Retail,2026-08-19 18:32:00
+C10028,Riya Chavan,riya.chavan28@example.in,9500989477,Madurai,TN,24-May-2025,SMB,2026-08-02 02:16:00
+C10421,  suresh gupta ,suresh.gupta421@example.in,9889191487,Vadodara,GUJARAT,2025-12-03,Retail,2026-08-12 04:37:00
+C10887,Gauri Iyer,gauri.iyer887@example.in,9801237985,Mangaluru,karnataka,2025-08-19,Enterprise,2026-08-24 03:59:00
+C10914,Harsh Verma,harsh.verma914@example.in,+91 93688 16877,Mangaluru,Karnataka,22-Mar-2025,Retail,2026-08-24 20:38:00
+ ,Walk-in Customer 14,,9380547,COIMBATORE ,Tamil Nadu,26/12/2024,SMB,2026-08-20 04:24:00
+C10278,Isha Sharma,isha.sharma278@example.in,9946271980,Vadodara,Gujarat,17-Jun-2026,SMB,2026-08-08 12:26:00
+C10998,Sneha Gupta,sneha.gupta998@example.in,9279116847,Mysuru,karnataka,2025-02-15,Retail,2026-08-27 00:26:00
+C10873,Komal Chavan,komal.chavan873@example.in,9004294767,NAGPUR ,MH,05/03/2024,Retail,2026-08-23 19:21:00
+C10498,Suresh Sharma,suresh.sharma498@example.in,9610337810,CHENNAI ,tamil nadu,24-May-2024,Retail,2026-08-14 04:06:00
+C10931,Aditya Patil,aditya.patil931@example.in,+91 97556 32004,Coimbatore,tamil nadu,05/08/2024,Retail,2026-08-25 07:07:00
+C10604,Riya Reddy,riya.reddy604@example.in,9961459622,Vadodara,gujarat,10/04/2026,Retail,2026-08-16 21:28:00
+C10505,Yash Gupta,yash.gupta505@example.in,+91 90432 86317,Nagpur,MH,10/01/2026,SMB,2026-08-14 08:25:00
+C10185,Ganesh Gupta,GANESH.GUPTA185@EXAMPLE.IN,9940800403,Ahmedabad,GJ,24-Feb-2025,Retail,2026-08-06 03:05:00
+C10638,Omkar Menon,omkar.menon638@example.in,9105697565,HYDERABAD ,TELANGANA,2026-01-16,Enterprise,2026-08-17 18:26:00
+C10841,  akash iyer ,akash.iyer841@example.in,9693806,Warangal,TS,29/06/2025,Retail,2026-08-22 23:37:00
+C10873,Komal Chavan,komal.chavan873@example.in,9004294767,NAGPUR ,MH,05/03/2024,Retail,2026-08-23 19:21:00
+C10787,Sneha Reddy,sneha.reddy787@example.in,9717915499,Coimbatore,TN,2024-11-09,Retail,2026-08-21 14:19:00
+C10611,Kunal Reddy,kunal.reddy611@example.in,9687946449,Bengaluru,Karnataka,23/02/2024,Retail,2026-10-16 06:36:00
+C10540,Riya Verma,riya.verma540@example.in,9587140080,MANGALURU ,KARNATAKA,27/03/2026,Retail,2026-08-15 06:00:00
+C10351,Nikhil Reddy,nikhil.reddy351@example.in,9626379598,Chennai,Tamil Nadu,20-Apr-2026,Retail,2026-08-10 09:27:00
+C10672,Anjali Pawar,anjali.pawar672@example.in,9915870225,Ahmedabad,GUJARAT,06-Jul-2025,SMB,2026-08-18 15:24:00
+C10872,Lakshmi Bhat,lakshmi.bhat872@example.in,9508246170,Madurai,Tamil Nadu,07/06/2025,Retail,2026-08-23 18:44:00
+C10132,Rohan Pillai,rohan.pillai132@example.in,+91 94708 60407,Mangaluru,Karnataka,2024-07-07,Retail,2026-08-04 18:24:00
+C10574,Divya Shah,divya.shah574example.in,9038005762,Warangal,TELANGANA,2025-04-25,Enterprise,2026-08-16 02:58:00
+C10260,Gauri Shah,gauri.shah260@example.in,9423770336,Mangaluru,karnataka,08/04/2024,SMB,2026-08-08 01:20:00
+C10364,Nisha Kulkarni,nisha.kulkarni364@example.in,9881306593,Vadodara,gujarat,2024-02-13,Retail,2026-08-10 17:28:00
+C10898,Deepa Bhat,deepa.bhat898@example.in,9133788438,Nagpur,MAHARASHTRA,2026-04-20,Retail,2026-08-24 10:46:00
+C10977,Aarav Jadhav,aarav.jadhav977@example.in,9530342490,Surat,Gujarat,10-Mar-2025,Retail,2026-08-26 11:29:00
+C10738,Kiran Mehta,kiran.mehta738@example.in,9999491813,PUNE ,MAHARASHTRA,22-Aug-2025,Retail,2026-08-20 08:06:00
+C10821,Sneha Chavan,,9280084228,Chennai,Tamil Nadu,16-Jun-2025,SMB,2026-08-22 11:17:00
+C10387,Ketan Bhat,ketan.bhat387@example.in,9906981126,Mangaluru,KA,19-Jan-2024,Retail,2026-08-11 07:39:00
+C10699,Kunal Pillai,KUNAL.PILLAI699@EXAMPLE.IN,+91 94830 86427,HYDERABAD ,TELANGANA,17/08/2025,Retail,2026-08-19 08:03:00
+C10240,Kabir Mehta,KABIR.MEHTA240@EXAMPLE.IN,9286037737,Nagpur,maharashtra,03/04/2026,Retail,2026-08-07 13:00:00
+C10553,Riya Menon,RIYA.MENON553@EXAMPLE.IN,9853413090,Mumbai,Maharashtra,31/02/2025,SMB,2026-08-15 14:01:00
+C10715,  pooja bhat ,pooja.bhat715@example.in,9342827573,Nagpur,Maharashtra,06/04/2026,Retail,2026-08-19 17:55:00
+C10673,Aarav Desai,aarav.desai673@example.in,9794707548,Madurai,Tamil Nadu,2024-10-07,Retail,2026-08-18 16:01:00
