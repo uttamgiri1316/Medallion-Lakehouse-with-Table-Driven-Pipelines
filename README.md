@@ -5,8 +5,6 @@
 | Item | Value |
 |---|---|
 | Full name | Uttam Rajeshwar Giri |
-| Employee ID | IN01806506 |
-| Email | uttamg.in@mouritech.com |
 | Fabric workspace | Uttam_Fabric_Assessment |
 | Lakehouse | LH_Assessment |
 | Pipeline | PL_Medallion |
